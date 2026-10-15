@@ -1,0 +1,3053 @@
+Country,Sport,athletes_sent,medals_won,gold_medals,participation_count,medal_rate,gold_ratio,cluster,high_performance
+Afghanistan,Athletics,22,0,0,7,0.0,0.0,0,0
+Afghanistan,Boxing,5,0,0,3,0.0,0.0,0,0
+Afghanistan,Football,11,0,0,1,0.0,0.0,0,0
+Afghanistan,Hockey,39,0,0,3,0.0,0.0,0,0
+Afghanistan,Judo,3,0,0,3,0.0,0.0,0,0
+Afghanistan,Taekwondo,4,2,0,2,0.5,0.0,1,1
+Afghanistan,Wrestling,42,0,0,7,0.0,0.0,0,0
+Albania,Athletics,12,0,0,7,0.0,0.0,0,0
+Albania,Cycling,1,0,0,1,0.0,0.0,0,0
+Albania,Judo,2,0,0,2,0.0,0.0,0,0
+Albania,Shooting,16,0,0,6,0.0,0.0,0,0
+Albania,Swimming,11,0,0,5,0.0,0.0,0,0
+Albania,Weightlifting,17,0,0,8,0.0,0.0,0,0
+Albania,Wrestling,4,0,0,3,0.0,0.0,0,0
+Algeria,Athletics,139,9,4,11,0.06474820143884892,0.4444444444444444,0,0
+Algeria,Badminton,1,0,0,1,0.0,0.0,0,0
+Algeria,Boxing,69,6,1,12,0.08695652173913043,0.16666666666666666,1,0
+Algeria,Cycling,6,0,0,4,0.0,0.0,0,0
+Algeria,Fencing,21,0,0,7,0.0,0.0,0,0
+Algeria,Football,32,0,0,2,0.0,0.0,0,0
+Algeria,Gymnastics,24,0,0,3,0.0,0.0,0,0
+Algeria,Handball,59,0,0,4,0.0,0.0,0,0
+Algeria,Judo,52,2,0,9,0.038461538461538464,0.0,0,0
+Algeria,Rowing,10,0,0,6,0.0,0.0,0,0
+Algeria,Sailing,3,0,0,1,0.0,0.0,0,0
+Algeria,Shooting,2,0,0,2,0.0,0.0,0,0
+Algeria,Swimming,38,0,0,8,0.0,0.0,0,0
+Algeria,Table Tennis,10,0,0,3,0.0,0.0,0,0
+Algeria,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Algeria,Tennis,2,0,0,2,0.0,0.0,0,0
+Algeria,Trampolining,1,0,0,1,0.0,0.0,0,0
+Algeria,Volleyball,31,0,0,3,0.0,0.0,0,0
+Algeria,Weightlifting,19,0,0,10,0.0,0.0,0,0
+Algeria,Wrestling,19,0,0,8,0.0,0.0,0,0
+American Samoa,Archery,1,0,0,1,0.0,0.0,0,0
+American Samoa,Athletics,11,0,0,7,0.0,0.0,0,0
+American Samoa,Boxing,5,0,0,3,0.0,0.0,0,0
+American Samoa,Judo,3,0,0,3,0.0,0.0,0,0
+American Samoa,Sailing,2,0,0,1,0.0,0.0,0,0
+American Samoa,Swimming,4,0,0,2,0.0,0.0,0,0
+American Samoa,Weightlifting,7,0,0,6,0.0,0.0,0,0
+American Samoa,Wrestling,2,0,0,2,0.0,0.0,0,0
+Andorra,Athletics,13,0,0,8,0.0,0.0,0,0
+Andorra,Boxing,1,0,0,1,0.0,0.0,0,0
+Andorra,Canoeing,1,0,0,1,0.0,0.0,0,0
+Andorra,Cycling,5,0,0,2,0.0,0.0,0,0
+Andorra,Judo,6,0,0,6,0.0,0.0,0,0
+Andorra,Sailing,5,0,0,2,0.0,0.0,0,0
+Andorra,Shooting,12,0,0,9,0.0,0.0,0,0
+Andorra,Swimming,10,0,0,6,0.0,0.0,0,0
+Angola,Athletics,29,0,0,9,0.0,0.0,0,0
+Angola,Basketball,71,0,0,6,0.0,0.0,0,0
+Angola,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+Angola,Boxing,7,0,0,3,0.0,0.0,0,0
+Angola,Canoeing,6,0,0,2,0.0,0.0,0,0
+Angola,Handball,84,0,0,6,0.0,0.0,0,0
+Angola,Judo,14,0,0,5,0.0,0.0,0,0
+Angola,Rowing,2,0,0,1,0.0,0.0,0,0
+Angola,Sailing,6,0,0,2,0.0,0.0,0,0
+Angola,Shooting,3,0,0,3,0.0,0.0,0,0
+Angola,Swimming,43,0,0,9,0.0,0.0,0,0
+Antigua,Athletics,96,0,0,10,0.0,0.0,0,0
+Antigua,Boxing,2,0,0,1,0.0,0.0,0,0
+Antigua,Canoeing,3,0,0,1,0.0,0.0,0,0
+Antigua,Cycling,17,0,0,5,0.0,0.0,0,0
+Antigua,Sailing,9,0,0,5,0.0,0.0,0,0
+Antigua,Swimming,6,0,0,4,0.0,0.0,0,0
+Argentina,Archery,2,0,0,1,0.0,0.0,0,0
+Argentina,Art Competitions,2,0,0,1,0.0,0.0,0,0
+Argentina,Athletics,247,5,2,21,0.020242914979757085,0.4,1,0
+Argentina,Basketball,88,24,12,7,0.2727272727272727,0.5,1,1
+Argentina,Beach Volleyball,14,0,0,6,0.0,0.0,0,0
+Argentina,Boxing,133,24,7,22,0.18045112781954886,0.2916666666666667,1,0
+Argentina,Canoeing,49,0,0,9,0.0,0.0,0,0
+Argentina,Cycling,179,2,2,18,0.0111731843575419,1.0,1,0
+Argentina,Diving,9,0,0,5,0.0,0.0,0,0
+Argentina,Equestrianism,156,1,0,16,0.00641025641025641,0.0,1,0
+Argentina,Fencing,239,5,0,22,0.02092050209205021,0.0,1,0
+Argentina,Figure Skating,1,0,0,1,0.0,0.0,0,0
+Argentina,Football,142,68,34,8,0.4788732394366197,0.5,1,1
+Argentina,Golf,2,0,0,1,0.0,0.0,0,0
+Argentina,Gymnastics,133,0,0,10,0.0,0.0,0,0
+Argentina,Handball,44,0,0,2,0.0,0.0,0,0
+Argentina,Hockey,286,81,18,12,0.28321678321678323,0.2222222222222222,1,1
+Argentina,Judo,65,2,1,12,0.03076923076923077,0.5,0,0
+Argentina,Modern Pentathlon,18,0,0,5,0.0,0.0,0,0
+Argentina,Polo,9,9,9,2,1.0,1.0,1,1
+Argentina,Rowing,184,6,2,19,0.03260869565217391,0.3333333333333333,1,0
+Argentina,Rugby Sevens,13,0,0,1,0.0,0.0,0,0
+Argentina,Sailing,178,21,2,20,0.11797752808988764,0.09523809523809523,1,0
+Argentina,Shooting,120,1,0,20,0.008333333333333333,0.0,1,0
+Argentina,Swimming,254,3,1,20,0.011811023622047244,0.3333333333333333,1,0
+Argentina,Synchronized Swimming,4,0,0,2,0.0,0.0,0,0
+Argentina,Table Tennis,14,0,0,6,0.0,0.0,0,0
+Argentina,Taekwondo,7,1,1,4,0.14285714285714285,1.0,0,0
+Argentina,Tennis,89,7,0,9,0.07865168539325842,0.0,0,0
+Argentina,Triathlon,6,0,0,4,0.0,0.0,0,0
+Argentina,Volleyball,94,12,0,7,0.1276595744680851,0.0,0,0
+Argentina,Water Polo,28,0,0,4,0.0,0.0,0,0
+Argentina,Weightlifting,36,2,0,14,0.05555555555555555,0.0,1,0
+Argentina,Wrestling,68,0,0,15,0.0,0.0,0,0
+Armenia,Athletics,18,0,0,6,0.0,0.0,0,0
+Armenia,Boxing,18,1,0,6,0.05555555555555555,0.0,0,0
+Armenia,Canoeing,2,0,0,1,0.0,0.0,0,0
+Armenia,Cycling,1,0,0,1,0.0,0.0,0,0
+Armenia,Diving,3,0,0,2,0.0,0.0,0,0
+Armenia,Gymnastics,20,0,0,3,0.0,0.0,0,0
+Armenia,Judo,8,0,0,6,0.0,0.0,0,0
+Armenia,Shooting,9,0,0,6,0.0,0.0,0,0
+Armenia,Swimming,8,0,0,6,0.0,0.0,0,0
+Armenia,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Armenia,Tennis,3,0,0,3,0.0,0.0,0,0
+Armenia,Weightlifting,36,7,0,6,0.19444444444444445,0.0,0,0
+Armenia,Wrestling,47,8,2,6,0.1702127659574468,0.25,0,0
+Aruba,Athletics,9,0,0,5,0.0,0.0,0,0
+Aruba,Boxing,2,0,0,1,0.0,0.0,0,0
+Aruba,Cycling,3,0,0,2,0.0,0.0,0,0
+Aruba,Fencing,2,0,0,1,0.0,0.0,0,0
+Aruba,Judo,5,0,0,5,0.0,0.0,0,0
+Aruba,Sailing,4,0,0,2,0.0,0.0,0,0
+Aruba,Swimming,9,0,0,5,0.0,0.0,0,0
+Aruba,Synchronized Swimming,4,0,0,1,0.0,0.0,0,0
+Aruba,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Aruba,Weightlifting,3,0,0,3,0.0,0.0,0,0
+Australia,Archery,73,5,1,12,0.0684931506849315,0.2,0,0
+Australia,Art Competitions,3,0,0,2,0.0,0.0,0,0
+Australia,Athletics,1016,90,24,29,0.08858267716535433,0.26666666666666666,2,0
+Australia,Badminton,57,0,0,7,0.0,0.0,0,0
+Australia,Baseball,68,24,0,3,0.35294117647058826,0.0,1,1
+Australia,Basketball,262,60,0,14,0.22900763358778625,0.0,1,1
+Australia,Beach Volleyball,36,4,2,6,0.1111111111111111,0.5,0,0
+Australia,Boxing,126,5,0,21,0.03968253968253968,0.0,1,0
+Australia,Canoeing,242,41,6,16,0.16942148760330578,0.14634146341463414,1,0
+Australia,Cycling,428,84,26,23,0.19626168224299065,0.30952380952380953,1,0
+Australia,Diving,153,20,3,23,0.13071895424836602,0.15,1,0
+Australia,Equestrianism,231,37,18,15,0.16017316017316016,0.4864864864864865,1,0
+Australia,Fencing,147,0,0,15,0.0,0.0,1,0
+Australia,Football,161,0,0,8,0.0,0.0,0,0
+Australia,Golf,4,0,0,1,0.0,0.0,0,0
+Australia,Gymnastics,513,0,0,16,0.0,0.0,1,0
+Australia,Handball,30,0,0,1,0.0,0.0,0,0
+Australia,Hockey,381,188,64,15,0.49343832020997375,0.3404255319148936,2,1
+Australia,Judo,87,2,0,13,0.022988505747126436,0.0,0,0
+Australia,Modern Pentathlon,53,1,1,17,0.018867924528301886,1.0,1,0
+Australia,Rhythmic Gymnastics,7,0,0,6,0.0,0.0,0,0
+Australia,Rowing,519,144,22,23,0.2774566473988439,0.1527777777777778,2,1
+Australia,Rugby,15,15,15,1,1.0,1.0,1,1
+Australia,Rugby Sevens,25,12,12,1,0.48,1.0,1,1
+Australia,Sailing,210,53,22,17,0.2523809523809524,0.41509433962264153,1,1
+Australia,Shooting,247,11,5,18,0.044534412955465584,0.45454545454545453,1,0
+Australia,Softball,60,60,0,4,1.0,0.0,1,1
+Australia,Swimming,1268,412,123,28,0.3249211356466877,0.29854368932038833,2,1
+Australia,Synchronized Swimming,57,0,0,8,0.0,0.0,0,0
+Australia,Table Tennis,72,0,0,8,0.0,0.0,0,0
+Australia,Taekwondo,22,2,1,5,0.09090909090909091,0.5,0,0
+Australia,Tennis,94,11,2,12,0.11702127659574468,0.18181818181818182,1,0
+Australia,Trampolining,6,1,0,5,0.16666666666666666,0.0,0,0
+Australia,Triathlon,29,5,1,5,0.1724137931034483,0.2,0,0
+Australia,Volleyball,48,0,0,3,0.0,0.0,0,0
+Australia,Water Polo,249,39,13,16,0.1566265060240964,0.3333333333333333,1,0
+Australia,Weightlifting,78,4,1,18,0.05128205128205128,0.25,1,0
+Australia,Wrestling,101,3,0,22,0.0297029702970297,0.0,1,0
+Austria,Archery,4,0,0,4,0.0,0.0,0,0
+Austria,Art Competitions,199,10,3,4,0.05025125628140704,0.3,0,0
+Austria,Athletics,327,7,1,26,0.021406727828746176,0.14285714285714285,1,0
+Austria,Badminton,9,0,0,4,0.0,0.0,0,0
+Austria,Beach Volleyball,20,0,0,5,0.0,0.0,0,0
+Austria,Boxing,37,0,0,14,0.0,0.0,0,0
+Austria,Canoeing,120,21,4,18,0.175,0.19047619047619047,1,0
+Austria,Cycling,214,3,1,21,0.014018691588785047,0.3333333333333333,1,0
+Austria,Diving,75,1,0,23,0.013333333333333334,0.0,1,0
+Austria,Equestrianism,110,6,1,19,0.05454545454545454,0.16666666666666666,1,0
+Austria,Fencing,215,13,1,26,0.06046511627906977,0.07692307692307693,1,0
+Austria,Football,50,13,0,4,0.26,0.0,0,1
+Austria,Golf,2,0,0,1,0.0,0.0,0,0
+Austria,Gymnastics,365,3,2,9,0.00821917808219178,0.6666666666666666,0,0
+Austria,Handball,66,22,0,4,0.3333333333333333,0.0,1,1
+Austria,Hockey,55,0,0,4,0.0,0.0,0,0
+Austria,Judo,53,5,2,13,0.09433962264150944,0.4,1,0
+Austria,Modern Pentathlon,37,0,0,10,0.0,0.0,0,0
+Austria,Rhythmic Gymnastics,6,0,0,5,0.0,0.0,0,0
+Austria,Rowing,132,9,0,19,0.06818181818181818,0.0,1,0
+Austria,Sailing,127,12,5,21,0.09448818897637795,0.4166666666666667,1,0
+Austria,Shooting,182,8,1,21,0.04395604395604396,0.125,1,0
+Austria,Swimming,209,17,2,25,0.08133971291866028,0.11764705882352941,1,0
+Austria,Synchronized Swimming,14,0,0,5,0.0,0.0,0,0
+Austria,Table Tennis,55,0,0,8,0.0,0.0,0,0
+Austria,Taekwondo,3,0,0,2,0.0,0.0,0,0
+Austria,Tennis,39,2,0,10,0.05128205128205128,0.0,0,0
+Austria,Triathlon,13,1,1,5,0.07692307692307693,1.0,0,0
+Austria,Tug-Of-War,8,0,0,1,0.0,0.0,0,0
+Austria,Water Polo,28,0,0,3,0.0,0.0,0,0
+Austria,Weightlifting,82,11,4,18,0.13414634146341464,0.36363636363636365,1,0
+Austria,Wrestling,95,6,1,21,0.06315789473684211,0.16666666666666666,1,0
+Azerbaijan,Archery,1,0,0,1,0.0,0.0,0,0
+Azerbaijan,Athletics,21,0,0,6,0.0,0.0,0,0
+Azerbaijan,Boxing,37,8,0,6,0.21621621621621623,0.0,0,1
+Azerbaijan,Canoeing,7,2,0,2,0.2857142857142857,0.0,0,1
+Azerbaijan,Cycling,6,0,0,2,0.0,0.0,0,0
+Azerbaijan,Diving,2,0,0,2,0.0,0.0,0,0
+Azerbaijan,Equestrianism,2,0,0,2,0.0,0.0,0,0
+Azerbaijan,Fencing,4,0,0,4,0.0,0.0,0,0
+Azerbaijan,Gymnastics,18,0,0,2,0.0,0.0,0,0
+Azerbaijan,Judo,29,4,1,6,0.13793103448275862,0.25,0,0
+Azerbaijan,Rhythmic Gymnastics,11,0,0,4,0.0,0.0,0,0
+Azerbaijan,Rowing,4,0,0,2,0.0,0.0,0,0
+Azerbaijan,Shooting,14,3,1,6,0.21428571428571427,0.3333333333333333,0,1
+Azerbaijan,Swimming,11,0,0,6,0.0,0.0,0,0
+Azerbaijan,Taekwondo,9,3,1,4,0.3333333333333333,0.3333333333333333,0,1
+Azerbaijan,Triathlon,1,0,0,1,0.0,0.0,0,0
+Azerbaijan,Weightlifting,21,1,0,5,0.047619047619047616,0.0,0,0
+Azerbaijan,Wrestling,67,23,4,6,0.34328358208955223,0.17391304347826086,1,1
+Bahamas,Athletics,251,36,12,15,0.14342629482071714,0.3333333333333333,1,0
+Bahamas,Boxing,7,0,0,4,0.0,0.0,0,0
+Bahamas,Cycling,2,0,0,1,0.0,0.0,0,0
+Bahamas,Diving,1,0,0,1,0.0,0.0,0,0
+Bahamas,Rowing,1,0,0,1,0.0,0.0,0,0
+Bahamas,Sailing,54,4,2,11,0.07407407407407407,0.5,0,0
+Bahamas,Swimming,43,0,0,10,0.0,0.0,0,0
+Bahamas,Tennis,13,0,0,5,0.0,0.0,0,0
+Bahamas,Wrestling,2,0,0,1,0.0,0.0,0,0
+Bahrain,Athletics,73,3,1,9,0.0410958904109589,0.3333333333333333,0,0
+Bahrain,Cycling,7,0,0,1,0.0,0.0,0,0
+Bahrain,Fencing,7,0,0,1,0.0,0.0,0,0
+Bahrain,Modern Pentathlon,12,0,0,2,0.0,0.0,0,0
+Bahrain,Sailing,5,0,0,2,0.0,0.0,0,0
+Bahrain,Shooting,9,0,0,5,0.0,0.0,0,0
+Bahrain,Swimming,12,0,0,6,0.0,0.0,0,0
+Bahrain,Wrestling,1,0,0,1,0.0,0.0,0,0
+Bangladesh,Archery,2,0,0,2,0.0,0.0,0,0
+Bangladesh,Athletics,28,0,0,9,0.0,0.0,0,0
+Bangladesh,Golf,1,0,0,1,0.0,0.0,0,0
+Bangladesh,Gymnastics,3,0,0,1,0.0,0.0,0,0
+Bangladesh,Shooting,8,0,0,7,0.0,0.0,0,0
+Bangladesh,Swimming,13,0,0,8,0.0,0.0,0,0
+Barbados,Athletics,109,1,0,12,0.009174311926605505,0.0,0,0
+Barbados,Boxing,9,0,0,5,0.0,0.0,0,0
+Barbados,Cycling,24,0,0,7,0.0,0.0,0,0
+Barbados,Diving,1,0,0,1,0.0,0.0,0,0
+Barbados,Gymnastics,7,0,0,1,0.0,0.0,0,0
+Barbados,Judo,5,0,0,5,0.0,0.0,0,0
+Barbados,Sailing,15,0,0,6,0.0,0.0,0,0
+Barbados,Shooting,8,0,0,7,0.0,0.0,0,0
+Barbados,Swimming,36,0,0,9,0.0,0.0,0,0
+Barbados,Synchronized Swimming,1,0,0,1,0.0,0.0,0,0
+Barbados,Tennis,1,0,0,1,0.0,0.0,0,0
+Barbados,Triathlon,1,0,0,1,0.0,0.0,0,0
+Barbados,Weightlifting,2,0,0,2,0.0,0.0,0,0
+Belarus,Archery,10,0,0,6,0.0,0.0,0,0
+Belarus,Athletics,246,17,4,6,0.06910569105691057,0.23529411764705882,0,0
+Belarus,Badminton,6,0,0,3,0.0,0.0,0,0
+Belarus,Basketball,22,0,0,2,0.0,0.0,0,0
+Belarus,Boxing,22,2,0,6,0.09090909090909091,0.0,0,0
+Belarus,Canoeing,60,22,6,6,0.36666666666666664,0.2727272727272727,1,1
+Belarus,Cycling,38,1,0,5,0.02631578947368421,0.0,0,0
+Belarus,Diving,19,0,0,6,0.0,0.0,0,0
+Belarus,Equestrianism,6,0,0,3,0.0,0.0,0,0
+Belarus,Fencing,24,0,0,6,0.0,0.0,0,0
+Belarus,Football,16,0,0,1,0.0,0.0,0,0
+Belarus,Gymnastics,236,4,0,6,0.01694915254237288,0.0,0,0
+Belarus,Judo,24,2,1,6,0.08333333333333333,0.5,0,0
+Belarus,Modern Pentathlon,14,1,0,5,0.07142857142857142,0.0,0,0
+Belarus,Rhythmic Gymnastics,47,21,0,6,0.44680851063829785,0.0,1,1
+Belarus,Rowing,66,17,2,6,0.25757575757575757,0.11764705882352941,1,1
+Belarus,Sailing,19,0,0,6,0.0,0.0,0,0
+Belarus,Shooting,87,7,1,6,0.08045977011494253,0.14285714285714285,0,0
+Belarus,Swimming,91,3,0,6,0.03296703296703297,0.0,0,0
+Belarus,Synchronized Swimming,8,0,0,4,0.0,0.0,0,0
+Belarus,Table Tennis,28,0,0,6,0.0,0.0,0,0
+Belarus,Tennis,30,3,2,6,0.1,0.6666666666666666,0,0
+Belarus,Trampolining,12,1,1,5,0.08333333333333333,1.0,0,0
+Belarus,Weightlifting,48,12,1,6,0.25,0.08333333333333333,0,1
+Belarus,Wrestling,67,11,0,6,0.16417910447761194,0.0,0,0
+Belgium,Archery,81,52,35,11,0.6419753086419753,0.6730769230769231,1,1
+Belgium,Art Competitions,171,8,2,7,0.04678362573099415,0.25,0,0
+Belgium,Athletics,519,16,4,25,0.030828516377649325,0.25,1,0
+Belgium,Badminton,6,0,0,4,0.0,0.0,0,0
+Belgium,Basketball,34,0,0,3,0.0,0.0,0,0
+Belgium,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+Belgium,Boxing,57,4,1,10,0.07017543859649122,0.25,0,0
+Belgium,Canoeing,96,0,0,19,0.0,0.0,1,0
+Belgium,Cycling,340,47,13,26,0.13823529411764707,0.2765957446808511,1,0
+Belgium,Diving,12,0,0,6,0.0,0.0,0,0
+Belgium,Equestrianism,206,23,7,19,0.11165048543689321,0.30434782608695654,1,0
+Belgium,Fencing,344,48,10,22,0.13953488372093023,0.20833333333333334,1,0
+Belgium,Figure Skating,2,0,0,1,0.0,0.0,0,0
+Belgium,Football,67,23,14,5,0.34328358208955223,0.6086956521739131,1,1
+Belgium,Golf,3,0,0,1,0.0,0.0,0,0
+Belgium,Gymnastics,200,48,0,16,0.24,0.0,1,1
+Belgium,Hockey,228,30,0,14,0.13157894736842105,0.0,1,0
+Belgium,Ice Hockey,7,0,0,1,0.0,0.0,0,0
+Belgium,Judo,55,12,2,12,0.21818181818181817,0.16666666666666666,1,1
+Belgium,Modern Pentathlon,15,0,0,6,0.0,0.0,0,0
+Belgium,Polo,4,0,0,1,0.0,0.0,0,0
+Belgium,Rhythmic Gymnastics,4,0,0,4,0.0,0.0,0,0
+Belgium,Rowing,180,30,0,25,0.16666666666666666,0.0,1,0
+Belgium,Sailing,93,19,4,21,0.20430107526881722,0.21052631578947367,1,1
+Belgium,Shooting,217,17,1,23,0.07834101382488479,0.058823529411764705,1,0
+Belgium,Swimming,279,5,1,23,0.017921146953405017,0.2,1,0
+Belgium,Synchronized Swimming,5,0,0,2,0.0,0.0,0,0
+Belgium,Table Tennis,14,0,0,7,0.0,0.0,0,0
+Belgium,Taekwondo,4,0,0,2,0.0,0.0,0,0
+Belgium,Tennis,80,3,1,9,0.0375,0.3333333333333333,0,0
+Belgium,Triathlon,12,0,0,5,0.0,0.0,0,0
+Belgium,Tug-Of-War,8,8,0,1,1.0,0.0,1,1
+Belgium,Volleyball,12,0,0,1,0.0,0.0,0,0
+Belgium,Water Polo,100,54,0,11,0.54,0.0,1,1
+Belgium,Weightlifting,46,4,1,17,0.08695652173913043,0.25,1,0
+Belgium,Wrestling,113,4,0,19,0.035398230088495575,0.0,1,0
+Belize,Athletics,38,0,0,11,0.0,0.0,0,0
+Belize,Boxing,1,0,0,1,0.0,0.0,0,0
+Belize,Cycling,27,0,0,5,0.0,0.0,0,0
+Belize,Judo,2,0,0,2,0.0,0.0,0,0
+Belize,Shooting,6,0,0,3,0.0,0.0,0,0
+Belize,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Belize,Weightlifting,1,0,0,1,0.0,0.0,0,0
+Benin,Athletics,42,0,0,10,0.0,0.0,0,0
+Benin,Boxing,13,0,0,4,0.0,0.0,0,0
+Benin,Cycling,2,0,0,1,0.0,0.0,0,0
+Benin,Fencing,1,0,0,1,0.0,0.0,0,0
+Benin,Judo,3,0,0,3,0.0,0.0,0,0
+Benin,Swimming,7,0,0,4,0.0,0.0,0,0
+Benin,Taekwondo,2,0,0,2,0.0,0.0,0,0
+Benin,Tennis,1,0,0,1,0.0,0.0,0,0
+Bermuda,Athletics,62,0,0,13,0.0,0.0,0,0
+Bermuda,Boxing,4,1,0,3,0.25,0.0,0,1
+Bermuda,Cycling,4,0,0,2,0.0,0.0,0,0
+Bermuda,Diving,4,0,0,3,0.0,0.0,0,0
+Bermuda,Equestrianism,11,0,0,8,0.0,0.0,0,0
+Bermuda,Rowing,2,0,0,2,0.0,0.0,0,0
+Bermuda,Sailing,61,0,0,14,0.0,0.0,0,0
+Bermuda,Swimming,51,0,0,11,0.0,0.0,0,0
+Bermuda,Tennis,1,0,0,1,0.0,0.0,0,0
+Bermuda,Triathlon,5,0,0,4,0.0,0.0,0,0
+Bhutan,Archery,34,0,0,9,0.0,0.0,0,0
+Bhutan,Shooting,2,0,0,2,0.0,0.0,0,0
+Boliva,Art Competitions,1,0,0,1,0.0,0.0,0,0
+Boliva,Athletics,39,0,0,11,0.0,0.0,0,0
+Boliva,Boxing,1,0,0,1,0.0,0.0,0,0
+Boliva,Canoeing,2,0,0,2,0.0,0.0,0,0
+Boliva,Cycling,10,0,0,6,0.0,0.0,0,0
+Boliva,Diving,2,0,0,1,0.0,0.0,0,0
+Boliva,Equestrianism,3,0,0,3,0.0,0.0,0,0
+Boliva,Fencing,4,0,0,3,0.0,0.0,0,0
+Boliva,Gymnastics,5,0,0,1,0.0,0.0,0,0
+Boliva,Judo,6,0,0,5,0.0,0.0,0,0
+Boliva,Shooting,20,0,0,9,0.0,0.0,0,0
+Boliva,Swimming,23,0,0,9,0.0,0.0,0,0
+Boliva,Tennis,1,0,0,1,0.0,0.0,0,0
+Boliva,Weightlifting,3,0,0,3,0.0,0.0,0,0
+Boliva,Wrestling,1,0,0,1,0.0,0.0,0,0
+Bosnia and Herzegovina,Athletics,21,0,0,7,0.0,0.0,0,0
+Bosnia and Herzegovina,Canoeing,3,0,0,3,0.0,0.0,0,0
+Bosnia and Herzegovina,Judo,7,0,0,7,0.0,0.0,0,0
+Bosnia and Herzegovina,Shooting,19,0,0,7,0.0,0.0,0,0
+Bosnia and Herzegovina,Swimming,15,0,0,7,0.0,0.0,0,0
+Bosnia and Herzegovina,Table Tennis,2,0,0,2,0.0,0.0,0,0
+Bosnia and Herzegovina,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Bosnia and Herzegovina,Tennis,3,0,0,2,0.0,0.0,0,0
+Bosnia and Herzegovina,Weightlifting,1,0,0,1,0.0,0.0,0,0
+Bosnia and Herzegovina,Wrestling,1,0,0,1,0.0,0.0,0,0
+Botswana,Athletics,74,1,0,10,0.013513513513513514,0.0,0,0
+Botswana,Boxing,10,0,0,7,0.0,0.0,0,0
+Botswana,Judo,1,0,0,1,0.0,0.0,0,0
+Botswana,Sailing,1,0,0,1,0.0,0.0,0,0
+Botswana,Swimming,4,0,0,2,0.0,0.0,0,0
+Brazil,Archery,21,0,0,7,0.0,0.0,0,0
+Brazil,Art Competitions,1,0,0,1,0.0,0.0,0,0
+Brazil,Athletics,519,26,5,22,0.05009633911368015,0.19230769230769232,1,0
+Brazil,Badminton,2,0,0,1,0.0,0.0,0,0
+Brazil,Basketball,255,58,0,18,0.22745098039215686,0.0,1,1
+Brazil,Beach Volleyball,48,26,6,6,0.5416666666666666,0.23076923076923078,1,1
+Brazil,Boxing,80,5,1,17,0.0625,0.2,1,0
+Brazil,Canoeing,49,4,0,7,0.08163265306122448,0.0,0,0
+Brazil,Cycling,95,0,0,14,0.0,0.0,0,0
+Brazil,Diving,46,0,0,15,0.0,0.0,0,0
+Brazil,Equestrianism,170,9,1,16,0.052941176470588235,0.1111111111111111,1,0
+Brazil,Fencing,94,0,0,12,0.0,0.0,0,0
+Brazil,Football,306,136,17,14,0.4444444444444444,0.125,1,1
+Brazil,Golf,3,0,0,1,0.0,0.0,0,0
+Brazil,Gymnastics,201,4,1,9,0.01990049751243781,0.25,0,0
+Brazil,Handball,144,0,0,7,0.0,0.0,0,0
+Brazil,Hockey,16,0,0,1,0.0,0.0,0,0
+Brazil,Judo,120,22,4,13,0.18333333333333332,0.18181818181818182,1,0
+Brazil,Modern Pentathlon,31,1,0,10,0.03225806451612903,0.0,0,0
+Brazil,Rhythmic Gymnastics,26,0,0,6,0.0,0.0,0,0
+Brazil,Rowing,137,0,0,21,0.0,0.0,1,0
+Brazil,Rugby Sevens,25,0,0,1,0.0,0.0,0,0
+Brazil,Sailing,181,34,12,19,0.1878453038674033,0.35294117647058826,1,0
+Brazil,Shooting,122,8,1,20,0.06557377049180328,0.125,1,0
+Brazil,Swimming,507,20,1,21,0.03944773175542406,0.05,1,0
+Brazil,Synchronized Swimming,33,0,0,8,0.0,0.0,0,0
+Brazil,Table Tennis,56,0,0,8,0.0,0.0,0,0
+Brazil,Taekwondo,13,2,0,5,0.15384615384615385,0.0,0,0
+Brazil,Tennis,43,0,0,8,0.0,0.0,0,0
+Brazil,Trampolining,1,0,0,1,0.0,0.0,0,0
+Brazil,Triathlon,20,0,0,5,0.0,0.0,0,0
+Brazil,Volleyball,285,120,60,14,0.42105263157894735,0.5,2,1
+Brazil,Water Polo,96,0,0,8,0.0,0.0,0,0
+Brazil,Weightlifting,25,0,0,14,0.0,0.0,0,0
+Brazil,Wrestling,13,0,0,6,0.0,0.0,0,0
+Brunei,Athletics,6,0,0,4,0.0,0.0,0,0
+Brunei,Badminton,1,0,0,1,0.0,0.0,0,0
+Brunei,Shooting,2,0,0,2,0.0,0.0,0,0
+Brunei,Swimming,1,0,0,1,0.0,0.0,0,0
+Bulgaria,Archery,7,0,0,6,0.0,0.0,0,0
+Bulgaria,Art Competitions,5,0,0,2,0.0,0.0,0,0
+Bulgaria,Athletics,306,19,5,17,0.06209150326797386,0.2631578947368421,1,0
+Bulgaria,Badminton,32,0,0,7,0.0,0.0,0,0
+Bulgaria,Basketball,85,24,0,7,0.2823529411764706,0.0,1,1
+Bulgaria,Beach Volleyball,4,0,0,2,0.0,0.0,0,0
+Bulgaria,Boxing,99,18,4,16,0.18181818181818182,0.2222222222222222,1,0
+Bulgaria,Canoeing,133,28,4,14,0.21052631578947367,0.14285714285714285,1,1
+Bulgaria,Cycling,81,0,0,13,0.0,0.0,0,0
+Bulgaria,Diving,5,0,0,3,0.0,0.0,0,0
+Bulgaria,Equestrianism,75,3,0,11,0.04,0.0,0,0
+Bulgaria,Fencing,46,0,0,10,0.0,0.0,0,0
+Bulgaria,Football,69,32,0,5,0.463768115942029,0.0,1,1
+Bulgaria,Gymnastics,974,10,2,16,0.01026694045174538,0.2,1,0
+Bulgaria,Judo,27,3,0,9,0.1111111111111111,0.0,0,0
+Bulgaria,Modern Pentathlon,28,0,0,7,0.0,0.0,0,0
+Bulgaria,Rhythmic Gymnastics,48,18,0,8,0.375,0.0,1,1
+Bulgaria,Rowing,176,34,5,11,0.19318181818181818,0.14705882352941177,1,0
+Bulgaria,Sailing,11,0,0,5,0.0,0.0,0,0
+Bulgaria,Shooting,141,16,4,16,0.11347517730496454,0.25,1,0
+Bulgaria,Swimming,124,3,1,12,0.024193548387096774,0.3333333333333333,0,0
+Bulgaria,Synchronized Swimming,2,0,0,1,0.0,0.0,0,0
+Bulgaria,Table Tennis,3,0,0,2,0.0,0.0,0,0
+Bulgaria,Tennis,16,1,0,7,0.0625,0.0,0,0
+Bulgaria,Volleyball,106,22,0,8,0.20754716981132076,0.0,1,1
+Bulgaria,Water Polo,22,0,0,2,0.0,0.0,0,0
+Bulgaria,Weightlifting,93,36,12,13,0.3870967741935484,0.3333333333333333,1,1
+Bulgaria,Wrestling,223,69,16,15,0.3094170403587444,0.2318840579710145,1,1
+Burkina Faso,Athletics,26,0,0,9,0.0,0.0,0,0
+Burkina Faso,Boxing,4,0,0,3,0.0,0.0,0,0
+Burkina Faso,Fencing,1,0,0,1,0.0,0.0,0,0
+Burkina Faso,Judo,6,0,0,6,0.0,0.0,0,0
+Burkina Faso,Swimming,7,0,0,4,0.0,0.0,0,0
+Burundi,Athletics,30,2,1,6,0.06666666666666667,0.5,0,0
+Burundi,Judo,2,0,0,2,0.0,0.0,0,0
+Burundi,Swimming,7,0,0,4,0.0,0.0,0,0
+Cambodia,Athletics,17,0,0,7,0.0,0.0,0,0
+Cambodia,Boxing,5,0,0,2,0.0,0.0,0,0
+Cambodia,Cycling,8,0,0,1,0.0,0.0,0,0
+Cambodia,Equestrianism,2,0,0,1,0.0,0.0,0,0
+Cambodia,Judo,1,0,0,1,0.0,0.0,0,0
+Cambodia,Sailing,3,0,0,1,0.0,0.0,0,0
+Cambodia,Swimming,23,0,0,7,0.0,0.0,0,0
+Cambodia,Taekwondo,2,0,0,2,0.0,0.0,0,0
+Cambodia,Wrestling,2,0,0,2,0.0,0.0,0,0
+Cameroon,Athletics,97,2,2,13,0.020618556701030927,1.0,0,0
+Cameroon,Boxing,42,2,0,11,0.047619047619047616,0.0,0,0
+Cameroon,Cycling,28,0,0,4,0.0,0.0,0,0
+Cameroon,Football,67,18,18,4,0.26865671641791045,1.0,1,1
+Cameroon,Judo,22,0,0,8,0.0,0.0,0,0
+Cameroon,Rowing,2,0,0,2,0.0,0.0,0,0
+Cameroon,Swimming,5,0,0,3,0.0,0.0,0,0
+Cameroon,Table Tennis,2,0,0,2,0.0,0.0,0,0
+Cameroon,Volleyball,10,0,0,1,0.0,0.0,0,0
+Cameroon,Weightlifting,11,0,0,7,0.0,0.0,0,0
+Cameroon,Wrestling,24,0,0,7,0.0,0.0,0,0
+Canada,Archery,46,0,0,11,0.0,0.0,0,0
+Canada,Art Competitions,83,2,0,5,0.024096385542168676,0.0,0,0
+Canada,Athletics,1154,98,22,27,0.08492201039861352,0.22448979591836735,2,0
+Canada,Badminton,61,0,0,7,0.0,0.0,0,0
+Canada,Baseball,48,0,0,2,0.0,0.0,0,0
+Canada,Basketball,178,9,0,12,0.05056179775280899,0.0,1,0
+Canada,Beach Volleyball,26,2,0,5,0.07692307692307693,0.0,0,0
+Canada,Boxing,141,17,3,22,0.12056737588652482,0.17647058823529413,1,0
+Canada,Canoeing,300,33,5,18,0.11,0.15151515151515152,1,0
+Canada,Cycling,322,23,1,23,0.07142857142857142,0.043478260869565216,1,0
+Canada,Diving,156,18,1,22,0.11538461538461539,0.05555555555555555,1,0
+Canada,Equestrianism,260,17,4,16,0.06538461538461539,0.23529411764705882,1,0
+Canada,Fencing,258,0,0,20,0.0,0.0,1,0
+Canada,Football,95,49,13,6,0.5157894736842106,0.2653061224489796,1,1
+Canada,Golf,7,1,1,2,0.14285714285714285,1.0,0,0
+Canada,Gymnastics,705,1,1,16,0.0014184397163120568,1.0,1,0
+Canada,Handball,28,0,0,1,0.0,0.0,0,0
+Canada,Hockey,155,0,0,8,0.0,0.0,0,0
+Canada,Ice Hockey,8,8,8,1,1.0,1.0,1,1
+Canada,Judo,81,5,0,12,0.06172839506172839,0.0,0,0
+Canada,Lacrosse,36,36,24,2,1.0,0.6666666666666666,1,1
+Canada,Modern Pentathlon,29,0,0,8,0.0,0.0,0,0
+Canada,Rhythmic Gymnastics,15,1,1,7,0.06666666666666667,1.0,0,0
+Canada,Rowing,559,203,50,25,0.3631484794275492,0.24630541871921183,2,1
+Canada,Rugby Sevens,12,12,0,1,1.0,0.0,1,1
+Canada,Sailing,212,25,0,20,0.1179245283018868,0.0,1,0
+Canada,Shooting,223,24,4,20,0.10762331838565023,0.16666666666666666,1,0
+Canada,Softball,60,0,0,4,0.0,0.0,0,0
+Canada,Swimming,995,98,8,24,0.09849246231155778,0.08163265306122448,2,0
+Canada,Synchronized Swimming,67,26,4,9,0.3880597014925373,0.15384615384615385,1,1
+Canada,Table Tennis,45,0,0,8,0.0,0.0,0,0
+Canada,Taekwondo,10,2,0,5,0.2,0.0,0,0
+Canada,Tennis,57,2,2,9,0.03508771929824561,1.0,0,0
+Canada,Trampolining,13,7,2,5,0.5384615384615384,0.2857142857142857,1,1
+Canada,Triathlon,25,2,1,5,0.08,0.5,0,0
+Canada,Volleyball,84,0,0,5,0.0,0.0,0,0
+Canada,Water Polo,74,0,0,6,0.0,0.0,0,0
+Canada,Weightlifting,59,3,0,17,0.05084745762711865,0.0,1,0
+Canada,Wrestling,174,17,3,24,0.09770114942528736,0.17647058823529413,1,0
+Cape Verde,Athletics,11,0,0,6,0.0,0.0,0,0
+Cape Verde,Boxing,2,0,0,2,0.0,0.0,0,0
+Cape Verde,Judo,1,0,0,1,0.0,0.0,0,0
+Cape Verde,Rhythmic Gymnastics,3,0,0,3,0.0,0.0,0,0
+Cape Verde,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Cayman Islands,Athletics,17,0,0,8,0.0,0.0,0,0
+Cayman Islands,Cycling,31,0,0,4,0.0,0.0,0,0
+Cayman Islands,Sailing,16,0,0,6,0.0,0.0,0,0
+Cayman Islands,Swimming,16,0,0,4,0.0,0.0,0,0
+Central African Republic,Archery,1,0,0,1,0.0,0.0,0,0
+Central African Republic,Athletics,29,0,0,10,0.0,0.0,0,0
+Central African Republic,Basketball,12,0,0,1,0.0,0.0,0,0
+Central African Republic,Boxing,6,0,0,4,0.0,0.0,0,0
+Central African Republic,Cycling,7,0,0,1,0.0,0.0,0,0
+Central African Republic,Judo,4,0,0,2,0.0,0.0,0,0
+Central African Republic,Swimming,3,0,0,2,0.0,0.0,0,0
+Central African Republic,Taekwondo,4,0,0,3,0.0,0.0,0,0
+Central African Republic,Wrestling,1,0,0,1,0.0,0.0,0,0
+Chad,Athletics,37,0,0,12,0.0,0.0,0,0
+Chad,Boxing,1,0,0,1,0.0,0.0,0,0
+Chad,Judo,3,0,0,2,0.0,0.0,0,0
+Chile,Archery,3,0,0,3,0.0,0.0,0,0
+Chile,Athletics,167,2,0,22,0.011976047904191617,0.0,1,0
+Chile,Basketball,43,0,0,4,0.0,0.0,0,0
+Chile,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+Chile,Boxing,38,3,0,11,0.07894736842105263,0.0,0,0
+Chile,Canoeing,2,0,0,2,0.0,0.0,0,0
+Chile,Cycling,88,0,0,16,0.0,0.0,1,0
+Chile,Diving,4,0,0,2,0.0,0.0,0,0
+Chile,Equestrianism,51,4,0,10,0.0784313725490196,0.0,0,0
+Chile,Fencing,45,0,0,11,0.0,0.0,0,0
+Chile,Football,53,17,0,4,0.32075471698113206,0.0,1,1
+Chile,Golf,1,0,0,1,0.0,0.0,0,0
+Chile,Gymnastics,12,0,0,2,0.0,0.0,0,0
+Chile,Judo,6,0,0,6,0.0,0.0,0,0
+Chile,Modern Pentathlon,23,0,0,7,0.0,0.0,0,0
+Chile,Rowing,31,0,0,10,0.0,0.0,0,0
+Chile,Sailing,27,0,0,9,0.0,0.0,0,0
+Chile,Shooting,53,1,0,19,0.018867924528301886,0.0,1,0
+Chile,Swimming,28,0,0,9,0.0,0.0,0,0
+Chile,Table Tennis,31,0,0,6,0.0,0.0,0,0
+Chile,Taekwondo,3,0,0,3,0.0,0.0,0,0
+Chile,Tennis,21,5,3,7,0.23809523809523808,0.6,0,1
+Chile,Triathlon,5,0,0,4,0.0,0.0,0,0
+Chile,Water Polo,8,0,0,1,0.0,0.0,0,0
+Chile,Weightlifting,6,0,0,4,0.0,0.0,0,0
+Chile,Wrestling,1,0,0,1,0.0,0.0,0,0
+China,Archery,109,19,1,9,0.1743119266055046,0.05263157894736842,1,0
+China,Art Competitions,5,0,0,1,0.0,0.0,0,0
+China,Athletics,493,27,8,13,0.05476673427991886,0.2962962962962963,1,0
+China,Badminton,165,64,28,7,0.3878787878787879,0.4375,1,1
+China,Baseball,24,0,0,1,0.0,0.0,0,0
+China,Basketball,223,23,0,11,0.1031390134529148,0.0,1,0
+China,Beach Volleyball,20,4,0,5,0.2,0.0,0,0
+China,Boxing,52,12,3,10,0.23076923076923078,0.25,1,1
+China,Canoeing,138,4,4,9,0.028985507246376812,1.0,0,0
+China,Cycling,150,10,2,13,0.06666666666666667,0.2,1,0
+China,Diving,119,88,56,9,0.7394957983193278,0.6363636363636364,1,1
+China,Equestrianism,17,0,0,2,0.0,0.0,0,0
+China,Fencing,295,30,7,11,0.1016949152542373,0.23333333333333334,1,0
+China,Football,129,15,0,8,0.11627906976744186,0.0,0,0
+China,Golf,5,1,0,1,0.2,0.0,0,0
+China,Gymnastics,650,109,45,9,0.1676923076923077,0.41284403669724773,2,0
+China,Handball,81,13,0,5,0.16049382716049382,0.0,0,0
+China,Hockey,114,16,0,6,0.14035087719298245,0.0,0,0
+China,Judo,99,22,8,11,0.2222222222222222,0.36363636363636365,1,1
+China,Modern Pentathlon,19,1,0,7,0.05263157894736842,0.0,0,0
+China,Rhythmic Gymnastics,35,6,0,9,0.17142857142857143,0.0,0,0
+China,Rowing,191,29,4,9,0.1518324607329843,0.13793103448275862,1,0
+China,Sailing,99,7,3,12,0.0707070707070707,0.42857142857142855,1,0
+China,Shooting,271,56,22,14,0.2066420664206642,0.39285714285714285,1,1
+China,Softball,60,15,0,4,0.25,0.0,0,1
+China,Swimming,711,70,13,18,0.09845288326300984,0.18571428571428572,1,0
+China,Synchronized Swimming,72,31,0,8,0.4305555555555556,0.0,1,1
+China,Table Tennis,178,83,49,8,0.46629213483146065,0.5903614457831325,1,1
+China,Taekwondo,16,10,7,5,0.625,0.7,1,1
+China,Tennis,51,4,2,8,0.0784313725490196,0.5,0,0
+China,Trampolining,14,11,3,4,0.7857142857142857,0.2727272727272727,1,1
+China,Triathlon,14,0,0,5,0.0,0.0,0,0
+China,Volleyball,126,66,34,9,0.5238095238095238,0.5151515151515151,1,1
+China,Water Polo,76,0,0,5,0.0,0.0,0,0
+China,Weightlifting,94,57,34,10,0.6063829787234043,0.5964912280701754,1,1
+China,Wrestling,81,10,2,9,0.12345679012345678,0.2,0,0
+Colombia,Archery,17,0,0,5,0.0,0.0,0,0
+Colombia,Art Competitions,1,0,0,1,0.0,0.0,0,0
+Colombia,Athletics,208,3,1,18,0.014423076923076924,0.3333333333333333,1,0
+Colombia,Boxing,47,5,0,11,0.10638297872340426,0.0,0,0
+Colombia,Cycling,193,6,2,15,0.031088082901554404,0.3333333333333333,1,0
+Colombia,Diving,24,0,0,9,0.0,0.0,0,0
+Colombia,Equestrianism,19,0,0,8,0.0,0.0,0,0
+Colombia,Fencing,62,0,0,11,0.0,0.0,0,0
+Colombia,Football,120,0,0,6,0.0,0.0,0,0
+Colombia,Golf,1,0,0,1,0.0,0.0,0,0
+Colombia,Gymnastics,37,0,0,4,0.0,0.0,0,0
+Colombia,Judo,12,2,0,5,0.16666666666666666,0.0,0,0
+Colombia,Rowing,1,0,0,1,0.0,0.0,0,0
+Colombia,Rugby Sevens,12,0,0,1,0.0,0.0,0,0
+Colombia,Sailing,6,0,0,4,0.0,0.0,0,0
+Colombia,Shooting,63,2,0,14,0.031746031746031744,0.0,0,0
+Colombia,Swimming,123,0,0,16,0.0,0.0,1,0
+Colombia,Synchronized Swimming,2,0,0,1,0.0,0.0,0,0
+Colombia,Table Tennis,3,0,0,3,0.0,0.0,0,0
+Colombia,Taekwondo,9,1,0,5,0.1111111111111111,0.0,0,0
+Colombia,Tennis,15,0,0,4,0.0,0.0,0,0
+Colombia,Triathlon,3,0,0,3,0.0,0.0,0,0
+Colombia,Tug-Of-War,1,1,0,1,1.0,0.0,1,1
+Colombia,Weightlifting,65,6,2,13,0.09230769230769231,0.3333333333333333,1,0
+Colombia,Wrestling,23,2,0,9,0.08695652173913043,0.0,0,0
+Comoros,Athletics,14,0,0,6,0.0,0.0,0,0
+Comoros,Swimming,4,0,0,3,0.0,0.0,0,0
+Comoros,Weightlifting,1,0,0,1,0.0,0.0,0,0
+Cook Islands,Athletics,14,0,0,8,0.0,0.0,0,0
+Cook Islands,Boxing,3,0,0,1,0.0,0.0,0,0
+Cook Islands,Canoeing,5,0,0,2,0.0,0.0,0,0
+Cook Islands,Sailing,5,0,0,4,0.0,0.0,0,0
+Cook Islands,Swimming,5,0,0,3,0.0,0.0,0,0
+Cook Islands,Weightlifting,8,0,0,7,0.0,0.0,0,0
+Costa Rica,Archery,5,0,0,3,0.0,0.0,0,0
+Costa Rica,Athletics,41,0,0,10,0.0,0.0,0,0
+Costa Rica,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+Costa Rica,Boxing,3,0,0,2,0.0,0.0,0,0
+Costa Rica,Canoeing,6,0,0,2,0.0,0.0,0,0
+Costa Rica,Cycling,20,0,0,8,0.0,0.0,0,0
+Costa Rica,Diving,2,0,0,1,0.0,0.0,0,0
+Costa Rica,Fencing,2,0,0,2,0.0,0.0,0,0
+Costa Rica,Football,47,0,0,3,0.0,0.0,0,0
+Costa Rica,Judo,16,0,0,9,0.0,0.0,0,0
+Costa Rica,Shooting,25,0,0,8,0.0,0.0,0,0
+Costa Rica,Swimming,60,4,1,12,0.06666666666666667,0.25,0,0
+Costa Rica,Taekwondo,3,0,0,3,0.0,0.0,0,0
+Costa Rica,Tennis,1,0,0,1,0.0,0.0,0,0
+Costa Rica,Triathlon,3,0,0,3,0.0,0.0,0,0
+Costa Rica,Weightlifting,4,0,0,2,0.0,0.0,0,0
+Croatia,Athletics,64,5,3,7,0.078125,0.6,0,0
+Croatia,Basketball,58,12,0,5,0.20689655172413793,0.0,0,1
+Croatia,Boxing,8,1,0,5,0.125,0.0,0,0
+Croatia,Canoeing,26,0,0,6,0.0,0.0,0,0
+Croatia,Cycling,8,0,0,3,0.0,0.0,0,0
+Croatia,Diving,1,0,0,1,0.0,0.0,0,0
+Croatia,Equestrianism,2,0,0,2,0.0,0.0,0,0
+Croatia,Fencing,1,0,0,1,0.0,0.0,0,0
+Croatia,Gymnastics,25,1,0,4,0.04,0.0,0,0
+Croatia,Handball,89,46,31,5,0.5168539325842697,0.6739130434782609,1,1
+Croatia,Judo,3,0,0,2,0.0,0.0,0,0
+Croatia,Rowing,46,18,2,7,0.391304347826087,0.1111111111111111,1,1
+Croatia,Sailing,44,3,2,7,0.06818181818181818,0.6666666666666666,0,0
+Croatia,Shooting,47,3,2,7,0.06382978723404255,0.6666666666666666,0,0
+Croatia,Swimming,106,1,0,6,0.009433962264150943,0.0,0,0
+Croatia,Table Tennis,36,0,0,7,0.0,0.0,0,0
+Croatia,Taekwondo,10,3,0,5,0.3,0.0,0,1
+Croatia,Tennis,37,5,0,7,0.13513513513513514,0.0,0,0
+Croatia,Volleyball,11,0,0,1,0.0,0.0,0,0
+Croatia,Water Polo,77,38,13,6,0.4935064935064935,0.34210526315789475,1,1
+Croatia,Weightlifting,3,2,1,3,0.6666666666666666,0.5,1,1
+Croatia,Wrestling,5,0,0,4,0.0,0.0,0,0
+Cuba,Archery,8,0,0,5,0.0,0.0,0,0
+Cuba,Art Competitions,3,0,0,1,0.0,0.0,0,0
+Cuba,Athletics,442,58,10,18,0.13122171945701358,0.1724137931034483,1,0
+Cuba,Badminton,1,0,0,1,0.0,0.0,0,0
+Cuba,Baseball,112,112,64,5,1.0,0.5714285714285714,1,1
+Cuba,Basketball,121,12,0,9,0.09917355371900827,0.0,0,0
+Cuba,Beach Volleyball,14,0,0,5,0.0,0.0,0,0
+Cuba,Boxing,126,73,37,13,0.5793650793650794,0.5068493150684932,1,1
+Cuba,Canoeing,52,5,0,8,0.09615384615384616,0.0,0,0
+Cuba,Cycling,70,1,0,12,0.014285714285714285,0.0,0,0
+Cuba,Diving,33,0,0,7,0.0,0.0,0,0
+Cuba,Fencing,180,20,6,17,0.1111111111111111,0.3,1,0
+Cuba,Football,29,0,0,2,0.0,0.0,0,0
+Cuba,Gymnastics,386,0,0,12,0.0,0.0,1,0
+Cuba,Handball,27,0,0,2,0.0,0.0,0,0
+Cuba,Hockey,16,0,0,1,0.0,0.0,0,0
+Cuba,Judo,94,36,6,10,0.3829787234042553,0.16666666666666666,1,1
+Cuba,Modern Pentathlon,3,0,0,2,0.0,0.0,0,0
+Cuba,Rowing,131,0,0,14,0.0,0.0,0,0
+Cuba,Sailing,19,2,0,8,0.10526315789473684,0.0,0,0
+Cuba,Shooting,94,4,1,13,0.0425531914893617,0.25,0,0
+Cuba,Softball,15,0,0,1,0.0,0.0,0,0
+Cuba,Swimming,53,2,0,12,0.03773584905660377,0.0,0,0
+Cuba,Synchronized Swimming,2,0,0,1,0.0,0.0,0,0
+Cuba,Table Tennis,18,0,0,4,0.0,0.0,0,0
+Cuba,Taekwondo,13,5,1,5,0.38461538461538464,0.2,1,1
+Cuba,Volleyball,170,52,28,9,0.3058823529411765,0.5384615384615384,1,1
+Cuba,Water Polo,57,0,0,5,0.0,0.0,0,0
+Cuba,Weightlifting,67,5,2,15,0.07462686567164178,0.4,1,0
+Cuba,Wrestling,123,22,9,13,0.17886178861788618,0.4090909090909091,1,0
+Curacao,Athletics,14,0,0,7,0.0,0.0,0,0
+Curacao,Equestrianism,2,0,0,2,0.0,0.0,0,0
+Curacao,Fencing,4,0,0,2,0.0,0.0,0,0
+Curacao,Football,11,0,0,1,0.0,0.0,0,0
+Curacao,Judo,3,0,0,2,0.0,0.0,0,0
+Curacao,Sailing,6,1,0,4,0.16666666666666666,0.0,0,0
+Curacao,Shooting,7,0,0,6,0.0,0.0,0,0
+Curacao,Swimming,11,0,0,5,0.0,0.0,0,0
+Curacao,Synchronized Swimming,4,0,0,1,0.0,0.0,0,0
+Curacao,Triathlon,1,0,0,1,0.0,0.0,0,0
+Curacao,Weightlifting,11,0,0,4,0.0,0.0,0,0
+Cyprus,Archery,2,0,0,2,0.0,0.0,0,0
+Cyprus,Athletics,67,0,0,9,0.0,0.0,0,0
+Cyprus,Cycling,4,0,0,4,0.0,0.0,0,0
+Cyprus,Gymnastics,6,0,0,1,0.0,0.0,0,0
+Cyprus,Judo,12,0,0,5,0.0,0.0,0,0
+Cyprus,Rhythmic Gymnastics,3,0,0,2,0.0,0.0,0,0
+Cyprus,Sailing,25,1,0,9,0.04,0.0,0,0
+Cyprus,Shooting,23,0,0,9,0.0,0.0,0,0
+Cyprus,Swimming,31,0,0,8,0.0,0.0,0,0
+Cyprus,Tennis,2,0,0,2,0.0,0.0,0,0
+Cyprus,Weightlifting,1,0,0,1,0.0,0.0,0,0
+Cyprus,Wrestling,2,0,0,2,0.0,0.0,0,0
+Czech Republic,Archery,6,0,0,3,0.0,0.0,0,0
+Czech Republic,Art Competitions,88,3,0,5,0.03409090909090909,0.0,0,0
+Czech Republic,Athletics,585,37,16,26,0.06324786324786325,0.43243243243243246,1,0
+Czech Republic,Badminton,8,0,0,4,0.0,0.0,0,0
+Czech Republic,Basketball,159,0,0,12,0.0,0.0,0,0
+Czech Republic,Beach Volleyball,18,0,0,5,0.0,0.0,0,0
+Czech Republic,Boxing,58,7,3,15,0.1206896551724138,0.42857142857142855,1,0
+Czech Republic,Canoeing,274,42,14,18,0.15328467153284672,0.3333333333333333,1,0
+Czech Republic,Cycling,260,15,3,22,0.057692307692307696,0.2,1,0
+Czech Republic,Diving,20,2,1,10,0.1,0.5,0,0
+Czech Republic,Equestrianism,59,1,1,7,0.01694915254237288,1.0,0,0
+Czech Republic,Fencing,162,6,0,14,0.037037037037037035,0.0,1,0
+Czech Republic,Football,100,33,16,6,0.33,0.48484848484848486,1,1
+Czech Republic,Golf,1,0,0,1,0.0,0.0,0,0
+Czech Republic,Gymnastics,1114,78,19,25,0.07001795332136446,0.24358974358974358,2,0
+Czech Republic,Handball,88,16,0,5,0.18181818181818182,0.0,0,0
+Czech Republic,Hockey,16,16,0,1,1.0,0.0,1,1
+Czech Republic,Ice Hockey,8,8,0,1,1.0,0.0,1,1
+Czech Republic,Judo,33,2,1,11,0.06060606060606061,0.5,0,0
+Czech Republic,Modern Pentathlon,45,6,1,13,0.13333333333333333,0.16666666666666666,1,0
+Czech Republic,Rhythmic Gymnastics,7,0,0,4,0.0,0.0,0,0
+Czech Republic,Rowing,306,53,8,21,0.17320261437908496,0.1509433962264151,1,0
+Czech Republic,Sailing,31,1,0,13,0.03225806451612903,0.0,0,0
+Czech Republic,Shooting,293,18,6,20,0.06143344709897611,0.3333333333333333,1,0
+Czech Republic,Swimming,212,0,0,21,0.0,0.0,1,0
+Czech Republic,Synchronized Swimming,11,0,0,6,0.0,0.0,0,0
+Czech Republic,Table Tennis,34,0,0,8,0.0,0.0,0,0
+Czech Republic,Tennis,135,22,1,14,0.16296296296296298,0.045454545454545456,1,0
+Czech Republic,Trampolining,3,0,0,3,0.0,0.0,0,0
+Czech Republic,Triathlon,17,1,0,5,0.058823529411764705,0.0,0,0
+Czech Republic,Volleyball,83,23,0,5,0.27710843373493976,0.0,1,1
+Czech Republic,Water Polo,43,0,0,5,0.0,0.0,0,0
+Czech Republic,Weightlifting,73,8,3,21,0.1095890410958904,0.375,1,0
+Czech Republic,Wrestling,126,15,1,24,0.11904761904761904,0.06666666666666667,1,0
+Democratic Republic of the Congo,Athletics,34,0,0,9,0.0,0.0,0,0
+Democratic Republic of the Congo,Basketball,12,0,0,1,0.0,0.0,0,0
+Democratic Republic of the Congo,Boxing,14,0,0,5,0.0,0.0,0,0
+Democratic Republic of the Congo,Cycling,18,0,0,3,0.0,0.0,0,0
+Democratic Republic of the Congo,Judo,9,0,0,4,0.0,0.0,0,0
+Democratic Republic of the Congo,Swimming,1,0,0,1,0.0,0.0,0,0
+Democratic Republic of the Congo,Table Tennis,4,0,0,1,0.0,0.0,0,0
+Democratic Republic of the Congo,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Denmark,Archery,27,0,0,8,0.0,0.0,0,0
+Denmark,Art Competitions,104,9,0,5,0.08653846153846154,0.0,0,0
+Denmark,Athletics,257,7,0,28,0.027237354085603113,0.0,1,0
+Denmark,Badminton,104,12,1,7,0.11538461538461539,0.08333333333333333,0,0
+Denmark,Boxing,84,12,1,19,0.14285714285714285,0.08333333333333333,1,0
+Denmark,Canoeing,124,22,4,19,0.1774193548387097,0.18181818181818182,1,0
+Denmark,Cycling,323,52,14,25,0.1609907120743034,0.2692307692307692,1,0
+Denmark,Diving,29,2,1,11,0.06896551724137931,0.5,0,0
+Denmark,Equestrianism,140,8,0,19,0.05714285714285714,0.0,1,0
+Denmark,Fencing,229,6,1,18,0.026200873362445413,0.16666666666666666,1,0
+Denmark,Football,151,65,12,11,0.4304635761589404,0.18461538461538463,1,1
+Denmark,Golf,4,0,0,1,0.0,0.0,0,0
+Denmark,Gymnastics,295,111,20,10,0.376271186440678,0.18018018018018017,1,1
+Denmark,Handball,159,59,59,10,0.3710691823899371,1.0,1,1
+Denmark,Hockey,69,12,0,5,0.17391304347826086,0.0,0,0
+Denmark,Judo,2,0,0,2,0.0,0.0,0,0
+Denmark,Modern Pentathlon,25,0,0,10,0.0,0.0,0,0
+Denmark,Rhythmic Gymnastics,1,0,0,1,0.0,0.0,0,0
+Denmark,Rowing,282,79,26,23,0.2801418439716312,0.3291139240506329,1,1
+Denmark,Sailing,207,66,24,22,0.3188405797101449,0.36363636363636365,1,1
+Denmark,Shooting,286,27,7,25,0.0944055944055944,0.25925925925925924,1,0
+Denmark,Swimming,349,21,3,26,0.06017191977077364,0.14285714285714285,1,0
+Denmark,Table Tennis,10,2,0,5,0.2,0.0,0,0
+Denmark,Taekwondo,4,0,0,2,0.0,0.0,0,0
+Denmark,Tennis,54,1,0,10,0.018518518518518517,0.0,0,0
+Denmark,Trampolining,3,0,0,3,0.0,0.0,0,0
+Denmark,Triathlon,7,0,0,5,0.0,0.0,0,0
+Denmark,Tug-Of-War,3,3,3,1,1.0,1.0,1,1
+Denmark,Weightlifting,26,3,1,12,0.11538461538461539,0.3333333333333333,1,0
+Denmark,Wrestling,100,13,2,19,0.13,0.15384615384615385,1,0
+Djibouti,Athletics,28,1,0,8,0.03571428571428571,0.0,0,0
+Djibouti,Judo,3,0,0,2,0.0,0.0,0,0
+Djibouti,Sailing,4,0,0,3,0.0,0.0,0,0
+Djibouti,Swimming,2,0,0,2,0.0,0.0,0,0
+Djibouti,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Dominica,Athletics,15,0,0,6,0.0,0.0,0,0
+Dominica,Swimming,3,0,0,2,0.0,0.0,0,0
+Dominican Republic,Archery,1,0,0,1,0.0,0.0,0,0
+Dominican Republic,Athletics,73,3,2,12,0.0410958904109589,0.6666666666666666,0,0
+Dominican Republic,Baseball,20,0,0,1,0.0,0.0,0,0
+Dominican Republic,Boxing,51,2,1,12,0.0392156862745098,0.5,0,0
+Dominican Republic,Cycling,1,0,0,1,0.0,0.0,0,0
+Dominican Republic,Diving,5,0,0,2,0.0,0.0,0,0
+Dominican Republic,Equestrianism,1,0,0,1,0.0,0.0,0,0
+Dominican Republic,Gymnastics,2,0,0,1,0.0,0.0,0,0
+Dominican Republic,Judo,27,0,0,10,0.0,0.0,0,0
+Dominican Republic,Sailing,2,0,0,2,0.0,0.0,0,0
+Dominican Republic,Shooting,9,0,0,6,0.0,0.0,0,0
+Dominican Republic,Swimming,6,0,0,4,0.0,0.0,0,0
+Dominican Republic,Synchronized Swimming,4,0,0,1,0.0,0.0,0,0
+Dominican Republic,Table Tennis,15,0,0,5,0.0,0.0,0,0
+Dominican Republic,Taekwondo,6,2,0,4,0.3333333333333333,0.0,0,1
+Dominican Republic,Tennis,2,0,0,2,0.0,0.0,0,0
+Dominican Republic,Volleyball,24,0,0,2,0.0,0.0,0,0
+Dominican Republic,Weightlifting,21,0,0,12,0.0,0.0,0,0
+Dominican Republic,Wrestling,7,0,0,5,0.0,0.0,0,0
+Ecuador,Athletics,83,2,1,12,0.024096385542168676,0.5,0,0
+Ecuador,Boxing,24,0,0,9,0.0,0.0,0,0
+Ecuador,Canoeing,2,0,0,2,0.0,0.0,0,0
+Ecuador,Cycling,26,0,0,8,0.0,0.0,0,0
+Ecuador,Diving,2,0,0,2,0.0,0.0,0,0
+Ecuador,Equestrianism,3,0,0,3,0.0,0.0,0,0
+Ecuador,Gymnastics,21,0,0,1,0.0,0.0,0,0
+Ecuador,Judo,17,0,0,9,0.0,0.0,0,0
+Ecuador,Rowing,1,0,0,1,0.0,0.0,0,0
+Ecuador,Sailing,1,0,0,1,0.0,0.0,0,0
+Ecuador,Shooting,16,0,0,9,0.0,0.0,0,0
+Ecuador,Swimming,46,0,0,11,0.0,0.0,0,0
+Ecuador,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Ecuador,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Ecuador,Tennis,6,0,0,3,0.0,0.0,0,0
+Ecuador,Triathlon,2,0,0,2,0.0,0.0,0,0
+Ecuador,Weightlifting,16,0,0,7,0.0,0.0,0,0
+Ecuador,Wrestling,9,0,0,5,0.0,0.0,0,0
+Egypt,Archery,11,0,0,5,0.0,0.0,0,0
+Egypt,Art Competitions,3,0,0,1,0.0,0.0,0,0
+Egypt,Athletics,63,0,0,14,0.0,0.0,0,0
+Egypt,Badminton,2,0,0,2,0.0,0.0,0,0
+Egypt,Basketball,77,0,0,7,0.0,0.0,0,0
+Egypt,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+Egypt,Boxing,81,3,0,17,0.037037037037037035,0.0,1,0
+Egypt,Canoeing,4,0,0,2,0.0,0.0,0,0
+Egypt,Cycling,13,0,0,4,0.0,0.0,0,0
+Egypt,Diving,30,2,0,7,0.06666666666666667,0.0,0,0
+Egypt,Equestrianism,19,0,0,9,0.0,0.0,0,0
+Egypt,Fencing,181,1,0,16,0.0055248618784530384,0.0,1,0
+Egypt,Football,142,0,0,10,0.0,0.0,0,0
+Egypt,Gymnastics,169,0,0,8,0.0,0.0,0,0
+Egypt,Handball,88,0,0,6,0.0,0.0,0,0
+Egypt,Hockey,32,0,0,2,0.0,0.0,0,0
+Egypt,Judo,38,2,0,9,0.05263157894736842,0.0,0,0
+Egypt,Modern Pentathlon,30,0,0,8,0.0,0.0,0,0
+Egypt,Rhythmic Gymnastics,2,0,0,2,0.0,0.0,0,0
+Egypt,Rowing,50,0,0,9,0.0,0.0,0,0
+Egypt,Sailing,3,0,0,3,0.0,0.0,0,0
+Egypt,Shooting,84,0,0,14,0.0,0.0,0,0
+Egypt,Swimming,101,0,0,13,0.0,0.0,0,0
+Egypt,Synchronized Swimming,40,0,0,6,0.0,0.0,0,0
+Egypt,Table Tennis,35,0,0,6,0.0,0.0,0,0
+Egypt,Taekwondo,15,2,0,5,0.13333333333333333,0.0,0,0
+Egypt,Volleyball,60,0,0,5,0.0,0.0,0,0
+Egypt,Water Polo,51,0,0,5,0.0,0.0,0,0
+Egypt,Weightlifting,86,11,5,18,0.12790697674418605,0.45454545454545453,1,0
+Egypt,Wrestling,107,6,2,19,0.056074766355140186,0.3333333333333333,1,0
+El Salvador,Archery,2,0,0,2,0.0,0.0,0,0
+El Salvador,Art Competitions,4,0,0,1,0.0,0.0,0,0
+El Salvador,Athletics,37,0,0,10,0.0,0.0,0,0
+El Salvador,Boxing,2,0,0,1,0.0,0.0,0,0
+El Salvador,Cycling,17,0,0,6,0.0,0.0,0,0
+El Salvador,Football,18,0,0,1,0.0,0.0,0,0
+El Salvador,Judo,10,0,0,8,0.0,0.0,0,0
+El Salvador,Rowing,3,0,0,2,0.0,0.0,0,0
+El Salvador,Sailing,4,0,0,2,0.0,0.0,0,0
+El Salvador,Shooting,24,0,0,8,0.0,0.0,0,0
+El Salvador,Swimming,83,0,0,10,0.0,0.0,0,0
+El Salvador,Tennis,1,0,0,1,0.0,0.0,0,0
+El Salvador,Weightlifting,8,0,0,7,0.0,0.0,0,0
+El Salvador,Wrestling,5,0,0,3,0.0,0.0,0,0
+Equatorial Guinea,Athletics,37,0,0,9,0.0,0.0,0,0
+Equatorial Guinea,Judo,1,0,0,1,0.0,0.0,0,0
+Equatorial Guinea,Swimming,2,0,0,1,0.0,0.0,0,0
+Eritrea,Athletics,41,1,0,5,0.024390243902439025,0.0,0,0
+Eritrea,Cycling,2,0,0,2,0.0,0.0,0,0
+Estonia,Archery,4,0,0,4,0.0,0.0,0,0
+Estonia,Athletics,125,6,2,12,0.048,0.3333333333333333,0,0
+Estonia,Badminton,5,0,0,3,0.0,0.0,0,0
+Estonia,Basketball,8,0,0,1,0.0,0.0,0,0
+Estonia,Beach Volleyball,4,0,0,2,0.0,0.0,0,0
+Estonia,Boxing,4,1,0,3,0.25,0.0,0,1
+Estonia,Canoeing,6,0,0,3,0.0,0.0,0,0
+Estonia,Cycling,31,1,1,7,0.03225806451612903,1.0,0,0
+Estonia,Fencing,31,0,0,6,0.0,0.0,0,0
+Estonia,Football,11,0,0,1,0.0,0.0,0,0
+Estonia,Judo,9,3,0,7,0.3333333333333333,0.0,1,1
+Estonia,Modern Pentathlon,3,0,0,3,0.0,0.0,0,0
+Estonia,Rhythmic Gymnastics,1,0,0,1,0.0,0.0,0,0
+Estonia,Rowing,36,7,0,8,0.19444444444444445,0.0,0,0
+Estonia,Sailing,31,7,0,9,0.22580645161290322,0.0,1,1
+Estonia,Shooting,12,0,0,7,0.0,0.0,0,0
+Estonia,Swimming,47,0,0,8,0.0,0.0,0,0
+Estonia,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Estonia,Tennis,7,0,0,2,0.0,0.0,0,0
+Estonia,Triathlon,3,0,0,3,0.0,0.0,0,0
+Estonia,Weightlifting,20,7,1,5,0.35,0.14285714285714285,1,1
+Estonia,Wrestling,52,11,5,11,0.21153846153846154,0.45454545454545453,1,1
+Ethiopia,Athletics,289,53,22,13,0.18339100346020762,0.41509433962264153,1,0
+Ethiopia,Boxing,27,0,0,7,0.0,0.0,0,0
+Ethiopia,Cycling,56,0,0,8,0.0,0.0,0,0
+Ethiopia,Swimming,4,0,0,2,0.0,0.0,0,0
+Fiji,Archery,3,0,0,3,0.0,0.0,0,0
+Fiji,Athletics,65,0,0,14,0.0,0.0,0,0
+Fiji,Boxing,5,0,0,3,0.0,0.0,0,0
+Fiji,Cycling,1,0,0,1,0.0,0.0,0,0
+Fiji,Football,16,0,0,1,0.0,0.0,0,0
+Fiji,Judo,17,0,0,9,0.0,0.0,0,0
+Fiji,Rugby Sevens,26,13,13,1,0.5,1.0,1,1
+Fiji,Sailing,22,0,0,6,0.0,0.0,0,0
+Fiji,Shooting,4,0,0,4,0.0,0.0,0,0
+Fiji,Swimming,60,0,0,9,0.0,0.0,0,0
+Fiji,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Fiji,Weightlifting,8,0,0,6,0.0,0.0,0,0
+Finland,Archery,45,6,1,11,0.13333333333333333,0.16666666666666666,1,0
+Finland,Art Competitions,9,5,3,3,0.5555555555555556,0.6,1,1
+Finland,Athletics,912,138,64,26,0.1513157894736842,0.463768115942029,2,0
+Finland,Badminton,14,0,0,7,0.0,0.0,0,0
+Finland,Basketball,23,0,0,2,0.0,0.0,0,0
+Finland,Boxing,72,15,2,17,0.20833333333333334,0.13333333333333333,1,1
+Finland,Canoeing,100,14,7,18,0.14,0.5,1,0
+Finland,Cycling,123,0,0,19,0.0,0.0,1,0
+Finland,Diving,49,0,0,18,0.0,0.0,1,0
+Finland,Equestrianism,57,0,0,16,0.0,0.0,1,0
+Finland,Fencing,61,0,0,10,0.0,0.0,0,0
+Finland,Figure Skating,3,2,2,1,0.6666666666666666,1.0,1,1
+Finland,Football,51,0,0,4,0.0,0.0,0,0
+Finland,Golf,4,0,0,1,0.0,0.0,0,0
+Finland,Gymnastics,714,99,15,15,0.13865546218487396,0.15151515151515152,2,0
+Finland,Hockey,11,0,0,1,0.0,0.0,0,0
+Finland,Judo,27,0,0,12,0.0,0.0,0,0
+Finland,Modern Pentathlon,68,11,0,14,0.16176470588235295,0.0,1,0
+Finland,Rhythmic Gymnastics,4,0,0,4,0.0,0.0,0,0
+Finland,Rowing,93,16,3,15,0.17204301075268819,0.1875,1,0
+Finland,Sailing,177,35,3,22,0.1977401129943503,0.08571428571428572,1,0
+Finland,Shooting,347,41,4,23,0.11815561959654179,0.0975609756097561,1,0
+Finland,Swimming,237,4,0,25,0.016877637130801686,0.0,1,0
+Finland,Synchronized Swimming,1,0,0,1,0.0,0.0,0,0
+Finland,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Finland,Taekwondo,5,0,0,4,0.0,0.0,0,0
+Finland,Tennis,11,0,0,4,0.0,0.0,0,0
+Finland,Weightlifting,65,3,1,18,0.046153846153846156,0.3333333333333333,1,0
+Finland,Wrestling,274,85,27,26,0.3102189781021898,0.3176470588235294,1,1
+France,Archery,151,48,7,14,0.31788079470198677,0.14583333333333334,1,1
+France,Art Competitions,366,15,6,6,0.040983606557377046,0.4,0,0
+France,Athletics,1500,116,14,29,0.07733333333333334,0.1206896551724138,2,0
+France,Badminton,20,0,0,7,0.0,0.0,0,0
+France,Basketball,147,38,0,9,0.2585034013605442,0.0,1,1
+France,Beach Volleyball,10,0,0,3,0.0,0.0,0,0
+France,Boxing,172,25,6,24,0.14534883720930233,0.24,1,0
+France,Canoeing,280,53,10,19,0.18928571428571428,0.18867924528301888,1,0
+France,Cricket,3,3,0,1,1.0,0.0,1,1
+France,Croquet,19,8,4,1,0.42105263157894735,0.5,1,1
+France,Cycling,679,151,69,28,0.22238586156111928,0.45695364238410596,2,1
+France,Diving,80,1,0,21,0.0125,0.0,1,0
+France,Equestrianism,463,79,32,24,0.17062634989200864,0.4050632911392405,1,0
+France,Fencing,982,310,129,27,0.31568228105906315,0.4161290322580645,2,1
+France,Figure Skating,2,0,0,1,0.0,0.0,0,0
+France,Football,212,32,16,15,0.1509433962264151,0.5,1,0
+France,Golf,11,0,0,2,0.0,0.0,0,0
+France,Gymnastics,1576,58,5,27,0.03680203045685279,0.08620689655172414,2,0
+France,Handball,181,77,30,7,0.425414364640884,0.38961038961038963,1,1
+France,Hockey,135,0,0,9,0.0,0.0,0,0
+France,Ice Hockey,7,0,0,1,0.0,0.0,0,0
+France,Judo,135,49,14,13,0.362962962962963,0.2857142857142857,1,1
+France,Modern Pentathlon,93,7,0,23,0.07526881720430108,0.0,1,0
+France,Motorboating,1,1,1,1,1.0,1.0,1,1
+France,Polo,13,4,0,2,0.3076923076923077,0.0,0,1
+France,Rhythmic Gymnastics,20,0,0,7,0.0,0.0,0,0
+France,Rowing,531,119,20,26,0.224105461393597,0.16806722689075632,2,1
+France,Rugby,49,49,15,3,1.0,0.30612244897959184,1,1
+France,Rugby Sevens,25,0,0,1,0.0,0.0,0,0
+France,Sailing,483,117,30,25,0.2422360248447205,0.2564102564102564,2,1
+France,Shooting,594,69,12,25,0.11616161616161616,0.17391304347826086,1,0
+France,Swimming,887,80,13,27,0.09019165727170236,0.1625,2,0
+France,Synchronized Swimming,41,2,0,9,0.04878048780487805,0.0,0,0
+France,Table Tennis,44,3,0,8,0.06818181818181818,0.0,0,0
+France,Taekwondo,14,7,0,5,0.5,0.0,1,1
+France,Tennis,174,38,12,15,0.21839080459770116,0.3157894736842105,1,1
+France,Trampolining,6,0,0,5,0.0,0.0,0,0
+France,Triathlon,26,0,0,5,0.0,0.0,0,0
+France,Tug-Of-War,5,5,0,1,1.0,0.0,1,1
+France,Volleyball,46,0,0,4,0.0,0.0,0,0
+France,Water Polo,125,30,7,11,0.24,0.23333333333333334,1,1
+France,Weightlifting,129,16,9,24,0.12403100775193798,0.5625,1,0
+France,Wrestling,196,17,4,25,0.08673469387755102,0.23529411764705882,1,0
+Gabon,Athletics,22,0,0,9,0.0,0.0,0,0
+Gabon,Boxing,12,0,0,8,0.0,0.0,0,0
+Gabon,Football,15,0,0,1,0.0,0.0,0,0
+Gabon,Judo,10,0,0,7,0.0,0.0,0,0
+Gabon,Swimming,1,0,0,1,0.0,0.0,0,0
+Gabon,Taekwondo,3,1,0,3,0.3333333333333333,0.0,0,1
+Gambia,Athletics,50,0,0,9,0.0,0.0,0,0
+Gambia,Boxing,1,0,0,1,0.0,0.0,0,0
+Gambia,Judo,1,0,0,1,0.0,0.0,0,0
+Gambia,Swimming,1,0,0,1,0.0,0.0,0,0
+Gambia,Wrestling,3,0,0,1,0.0,0.0,0,0
+Georgia,Archery,18,0,0,6,0.0,0.0,0,0
+Georgia,Athletics,18,0,0,6,0.0,0.0,0,0
+Georgia,Beach Volleyball,4,0,0,1,0.0,0.0,0,0
+Georgia,Boxing,11,1,0,4,0.09090909090909091,0.0,0,0
+Georgia,Canoeing,1,0,0,1,0.0,0.0,0,0
+Georgia,Cycling,1,0,0,1,0.0,0.0,0,0
+Georgia,Diving,3,0,0,2,0.0,0.0,0,0
+Georgia,Fencing,2,0,0,2,0.0,0.0,0,0
+Georgia,Gymnastics,24,0,0,4,0.0,0.0,0,0
+Georgia,Judo,41,8,3,6,0.1951219512195122,0.375,0,0
+Georgia,Modern Pentathlon,1,0,0,1,0.0,0.0,0,0
+Georgia,Rhythmic Gymnastics,3,0,0,3,0.0,0.0,0,0
+Georgia,Sailing,2,0,0,1,0.0,0.0,0,0
+Georgia,Shooting,19,1,0,6,0.05263157894736842,0.0,0,0
+Georgia,Swimming,7,0,0,5,0.0,0.0,0,0
+Georgia,Tennis,4,0,0,2,0.0,0.0,0,0
+Georgia,Trampolining,5,0,0,5,0.0,0.0,0,0
+Georgia,Weightlifting,16,4,2,6,0.25,0.5,0,1
+Georgia,Wrestling,67,18,3,6,0.26865671641791045,0.16666666666666666,1,1
+Germany,Alpinism,2,2,2,1,1.0,1.0,1,1
+Germany,Archery,62,7,0,11,0.11290322580645161,0.0,0,0
+Germany,Art Competitions,356,26,9,4,0.07303370786516854,0.34615384615384615,0,0
+Germany,Athletics,2020,365,90,26,0.1806930693069307,0.2465753424657534,2,0
+Germany,Badminton,50,0,0,7,0.0,0.0,0,0
+Germany,Basketball,58,0,0,5,0.0,0.0,0,0
+Germany,Beach Volleyball,42,6,4,6,0.14285714285714285,0.6666666666666666,0,0
+Germany,Boxing,193,48,11,20,0.24870466321243523,0.22916666666666666,1,1
+Germany,Canoeing,489,229,104,18,0.46830265848670755,0.45414847161572053,2,1
+Germany,Cycling,583,155,53,25,0.2658662092624357,0.3419354838709677,2,1
+Germany,Diving,241,37,8,23,0.15352697095435686,0.21621621621621623,1,0
+Germany,Equestrianism,436,205,106,20,0.4701834862385321,0.5170731707317073,2,1
+Germany,Fencing,600,122,42,25,0.20333333333333334,0.3442622950819672,2,1
+Germany,Figure Skating,3,3,2,1,1.0,0.6666666666666666,1,1
+Germany,Football,295,173,35,16,0.5864406779661017,0.2023121387283237,2,1
+Germany,Golf,4,0,0,1,0.0,0.0,0,0
+Germany,Gymnastics,1856,164,52,24,0.08836206896551724,0.3170731707317073,2,0
+Germany,Handball,287,109,36,12,0.3797909407665505,0.3302752293577982,1,1
+Germany,Hockey,459,248,83,19,0.5403050108932462,0.3346774193548387,2,1
+Germany,Judo,135,37,5,13,0.2740740740740741,0.13513513513513514,1,1
+Germany,Modern Pentathlon,87,3,2,18,0.034482758620689655,0.6666666666666666,1,0
+Germany,Polo,4,0,0,1,0.0,0.0,0,0
+Germany,Rhythmic Gymnastics,35,1,0,8,0.02857142857142857,0.0,0,0
+Germany,Rowing,916,471,272,23,0.5141921397379913,0.5774946921443737,2,1
+Germany,Rugby,15,15,0,1,1.0,0.0,1,1
+Germany,Sailing,292,69,18,21,0.2363013698630137,0.2608695652173913,1,1
+Germany,Shooting,405,58,18,21,0.14320987654320988,0.3103448275862069,1,0
+Germany,Swimming,1402,367,82,25,0.26176890156918686,0.22343324250681199,2,1
+Germany,Synchronized Swimming,14,0,0,3,0.0,0.0,0,0
+Germany,Table Tennis,84,16,0,8,0.19047619047619047,0.0,1,0
+Germany,Taekwondo,11,2,0,4,0.18181818181818182,0.0,0,0
+Germany,Tennis,93,18,6,12,0.1935483870967742,0.3333333333333333,1,0
+Germany,Trampolining,9,2,1,5,0.2222222222222222,0.5,0,1
+Germany,Triathlon,23,2,1,5,0.08695652173913043,0.5,0,0
+Germany,Tug-Of-War,9,9,8,2,1.0,0.8888888888888888,1,1
+Germany,Volleyball,154,24,0,11,0.15584415584415584,0.0,1,0
+Germany,Water Polo,192,39,8,17,0.203125,0.20512820512820512,1,1
+Germany,Weightlifting,157,43,9,23,0.27388535031847133,0.20930232558139536,1,1
+Germany,Wrestling,304,51,8,25,0.16776315789473684,0.1568627450980392,1,0
+Ghana,Athletics,190,0,0,14,0.0,0.0,1,0
+Ghana,Boxing,56,3,0,12,0.05357142857142857,0.0,0,0
+Ghana,Football,98,20,0,6,0.20408163265306123,0.0,0,1
+Ghana,Judo,2,0,0,2,0.0,0.0,0,0
+Ghana,Swimming,2,0,0,1,0.0,0.0,0,0
+Ghana,Table Tennis,8,0,0,3,0.0,0.0,0,0
+Ghana,Weightlifting,2,0,0,2,0.0,0.0,0,0
+Greece,Archery,17,0,0,5,0.0,0.0,0,0
+Greece,Art Competitions,9,1,1,3,0.1111111111111111,1.0,0,0
+Greece,Athletics,678,37,8,29,0.05457227138643068,0.21621621621621623,1,0
+Greece,Badminton,2,0,0,1,0.0,0.0,0,0
+Greece,Baseball,23,0,0,1,0.0,0.0,0,0
+Greece,Basketball,60,0,0,4,0.0,0.0,0,0
+Greece,Beach Volleyball,14,0,0,4,0.0,0.0,0,0
+Greece,Boxing,33,0,0,14,0.0,0.0,0,0
+Greece,Canoeing,15,0,0,4,0.0,0.0,0,0
+Greece,Cycling,82,4,1,13,0.04878048780487805,0.25,0,0
+Greece,Diving,26,2,2,7,0.07692307692307693,1.0,0,0
+Greece,Equestrianism,12,0,0,2,0.0,0.0,0,0
+Greece,Fencing,149,12,3,15,0.08053691275167785,0.25,1,0
+Greece,Football,78,11,0,4,0.14102564102564102,0.0,0,0
+Greece,Golf,1,0,0,1,0.0,0.0,0,0
+Greece,Gymnastics,139,12,6,9,0.08633093525179857,0.5,0,0
+Greece,Handball,30,0,0,1,0.0,0.0,0,0
+Greece,Judo,24,2,1,6,0.08333333333333333,0.5,0,0
+Greece,Modern Pentathlon,5,0,0,4,0.0,0.0,0,0
+Greece,Rhythmic Gymnastics,40,6,0,8,0.15,0.0,0,0
+Greece,Rowing,194,55,17,15,0.28350515463917525,0.3090909090909091,1,1
+Greece,Sailing,141,16,6,18,0.11347517730496454,0.375,1,0
+Greece,Shooting,389,25,6,25,0.06426735218508997,0.24,1,0
+Greece,Softball,14,0,0,1,0.0,0.0,0,0
+Greece,Swimming,242,7,1,19,0.028925619834710745,0.14285714285714285,1,0
+Greece,Synchronized Swimming,20,0,0,6,0.0,0.0,0,0
+Greece,Table Tennis,21,0,0,6,0.0,0.0,0,0
+Greece,Taekwondo,11,4,1,4,0.36363636363636365,0.25,1,1
+Greece,Tennis,68,13,1,10,0.19117647058823528,0.07692307692307693,1,0
+Greece,Trampolining,1,0,0,1,0.0,0.0,0,0
+Greece,Triathlon,3,0,0,3,0.0,0.0,0,0
+Greece,Tug-Of-War,13,8,0,2,0.6153846153846154,0.0,1,1
+Greece,Volleyball,24,0,0,1,0.0,0.0,0,0
+Greece,Water Polo,200,13,0,15,0.065,0.0,1,0
+Greece,Weightlifting,83,16,7,18,0.1927710843373494,0.4375,1,0
+Greece,Wrestling,143,11,1,26,0.07692307692307693,0.09090909090909091,1,0
+Grenada,Athletics,38,2,1,9,0.05263157894736842,0.5,0,0
+Grenada,Boxing,9,0,0,3,0.0,0.0,0,0
+Grenada,Swimming,6,0,0,4,0.0,0.0,0,0
+Grenada,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Guam,Archery,1,0,0,1,0.0,0.0,0,0
+Guam,Athletics,20,0,0,8,0.0,0.0,0,0
+Guam,Boxing,1,0,0,1,0.0,0.0,0,0
+Guam,Canoeing,2,0,0,1,0.0,0.0,0,0
+Guam,Cycling,18,0,0,4,0.0,0.0,0,0
+Guam,Judo,7,0,0,4,0.0,0.0,0,0
+Guam,Sailing,8,0,0,4,0.0,0.0,0,0
+Guam,Swimming,44,0,0,8,0.0,0.0,0,0
+Guam,Weightlifting,4,0,0,3,0.0,0.0,0,0
+Guam,Wrestling,6,0,0,6,0.0,0.0,0,0
+Guatemala,Art Competitions,1,0,0,1,0.0,0.0,0,0
+Guatemala,Athletics,76,1,0,11,0.013157894736842105,0.0,0,0
+Guatemala,Badminton,5,0,0,5,0.0,0.0,0,0
+Guatemala,Boxing,7,0,0,5,0.0,0.0,0,0
+Guatemala,Canoeing,1,0,0,1,0.0,0.0,0,0
+Guatemala,Cycling,35,0,0,9,0.0,0.0,0,0
+Guatemala,Equestrianism,6,0,0,4,0.0,0.0,0,0
+Guatemala,Fencing,7,0,0,2,0.0,0.0,0,0
+Guatemala,Football,53,0,0,3,0.0,0.0,0,0
+Guatemala,Gymnastics,18,0,0,4,0.0,0.0,0,0
+Guatemala,Judo,5,0,0,4,0.0,0.0,0,0
+Guatemala,Modern Pentathlon,6,0,0,5,0.0,0.0,0,0
+Guatemala,Rowing,3,0,0,2,0.0,0.0,0,0
+Guatemala,Sailing,9,0,0,7,0.0,0.0,0,0
+Guatemala,Shooting,51,0,0,14,0.0,0.0,0,0
+Guatemala,Swimming,85,0,0,11,0.0,0.0,0,0
+Guatemala,Taekwondo,5,0,0,3,0.0,0.0,0,0
+Guatemala,Weightlifting,13,0,0,11,0.0,0.0,0,0
+Guatemala,Wrestling,24,0,0,6,0.0,0.0,0,0
+Guinea,Athletics,29,0,0,9,0.0,0.0,0,0
+Guinea,Boxing,7,0,0,4,0.0,0.0,0,0
+Guinea,Football,15,0,0,1,0.0,0.0,0,0
+Guinea,Judo,11,0,0,7,0.0,0.0,0,0
+Guinea,Swimming,8,0,0,5,0.0,0.0,0,0
+Guinea,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Guinea,Wrestling,2,0,0,1,0.0,0.0,0,0
+Guinea-Bissau,Athletics,12,0,0,6,0.0,0.0,0,0
+Guinea-Bissau,Judo,1,0,0,1,0.0,0.0,0,0
+Guinea-Bissau,Wrestling,8,0,0,6,0.0,0.0,0,0
+Guyana,Athletics,53,0,0,14,0.0,0.0,0,0
+Guyana,Boxing,18,1,0,8,0.05555555555555555,0.0,0,0
+Guyana,Cycling,16,0,0,7,0.0,0.0,0,0
+Guyana,Judo,1,0,0,1,0.0,0.0,0,0
+Guyana,Swimming,6,0,0,4,0.0,0.0,0,0
+Guyana,Weightlifting,8,0,0,6,0.0,0.0,0,0
+Haiti,Art Competitions,1,0,0,1,0.0,0.0,0,0
+Haiti,Athletics,59,1,0,14,0.01694915254237288,0.0,0,0
+Haiti,Boxing,6,0,0,4,0.0,0.0,0,0
+Haiti,Fencing,5,0,0,2,0.0,0.0,0,0
+Haiti,Judo,14,0,0,7,0.0,0.0,0,0
+Haiti,Rugby,1,1,1,1,1.0,1.0,1,1
+Haiti,Shooting,9,5,0,1,0.5555555555555556,0.0,1,1
+Haiti,Swimming,3,0,0,2,0.0,0.0,0,0
+Haiti,Taekwondo,2,0,0,2,0.0,0.0,0,0
+Haiti,Tennis,3,0,0,3,0.0,0.0,0,0
+Haiti,Weightlifting,2,0,0,2,0.0,0.0,0,0
+Haiti,Wrestling,1,0,0,1,0.0,0.0,0,0
+Honduras,Athletics,30,0,0,11,0.0,0.0,0,0
+Honduras,Boxing,6,0,0,4,0.0,0.0,0,0
+Honduras,Fencing,1,0,0,1,0.0,0.0,0,0
+Honduras,Football,68,0,0,4,0.0,0.0,0,0
+Honduras,Judo,7,0,0,5,0.0,0.0,0,0
+Honduras,Rowing,1,0,0,1,0.0,0.0,0,0
+Honduras,Shooting,1,0,0,1,0.0,0.0,0,0
+Honduras,Swimming,65,0,0,9,0.0,0.0,0,0
+Honduras,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Honduras,Taekwondo,2,0,0,2,0.0,0.0,0,0
+Honduras,Weightlifting,3,0,0,3,0.0,0.0,0,0
+Honduras,Wrestling,1,0,0,1,0.0,0.0,0,0
+Hungary,Archery,14,0,0,4,0.0,0.0,0,0
+Hungary,Art Competitions,87,5,1,5,0.05747126436781609,0.2,0,0
+Hungary,Athletics,767,52,11,27,0.06779661016949153,0.21153846153846154,2,0
+Hungary,Badminton,7,0,0,3,0.0,0.0,0,0
+Hungary,Basketball,61,0,0,5,0.0,0.0,0,0
+Hungary,Boxing,110,20,10,21,0.18181818181818182,0.5,1,0
+Hungary,Canoeing,306,158,52,18,0.5163398692810458,0.3291139240506329,2,1
+Hungary,Cycling,121,0,0,19,0.0,0.0,1,0
+Hungary,Diving,39,0,0,14,0.0,0.0,0,0
+Hungary,Equestrianism,84,1,0,8,0.011904761904761904,0.0,0,0
+Hungary,Fencing,628,236,103,25,0.37579617834394907,0.4364406779661017,2,1
+Hungary,Football,132,79,46,9,0.5984848484848485,0.5822784810126582,1,1
+Hungary,Gymnastics,1242,111,20,25,0.0893719806763285,0.18018018018018017,2,0
+Hungary,Handball,205,45,0,11,0.21951219512195122,0.0,1,1
+Hungary,Hockey,15,0,0,1,0.0,0.0,0,0
+Hungary,Judo,76,9,1,11,0.11842105263157894,0.1111111111111111,1,0
+Hungary,Modern Pentathlon,93,38,17,20,0.40860215053763443,0.4473684210526316,1,1
+Hungary,Polo,5,0,0,1,0.0,0.0,0,0
+Hungary,Rhythmic Gymnastics,7,0,0,4,0.0,0.0,0,0
+Hungary,Rowing,194,8,0,21,0.041237113402061855,0.0,1,0
+Hungary,Sailing,77,2,0,16,0.025974025974025976,0.0,1,0
+Hungary,Shooting,298,17,7,23,0.05704697986577181,0.4117647058823529,1,0
+Hungary,Swimming,719,94,36,27,0.13073713490959665,0.3829787234042553,2,0
+Hungary,Synchronized Swimming,4,0,0,2,0.0,0.0,0,0
+Hungary,Table Tennis,36,0,0,8,0.0,0.0,0,0
+Hungary,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Hungary,Tennis,60,1,0,13,0.016666666666666666,0.0,0,0
+Hungary,Triathlon,12,0,0,5,0.0,0.0,0,0
+Hungary,Volleyball,47,0,0,4,0.0,0.0,0,0
+Hungary,Water Polo,304,172,107,22,0.5657894736842105,0.622093023255814,2,1
+Hungary,Weightlifting,99,20,2,18,0.20202020202020202,0.1,1,1
+Hungary,Wrestling,279,55,19,25,0.1971326164874552,0.34545454545454546,1,0
+Iceland,Art Competitions,1,0,0,1,0.0,0.0,0,0
+Iceland,Athletics,117,2,0,20,0.017094017094017096,0.0,1,0
+Iceland,Badminton,8,0,0,4,0.0,0.0,0,0
+Iceland,Gymnastics,25,0,0,4,0.0,0.0,0,0
+Iceland,Handball,102,14,0,7,0.13725490196078433,0.0,0,0
+Iceland,Judo,15,1,0,9,0.06666666666666667,0.0,0,0
+Iceland,Sailing,6,0,0,4,0.0,0.0,0,0
+Iceland,Shooting,4,0,0,3,0.0,0.0,0,0
+Iceland,Swimming,131,0,0,15,0.0,0.0,1,0
+Iceland,Water Polo,8,0,0,1,0.0,0.0,0,0
+Iceland,Weightlifting,7,0,0,4,0.0,0.0,0,0
+Iceland,Wrestling,2,0,0,2,0.0,0.0,0,0
+India,Archery,56,0,0,7,0.0,0.0,0,0
+India,Art Competitions,2,0,0,1,0.0,0.0,0,0
+India,Athletics,269,2,0,24,0.007434944237918215,0.0,1,0
+India,Badminton,27,2,0,7,0.07407407407407407,0.0,0,0
+India,Basketball,12,0,0,1,0.0,0.0,0,0
+India,Boxing,56,2,0,14,0.03571428571428571,0.0,0,0
+India,Cycling,40,0,0,3,0.0,0.0,0,0
+India,Diving,2,0,0,1,0.0,0.0,0,0
+India,Equestrianism,10,0,0,3,0.0,0.0,0,0
+India,Football,51,0,0,4,0.0,0.0,0,0
+India,Golf,3,0,0,1,0.0,0.0,0,0
+India,Gymnastics,88,0,0,4,0.0,0.0,0,0
+India,Hockey,345,173,130,20,0.5014492753623189,0.7514450867052023,2,1
+India,Judo,15,0,0,7,0.0,0.0,0,0
+India,Rowing,10,0,0,5,0.0,0.0,0,0
+India,Sailing,12,0,0,6,0.0,0.0,0,0
+India,Shooting,105,4,1,17,0.0380952380952381,0.25,1,0
+India,Swimming,36,0,0,11,0.0,0.0,0,0
+India,Table Tennis,26,0,0,8,0.0,0.0,0,0
+India,Tennis,50,1,0,9,0.02,0.0,0,0
+India,Water Polo,19,0,0,2,0.0,0.0,0,0
+India,Weightlifting,40,1,0,18,0.025,0.0,1,0
+India,Wrestling,104,5,0,19,0.04807692307692308,0.0,1,0
+Individual Olympic Athletes,Athletics,13,0,0,3,0.0,0.0,0,0
+Individual Olympic Athletes,Boxing,1,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Canoeing,7,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Cycling,8,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Fencing,2,0,0,2,0.0,0.0,0,0
+Individual Olympic Athletes,Judo,5,0,0,2,0.0,0.0,0,0
+Individual Olympic Athletes,Rhythmic Gymnastics,2,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Rowing,2,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Sailing,1,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Shooting,19,5,1,2,0.2631578947368421,0.2,0,1
+Individual Olympic Athletes,Swimming,10,0,0,2,0.0,0.0,0,0
+Individual Olympic Athletes,Synchronized Swimming,5,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Table Tennis,7,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Tennis,1,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Weightlifting,1,0,0,1,0.0,0.0,0,0
+Individual Olympic Athletes,Wrestling,9,0,0,1,0.0,0.0,0,0
+Indonesia,Archery,38,3,0,11,0.07894736842105263,0.0,0,0
+Indonesia,Athletics,44,0,0,13,0.0,0.0,0,0
+Indonesia,Badminton,98,28,11,7,0.2857142857142857,0.39285714285714285,1,1
+Indonesia,Beach Volleyball,4,0,0,1,0.0,0.0,0,0
+Indonesia,Boxing,21,0,0,9,0.0,0.0,0,0
+Indonesia,Canoeing,7,0,0,2,0.0,0.0,0,0
+Indonesia,Cycling,12,0,0,4,0.0,0.0,0,0
+Indonesia,Diving,4,0,0,2,0.0,0.0,0,0
+Indonesia,Fencing,11,0,0,5,0.0,0.0,0,0
+Indonesia,Football,13,0,0,1,0.0,0.0,0,0
+Indonesia,Judo,9,0,0,5,0.0,0.0,0,0
+Indonesia,Rowing,3,0,0,2,0.0,0.0,0,0
+Indonesia,Sailing,14,0,0,7,0.0,0.0,0,0
+Indonesia,Shooting,9,0,0,7,0.0,0.0,0,0
+Indonesia,Swimming,42,0,0,12,0.0,0.0,0,0
+Indonesia,Table Tennis,11,0,0,4,0.0,0.0,0,0
+Indonesia,Taekwondo,3,0,0,2,0.0,0.0,0,0
+Indonesia,Tennis,18,0,0,5,0.0,0.0,0,0
+Indonesia,Weightlifting,49,10,0,15,0.20408163265306123,0.0,1,1
+Indonesia,Wrestling,2,0,0,1,0.0,0.0,0,0
+Iran,Archery,5,0,0,3,0.0,0.0,0,0
+Iran,Athletics,61,1,0,15,0.01639344262295082,0.0,1,0
+Iran,Badminton,1,0,0,1,0.0,0.0,0,0
+Iran,Basketball,25,0,0,2,0.0,0.0,0,0
+Iran,Boxing,55,0,0,13,0.0,0.0,0,0
+Iran,Canoeing,6,0,0,3,0.0,0.0,0,0
+Iran,Cycling,70,0,0,10,0.0,0.0,0,0
+Iran,Diving,1,0,0,1,0.0,0.0,0,0
+Iran,Equestrianism,1,0,0,1,0.0,0.0,0,0
+Iran,Fencing,56,0,0,6,0.0,0.0,0,0
+Iran,Football,48,0,0,3,0.0,0.0,0,0
+Iran,Gymnastics,12,0,0,1,0.0,0.0,0,0
+Iran,Judo,18,0,0,5,0.0,0.0,0,0
+Iran,Rowing,5,0,0,3,0.0,0.0,0,0
+Iran,Shooting,33,0,0,9,0.0,0.0,0,0
+Iran,Swimming,6,0,0,6,0.0,0.0,0,0
+Iran,Table Tennis,9,0,0,6,0.0,0.0,0,0
+Iran,Taekwondo,14,6,2,5,0.42857142857142855,0.3333333333333333,1,1
+Iran,Volleyball,12,0,0,1,0.0,0.0,0,0
+Iran,Water Polo,11,0,0,1,0.0,0.0,0,0
+Iran,Weightlifting,74,18,7,14,0.24324324324324326,0.3888888888888889,1,1
+Iran,Wrestling,189,43,9,16,0.2275132275132275,0.20930232558139536,1,1
+Iraq,Archery,1,0,0,1,0.0,0.0,0,0
+Iraq,Athletics,50,0,0,10,0.0,0.0,0,0
+Iraq,Basketball,10,0,0,1,0.0,0.0,0,0
+Iraq,Boxing,22,0,0,9,0.0,0.0,0,0
+Iraq,Cycling,3,0,0,2,0.0,0.0,0,0
+Iraq,Football,80,0,0,5,0.0,0.0,0,0
+Iraq,Judo,2,0,0,2,0.0,0.0,0,0
+Iraq,Rowing,3,0,0,2,0.0,0.0,0,0
+Iraq,Shooting,3,0,0,3,0.0,0.0,0,0
+Iraq,Swimming,4,0,0,3,0.0,0.0,0,0
+Iraq,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Iraq,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Iraq,Weightlifting,29,1,0,10,0.034482758620689655,0.0,0,0
+Iraq,Wrestling,23,0,0,6,0.0,0.0,0,0
+Ireland,Archery,11,0,0,6,0.0,0.0,0,0
+Ireland,Art Competitions,42,3,0,4,0.07142857142857142,0.0,0,0
+Ireland,Athletics,300,6,4,21,0.02,0.6666666666666666,1,0
+Ireland,Badminton,7,0,0,4,0.0,0.0,0,0
+Ireland,Basketball,13,0,0,1,0.0,0.0,0,0
+Ireland,Boxing,124,16,2,21,0.12903225806451613,0.125,1,0
+Ireland,Canoeing,48,0,0,11,0.0,0.0,0,0
+Ireland,Cycling,73,0,0,15,0.0,0.0,0,0
+Ireland,Diving,2,0,0,2,0.0,0.0,0,0
+Ireland,Equestrianism,183,1,0,17,0.00546448087431694,0.0,1,0
+Ireland,Fencing,53,0,0,8,0.0,0.0,0,0
+Ireland,Football,23,0,0,2,0.0,0.0,0,0
+Ireland,Golf,4,0,0,1,0.0,0.0,0,0
+Ireland,Gymnastics,18,0,0,3,0.0,0.0,0,0
+Ireland,Hockey,16,0,0,1,0.0,0.0,0,0
+Ireland,Judo,16,0,0,8,0.0,0.0,0,0
+Ireland,Modern Pentathlon,10,0,0,3,0.0,0.0,0,0
+Ireland,Rowing,66,2,0,12,0.030303030303030304,0.0,0,0
+Ireland,Sailing,86,3,0,17,0.03488372093023256,0.0,1,0
+Ireland,Shooting,25,0,0,10,0.0,0.0,0,0
+Ireland,Swimming,112,4,3,14,0.03571428571428571,0.75,1,0
+Ireland,Tennis,19,0,0,4,0.0,0.0,0,0
+Ireland,Triathlon,5,0,0,3,0.0,0.0,0,0
+Ireland,Water Polo,14,0,0,2,0.0,0.0,0,0
+Ireland,Weightlifting,3,0,0,2,0.0,0.0,0,0
+Ireland,Wrestling,9,0,0,5,0.0,0.0,0,0
+Israel,Athletics,84,0,0,15,0.0,0.0,0,0
+Israel,Badminton,2,0,0,2,0.0,0.0,0,0
+Israel,Basketball,12,0,0,1,0.0,0.0,0,0
+Israel,Boxing,5,0,0,3,0.0,0.0,0,0
+Israel,Canoeing,15,1,0,5,0.06666666666666667,0.0,0,0
+Israel,Cycling,4,0,0,2,0.0,0.0,0,0
+Israel,Diving,3,0,0,2,0.0,0.0,0,0
+Israel,Fencing,21,0,0,9,0.0,0.0,0,0
+Israel,Football,32,0,0,2,0.0,0.0,0,0
+Israel,Golf,1,0,0,1,0.0,0.0,0,0
+Israel,Gymnastics,90,0,0,9,0.0,0.0,0,0
+Israel,Judo,32,5,0,9,0.15625,0.0,0,0
+Israel,Rhythmic Gymnastics,25,0,0,7,0.0,0.0,0,0
+Israel,Sailing,55,3,1,11,0.05454545454545454,0.3333333333333333,0,0
+Israel,Shooting,64,0,0,15,0.0,0.0,0,0
+Israel,Swimming,131,0,0,16,0.0,0.0,1,0
+Israel,Synchronized Swimming,8,0,0,4,0.0,0.0,0,0
+Israel,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Israel,Taekwondo,3,0,0,3,0.0,0.0,0,0
+Israel,Tennis,20,0,0,6,0.0,0.0,0,0
+Israel,Triathlon,1,0,0,1,0.0,0.0,0,0
+Israel,Weightlifting,12,0,0,7,0.0,0.0,0,0
+Israel,Wrestling,17,0,0,8,0.0,0.0,0,0
+Italy,Archery,93,15,4,12,0.16129032258064516,0.26666666666666666,1,0
+Italy,Art Competitions,189,14,5,7,0.07407407407407407,0.35714285714285715,0,0
+Italy,Athletics,1021,72,19,27,0.07051909892262488,0.2638888888888889,2,0
+Italy,Badminton,3,0,0,3,0.0,0.0,0,0
+Italy,Baseball,88,0,0,4,0.0,0.0,0,0
+Italy,Basketball,184,24,0,14,0.13043478260869565,0.0,1,0
+Italy,Beach Volleyball,24,2,0,6,0.08333333333333333,0.0,0,0
+Italy,Boxing,175,47,15,23,0.26857142857142857,0.3191489361702128,1,1
+Italy,Canoeing,180,23,8,17,0.12777777777777777,0.34782608695652173,1,0
+Italy,Cycling,447,124,70,27,0.27740492170022374,0.5645161290322581,2,1
+Italy,Diving,100,12,3,23,0.12,0.25,1,0
+Italy,Equestrianism,293,46,10,23,0.15699658703071673,0.21739130434782608,1,0
+Italy,Fencing,736,359,151,27,0.48777173913043476,0.4206128133704735,2,1
+Italy,Football,240,48,14,15,0.2,0.2916666666666667,1,0
+Italy,Golf,4,0,0,1,0.0,0.0,0,0
+Italy,Gymnastics,1363,109,68,26,0.07997065297138664,0.6238532110091743,2,0
+Italy,Hockey,33,0,0,2,0.0,0.0,0,0
+Italy,Judo,76,15,4,13,0.19736842105263158,0.26666666666666666,1,0
+Italy,Modern Pentathlon,90,13,4,23,0.14444444444444443,0.3076923076923077,1,0
+Italy,Rhythmic Gymnastics,47,12,0,9,0.2553191489361702,0.0,1,1
+Italy,Rowing,532,183,54,25,0.34398496240601506,0.29508196721311475,2,1
+Italy,Sailing,262,26,9,22,0.09923664122137404,0.34615384615384615,1,0
+Italy,Shooting,339,43,16,24,0.12684365781710916,0.37209302325581395,1,0
+Italy,Softball,30,0,0,2,0.0,0.0,0,0
+Italy,Swimming,722,27,5,25,0.037396121883656507,0.18518518518518517,1,0
+Italy,Synchronized Swimming,52,0,0,8,0.0,0.0,0,0
+Italy,Table Tennis,19,0,0,6,0.0,0.0,0,0
+Italy,Taekwondo,11,3,1,4,0.2727272727272727,0.3333333333333333,0,1
+Italy,Tennis,107,1,0,10,0.009345794392523364,0.0,0,0
+Italy,Trampolining,3,0,0,3,0.0,0.0,0,0
+Italy,Triathlon,17,0,0,5,0.0,0.0,0,0
+Italy,Tug-Of-War,8,0,0,1,0.0,0.0,0,0
+Italy,Volleyball,192,72,0,11,0.375,0.0,1,1
+Italy,Water Polo,279,120,46,20,0.43010752688172044,0.38333333333333336,2,1
+Italy,Weightlifting,94,15,5,23,0.1595744680851064,0.3333333333333333,1,0
+Italy,Wrestling,164,21,7,25,0.12804878048780488,0.3333333333333333,1,0
+Ivory Coast,Archery,2,0,0,2,0.0,0.0,0,0
+Ivory Coast,Athletics,100,1,0,13,0.01,0.0,0,0
+Ivory Coast,Boxing,8,0,0,3,0.0,0.0,0,0
+Ivory Coast,Canoeing,20,0,0,7,0.0,0.0,0,0
+Ivory Coast,Fencing,1,0,0,1,0.0,0.0,0,0
+Ivory Coast,Football,16,0,0,1,0.0,0.0,0,0
+Ivory Coast,Handball,14,0,0,1,0.0,0.0,0,0
+Ivory Coast,Judo,11,0,0,6,0.0,0.0,0,0
+Ivory Coast,Swimming,8,0,0,5,0.0,0.0,0,0
+Ivory Coast,Taekwondo,8,2,1,5,0.25,0.5,0,1
+Ivory Coast,Tennis,3,0,0,2,0.0,0.0,0,0
+Ivory Coast,Wrestling,2,0,0,2,0.0,0.0,0,0
+Jamaica,Athletics,680,156,38,17,0.22941176470588234,0.24358974358974358,2,1
+Jamaica,Badminton,1,0,0,1,0.0,0.0,0,0
+Jamaica,Boxing,22,0,0,9,0.0,0.0,0,0
+Jamaica,Cycling,35,1,0,8,0.02857142857142857,0.0,0,0
+Jamaica,Diving,2,0,0,2,0.0,0.0,0,0
+Jamaica,Equestrianism,2,0,0,2,0.0,0.0,0,0
+Jamaica,Gymnastics,4,0,0,1,0.0,0.0,0,0
+Jamaica,Sailing,17,0,0,6,0.0,0.0,0,0
+Jamaica,Shooting,2,0,0,2,0.0,0.0,0,0
+Jamaica,Swimming,39,0,0,9,0.0,0.0,0,0
+Jamaica,Table Tennis,6,0,0,3,0.0,0.0,0,0
+Jamaica,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Jamaica,Triathlon,1,0,0,1,0.0,0.0,0,0
+Jamaica,Weightlifting,5,0,0,4,0.0,0.0,0,0
+Japan,Archery,92,7,0,11,0.07608695652173914,0.0,0,0
+Japan,Art Competitions,129,2,0,2,0.015503875968992248,0.0,0,0
+Japan,Athletics,782,31,7,22,0.03964194373401535,0.22580645161290322,1,0
+Japan,Badminton,73,5,2,7,0.0684931506849315,0.4,0,0
+Japan,Baseball,112,64,0,5,0.5714285714285714,0.0,1,1
+Japan,Basketball,115,0,0,9,0.0,0.0,0,0
+Japan,Beach Volleyball,18,0,0,5,0.0,0.0,0,0
+Japan,Boxing,77,5,2,19,0.06493506493506493,0.4,1,0
+Japan,Canoeing,98,1,0,13,0.01020408163265306,0.0,0,0
+Japan,Cycling,170,6,0,16,0.03529411764705882,0.0,1,0
+Japan,Diving,92,0,0,20,0.0,0.0,1,0
+Japan,Equestrianism,199,1,1,19,0.005025125628140704,1.0,1,0
+Japan,Fencing,169,5,0,16,0.029585798816568046,0.0,1,0
+Japan,Football,220,34,0,10,0.15454545454545454,0.0,1,0
+Japan,Golf,4,0,0,1,0.0,0.0,0,0
+Japan,Gymnastics,1216,166,65,18,0.13651315789473684,0.39156626506024095,2,0
+Japan,Handball,66,0,0,4,0.0,0.0,0,0
+Japan,Hockey,125,11,0,9,0.088,0.0,0,0
+Japan,Judo,129,84,39,12,0.6511627906976745,0.4642857142857143,1,1
+Japan,Modern Pentathlon,46,0,0,11,0.0,0.0,0,0
+Japan,Rhythmic Gymnastics,33,0,0,9,0.0,0.0,0,0
+Japan,Rowing,180,0,0,19,0.0,0.0,1,0
+Japan,Rugby Sevens,25,0,0,1,0.0,0.0,0,0
+Japan,Sailing,116,4,0,15,0.034482758620689655,0.0,1,0
+Japan,Shooting,191,6,1,16,0.031413612565445025,0.16666666666666666,1,0
+Japan,Softball,59,44,15,4,0.7457627118644068,0.3409090909090909,1,1
+Japan,Swimming,858,123,28,21,0.14335664335664336,0.22764227642276422,2,0
+Japan,Synchronized Swimming,78,52,0,9,0.6666666666666666,0.0,1,1
+Japan,Table Tennis,98,10,0,8,0.10204081632653061,0.0,0,0
+Japan,Taekwondo,7,1,0,5,0.14285714285714285,0.0,0,0
+Japan,Tennis,65,4,0,10,0.06153846153846154,0.0,0,0
+Japan,Trampolining,12,0,0,5,0.0,0.0,0,0
+Japan,Triathlon,25,0,0,5,0.0,0.0,0,0
+Japan,Volleyball,232,101,36,12,0.4353448275862069,0.3564356435643564,1,1
+Japan,Water Polo,76,0,0,8,0.0,0.0,0,0
+Japan,Weightlifting,111,14,2,16,0.12612612612612611,0.14285714285714285,1,0
+Japan,Wrestling,238,69,32,20,0.28991596638655465,0.463768115942029,1,1
+Jordan,Archery,1,0,0,1,0.0,0.0,0,0
+Jordan,Athletics,21,0,0,8,0.0,0.0,0,0
+Jordan,Boxing,5,0,0,3,0.0,0.0,0,0
+Jordan,Equestrianism,4,0,0,4,0.0,0.0,0,0
+Jordan,Fencing,2,0,0,2,0.0,0.0,0,0
+Jordan,Judo,1,0,0,1,0.0,0.0,0,0
+Jordan,Shooting,16,0,0,5,0.0,0.0,0,0
+Jordan,Swimming,12,0,0,6,0.0,0.0,0,0
+Jordan,Table Tennis,5,0,0,5,0.0,0.0,0,0
+Jordan,Taekwondo,8,1,1,5,0.125,1.0,0,0
+Jordan,Triathlon,1,0,0,1,0.0,0.0,0,0
+Jordan,Wrestling,4,0,0,1,0.0,0.0,0,0
+Kazakhstan,Archery,27,0,0,6,0.0,0.0,0,0
+Kazakhstan,Athletics,138,4,2,6,0.028985507246376812,0.5,0,0
+Kazakhstan,Boxing,56,22,7,6,0.39285714285714285,0.3181818181818182,1,1
+Kazakhstan,Canoeing,68,0,0,6,0.0,0.0,0,0
+Kazakhstan,Cycling,41,2,1,6,0.04878048780487805,0.5,0,0
+Kazakhstan,Diving,13,0,0,2,0.0,0.0,0,0
+Kazakhstan,Fencing,10,0,0,4,0.0,0.0,0,0
+Kazakhstan,Gymnastics,45,0,0,4,0.0,0.0,0,0
+Kazakhstan,Handball,14,0,0,1,0.0,0.0,0,0
+Kazakhstan,Judo,49,3,0,6,0.061224489795918366,0.0,0,0
+Kazakhstan,Modern Pentathlon,10,1,1,5,0.1,1.0,0,0
+Kazakhstan,Rhythmic Gymnastics,4,0,0,4,0.0,0.0,0,0
+Kazakhstan,Rowing,8,0,0,4,0.0,0.0,0,0
+Kazakhstan,Shooting,54,3,0,6,0.05555555555555555,0.0,0,0
+Kazakhstan,Swimming,68,1,1,6,0.014705882352941176,1.0,0,0
+Kazakhstan,Synchronized Swimming,10,0,0,5,0.0,0.0,0,0
+Kazakhstan,Table Tennis,2,0,0,2,0.0,0.0,0,0
+Kazakhstan,Taekwondo,9,1,0,4,0.1111111111111111,0.0,0,0
+Kazakhstan,Tennis,8,0,0,2,0.0,0.0,0,0
+Kazakhstan,Trampolining,1,0,0,1,0.0,0.0,0,0
+Kazakhstan,Triathlon,6,0,0,3,0.0,0.0,0,0
+Kazakhstan,Volleyball,12,0,0,1,0.0,0.0,0,0
+Kazakhstan,Water Polo,61,0,0,3,0.0,0.0,0,0
+Kazakhstan,Weightlifting,40,16,6,6,0.4,0.375,1,1
+Kazakhstan,Wrestling,77,17,1,6,0.22077922077922077,0.058823529411764705,0,1
+Kenya,Archery,4,0,0,3,0.0,0.0,0,0
+Kenya,Athletics,466,99,33,14,0.21244635193133046,0.3333333333333333,1,1
+Kenya,Boxing,62,7,1,11,0.11290322580645161,0.14285714285714285,0,0
+Kenya,Cycling,1,0,0,1,0.0,0.0,0,0
+Kenya,Hockey,110,0,0,7,0.0,0.0,0,0
+Kenya,Judo,8,0,0,3,0.0,0.0,0,0
+Kenya,Rowing,2,0,0,2,0.0,0.0,0,0
+Kenya,Rugby Sevens,24,0,0,1,0.0,0.0,0,0
+Kenya,Sailing,4,0,0,2,0.0,0.0,0,0
+Kenya,Shooting,32,0,0,9,0.0,0.0,0,0
+Kenya,Swimming,13,0,0,6,0.0,0.0,0,0
+Kenya,Taekwondo,2,0,0,1,0.0,0.0,0,0
+Kenya,Volleyball,24,0,0,2,0.0,0.0,0,0
+Kenya,Weightlifting,9,0,0,6,0.0,0.0,0,0
+Kenya,Wrestling,7,0,0,1,0.0,0.0,0,0
+Kiribati,Athletics,7,0,0,4,0.0,0.0,0,0
+Kiribati,Weightlifting,4,0,0,4,0.0,0.0,0,0
+Kosovo,Athletics,2,0,0,1,0.0,0.0,0,0
+Kosovo,Cycling,1,0,0,1,0.0,0.0,0,0
+Kosovo,Judo,2,1,1,1,0.5,1.0,1,1
+Kosovo,Shooting,1,0,0,1,0.0,0.0,0,0
+Kosovo,Swimming,2,0,0,1,0.0,0.0,0,0
+Kuwait,Athletics,49,0,0,12,0.0,0.0,0,0
+Kuwait,Boxing,3,0,0,1,0.0,0.0,0,0
+Kuwait,Diving,8,0,0,5,0.0,0.0,0,0
+Kuwait,Fencing,57,0,0,7,0.0,0.0,0,0
+Kuwait,Football,51,0,0,3,0.0,0.0,0,0
+Kuwait,Handball,26,0,0,2,0.0,0.0,0,0
+Kuwait,Judo,24,0,0,8,0.0,0.0,0,0
+Kuwait,Rowing,1,0,0,1,0.0,0.0,0,0
+Kuwait,Shooting,24,2,0,6,0.08333333333333333,0.0,0,0
+Kuwait,Swimming,35,0,0,9,0.0,0.0,0,0
+Kuwait,Table Tennis,3,0,0,3,0.0,0.0,0,0
+Kuwait,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Kuwait,Weightlifting,2,0,0,2,0.0,0.0,0,0
+Kyrgyzstan,Athletics,33,0,0,6,0.0,0.0,0,0
+Kyrgyzstan,Boxing,12,0,0,5,0.0,0.0,0,0
+Kyrgyzstan,Canoeing,4,0,0,1,0.0,0.0,0,0
+Kyrgyzstan,Cycling,5,0,0,3,0.0,0.0,0,0
+Kyrgyzstan,Fencing,2,0,0,2,0.0,0.0,0,0
+Kyrgyzstan,Judo,14,1,0,6,0.07142857142857142,0.0,0,0
+Kyrgyzstan,Modern Pentathlon,3,0,0,2,0.0,0.0,0,0
+Kyrgyzstan,Sailing,1,0,0,1,0.0,0.0,0,0
+Kyrgyzstan,Shooting,18,0,0,5,0.0,0.0,0,0
+Kyrgyzstan,Swimming,77,0,0,6,0.0,0.0,0,0
+Kyrgyzstan,Taekwondo,2,0,0,2,0.0,0.0,0,0
+Kyrgyzstan,Weightlifting,7,0,0,5,0.0,0.0,0,0
+Kyrgyzstan,Wrestling,34,2,0,6,0.058823529411764705,0.0,0,0
+Laos,Archery,1,0,0,1,0.0,0.0,0,0
+Laos,Athletics,28,0,0,9,0.0,0.0,0,0
+Laos,Boxing,9,0,0,3,0.0,0.0,0,0
+Laos,Cycling,1,0,0,1,0.0,0.0,0,0
+Laos,Judo,1,0,0,1,0.0,0.0,0,0
+Laos,Shooting,6,0,0,1,0.0,0.0,0,0
+Laos,Swimming,8,0,0,5,0.0,0.0,0,0
+Latvia,Art Competitions,24,0,0,3,0.0,0.0,0,0
+Latvia,Athletics,146,5,0,11,0.03424657534246575,0.0,0,0
+Latvia,Basketball,19,0,0,2,0.0,0.0,0,0
+Latvia,Beach Volleyball,8,2,0,3,0.25,0.0,0,1
+Latvia,Boxing,3,0,0,3,0.0,0.0,0,0
+Latvia,Canoeing,20,2,0,7,0.1,0.0,0,0
+Latvia,Cycling,62,3,2,10,0.04838709677419355,0.6666666666666666,0,0
+Latvia,Fencing,1,0,0,1,0.0,0.0,0,0
+Latvia,Football,11,0,0,1,0.0,0.0,0,0
+Latvia,Gymnastics,28,2,1,4,0.07142857142857142,0.5,0,0
+Latvia,Judo,10,1,0,6,0.1,0.0,0,0
+Latvia,Modern Pentathlon,16,1,0,7,0.0625,0.0,0,0
+Latvia,Rowing,8,0,0,3,0.0,0.0,0,0
+Latvia,Sailing,9,0,0,6,0.0,0.0,0,0
+Latvia,Shooting,14,1,0,8,0.07142857142857142,0.0,0,0
+Latvia,Swimming,29,0,0,7,0.0,0.0,0,0
+Latvia,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Latvia,Tennis,6,0,0,3,0.0,0.0,0,0
+Latvia,Weightlifting,20,2,0,9,0.1,0.0,0,0
+Latvia,Wrestling,18,1,0,9,0.05555555555555555,0.0,0,0
+Lebanon,Athletics,29,0,0,12,0.0,0.0,0,0
+Lebanon,Boxing,9,0,0,6,0.0,0.0,0,0
+Lebanon,Canoeing,1,0,0,1,0.0,0.0,0,0
+Lebanon,Cycling,13,0,0,6,0.0,0.0,0,0
+Lebanon,Fencing,55,0,0,10,0.0,0.0,0,0
+Lebanon,Judo,18,0,0,9,0.0,0.0,0,0
+Lebanon,Rowing,1,0,0,1,0.0,0.0,0,0
+Lebanon,Sailing,3,0,0,1,0.0,0.0,0,0
+Lebanon,Shooting,26,0,0,12,0.0,0.0,0,0
+Lebanon,Swimming,43,0,0,11,0.0,0.0,0,0
+Lebanon,Table Tennis,3,0,0,3,0.0,0.0,0,0
+Lebanon,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Lebanon,Weightlifting,13,1,0,9,0.07692307692307693,0.0,0,0
+Lebanon,Wrestling,23,3,0,9,0.13043478260869565,0.0,0,0
+Lesotho,Athletics,51,0,0,11,0.0,0.0,0,0
+Lesotho,Boxing,10,0,0,5,0.0,0.0,0,0
+Lesotho,Cycling,1,0,0,1,0.0,0.0,0,0
+Lesotho,Swimming,1,0,0,1,0.0,0.0,0,0
+Lesotho,Taekwondo,3,0,0,2,0.0,0.0,0,0
+Liberia,Athletics,70,0,0,12,0.0,0.0,0,0
+Liberia,Boxing,4,0,0,1,0.0,0.0,0,0
+Libya,Archery,1,0,0,1,0.0,0.0,0,0
+Libya,Athletics,27,0,0,10,0.0,0.0,0,0
+Libya,Cycling,14,0,0,4,0.0,0.0,0,0
+Libya,Judo,7,0,0,6,0.0,0.0,0,0
+Libya,Rowing,1,0,0,1,0.0,0.0,0,0
+Libya,Swimming,14,0,0,5,0.0,0.0,0,0
+Libya,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Libya,Taekwondo,3,0,0,3,0.0,0.0,0,0
+Libya,Volleyball,9,0,0,1,0.0,0.0,0,0
+Libya,Weightlifting,7,0,0,4,0.0,0.0,0,0
+Liechtenstein,Athletics,33,0,0,12,0.0,0.0,0,0
+Liechtenstein,Cycling,14,0,0,6,0.0,0.0,0,0
+Liechtenstein,Equestrianism,1,0,0,1,0.0,0.0,0,0
+Liechtenstein,Gymnastics,7,0,0,1,0.0,0.0,0,0
+Liechtenstein,Judo,16,0,0,7,0.0,0.0,0,0
+Liechtenstein,Shooting,16,0,0,9,0.0,0.0,0,0
+Liechtenstein,Swimming,4,0,0,2,0.0,0.0,0,0
+Liechtenstein,Tennis,2,0,0,2,0.0,0.0,0,0
+Lithuania,Athletics,112,5,3,8,0.044642857142857144,0.6,0,0
+Lithuania,Badminton,3,0,0,2,0.0,0.0,0,0
+Lithuania,Basketball,83,35,0,7,0.42168674698795183,0.0,1,1
+Lithuania,Boxing,18,1,0,8,0.05555555555555555,0.0,0,0
+Lithuania,Canoeing,26,3,0,7,0.11538461538461539,0.0,0,0
+Lithuania,Cycling,81,1,0,9,0.012345679012345678,0.0,0,0
+Lithuania,Football,11,0,0,1,0.0,0.0,0,0
+Lithuania,Gymnastics,23,0,0,4,0.0,0.0,0,0
+Lithuania,Judo,8,0,0,7,0.0,0.0,0,0
+Lithuania,Modern Pentathlon,20,4,1,7,0.2,0.25,0,0
+Lithuania,Rhythmic Gymnastics,1,0,0,1,0.0,0.0,0,0
+Lithuania,Rowing,30,6,0,7,0.2,0.0,0,0
+Lithuania,Sailing,10,1,0,6,0.1,0.0,0,0
+Lithuania,Shooting,6,1,1,6,0.16666666666666666,1.0,0,0
+Lithuania,Swimming,78,1,1,7,0.01282051282051282,1.0,0,0
+Lithuania,Table Tennis,5,0,0,3,0.0,0.0,0,0
+Lithuania,Tennis,1,0,0,1,0.0,0.0,0,0
+Lithuania,Weightlifting,6,1,0,6,0.16666666666666666,0.0,0,0
+Lithuania,Wrestling,16,2,0,7,0.125,0.0,0,0
+Luxembourg,Archery,10,0,0,7,0.0,0.0,0,0
+Luxembourg,Art Competitions,42,3,2,4,0.07142857142857142,0.6666666666666666,0,0
+Luxembourg,Athletics,102,2,2,20,0.0196078431372549,1.0,1,0
+Luxembourg,Boxing,29,0,0,6,0.0,0.0,0,0
+Luxembourg,Canoeing,19,0,0,4,0.0,0.0,0,0
+Luxembourg,Cycling,72,0,0,16,0.0,0.0,1,0
+Luxembourg,Fencing,58,0,0,9,0.0,0.0,0,0
+Luxembourg,Football,67,0,0,6,0.0,0.0,0,0
+Luxembourg,Gymnastics,433,0,0,10,0.0,0.0,1,0
+Luxembourg,Judo,4,0,0,4,0.0,0.0,0,0
+Luxembourg,Sailing,1,0,0,1,0.0,0.0,0,0
+Luxembourg,Shooting,22,0,0,11,0.0,0.0,0,0
+Luxembourg,Swimming,53,0,0,16,0.0,0.0,1,0
+Luxembourg,Table Tennis,6,0,0,4,0.0,0.0,0,0
+Luxembourg,Tennis,9,0,0,6,0.0,0.0,0,0
+Luxembourg,Triathlon,4,0,0,3,0.0,0.0,0,0
+Luxembourg,Water Polo,7,0,0,1,0.0,0.0,0,0
+Luxembourg,Weightlifting,14,1,0,5,0.07142857142857142,0.0,0,0
+Luxembourg,Wrestling,18,0,0,8,0.0,0.0,0,0
+Macedonia,Athletics,10,0,0,5,0.0,0.0,0,0
+Macedonia,Canoeing,6,0,0,4,0.0,0.0,0,0
+Macedonia,Judo,1,0,0,1,0.0,0.0,0,0
+Macedonia,Shooting,7,0,0,5,0.0,0.0,0,0
+Macedonia,Swimming,30,0,0,6,0.0,0.0,0,0
+Macedonia,Wrestling,8,1,0,4,0.125,0.0,0,0
+Madagascar,Athletics,58,0,0,12,0.0,0.0,0,0
+Madagascar,Boxing,12,0,0,7,0.0,0.0,0,0
+Madagascar,Cycling,1,0,0,1,0.0,0.0,0,0
+Madagascar,Judo,13,0,0,8,0.0,0.0,0,0
+Madagascar,Swimming,21,0,0,8,0.0,0.0,0,0
+Madagascar,Tennis,8,0,0,3,0.0,0.0,0,0
+Madagascar,Weightlifting,3,0,0,3,0.0,0.0,0,0
+Madagascar,Wrestling,1,0,0,1,0.0,0.0,0,0
+Malawi,Archery,1,0,0,1,0.0,0.0,0,0
+Malawi,Athletics,46,0,0,10,0.0,0.0,0,0
+Malawi,Boxing,16,0,0,3,0.0,0.0,0,0
+Malawi,Cycling,17,0,0,3,0.0,0.0,0,0
+Malawi,Swimming,7,0,0,4,0.0,0.0,0,0
+Malaysia,Archery,20,0,0,4,0.0,0.0,0,0
+Malaysia,Athletics,81,0,0,15,0.0,0.0,0,0
+Malaysia,Badminton,51,12,0,7,0.23529411764705882,0.0,1,1
+Malaysia,Boxing,3,0,0,2,0.0,0.0,0,0
+Malaysia,Canoeing,1,0,0,1,0.0,0.0,0,0
+Malaysia,Cycling,51,1,0,11,0.0196078431372549,0.0,0,0
+Malaysia,Diving,36,3,0,5,0.08333333333333333,0.0,0,0
+Malaysia,Fencing,4,0,0,2,0.0,0.0,0,0
+Malaysia,Football,15,0,0,1,0.0,0.0,0,0
+Malaysia,Golf,4,0,0,1,0.0,0.0,0,0
+Malaysia,Gymnastics,9,0,0,2,0.0,0.0,0,0
+Malaysia,Hockey,143,0,0,9,0.0,0.0,0,0
+Malaysia,Judo,1,0,0,1,0.0,0.0,0,0
+Malaysia,Sailing,7,0,0,6,0.0,0.0,0,0
+Malaysia,Shooting,27,0,0,14,0.0,0.0,0,0
+Malaysia,Swimming,98,0,0,14,0.0,0.0,0,0
+Malaysia,Table Tennis,4,0,0,1,0.0,0.0,0,0
+Malaysia,Taekwondo,4,0,0,3,0.0,0.0,0,0
+Malaysia,Weightlifting,16,0,0,7,0.0,0.0,0,0
+Malaysia,Wrestling,2,0,0,1,0.0,0.0,0,0
+Maldives,Athletics,33,0,0,8,0.0,0.0,0,0
+Maldives,Badminton,1,0,0,1,0.0,0.0,0,0
+Maldives,Swimming,15,0,0,7,0.0,0.0,0,0
+Mali,Athletics,33,0,0,13,0.0,0.0,0,0
+Mali,Basketball,12,0,0,1,0.0,0.0,0,0
+Mali,Boxing,4,0,0,4,0.0,0.0,0,0
+Mali,Football,16,0,0,1,0.0,0.0,0,0
+Mali,Judo,14,0,0,9,0.0,0.0,0,0
+Mali,Swimming,10,0,0,5,0.0,0.0,0,0
+Mali,Taekwondo,3,0,0,3,0.0,0.0,0,0
+Malta,Archery,4,0,0,3,0.0,0.0,0,0
+Malta,Athletics,20,0,0,10,0.0,0.0,0,0
+Malta,Cycling,18,0,0,3,0.0,0.0,0,0
+Malta,Judo,8,0,0,6,0.0,0.0,0,0
+Malta,Sailing,10,0,0,7,0.0,0.0,0,0
+Malta,Shooting,18,0,0,12,0.0,0.0,0,0
+Malta,Swimming,15,0,0,7,0.0,0.0,0,0
+Malta,Water Polo,18,0,0,2,0.0,0.0,0,0
+Malta,Weightlifting,1,0,0,1,0.0,0.0,0,0
+Malta,Wrestling,4,0,0,2,0.0,0.0,0,0
+Marshall Islands,Athletics,6,0,0,3,0.0,0.0,0,0
+Marshall Islands,Swimming,6,0,0,3,0.0,0.0,0,0
+Marshall Islands,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Marshall Islands,Weightlifting,1,0,0,1,0.0,0.0,0,0
+Mauritania,Athletics,22,0,0,8,0.0,0.0,0,0
+Mauritania,Wrestling,7,0,0,2,0.0,0.0,0,0
+Mauritius,Archery,3,0,0,3,0.0,0.0,0,0
+Mauritius,Athletics,48,0,0,9,0.0,0.0,0,0
+Mauritius,Badminton,27,0,0,5,0.0,0.0,0,0
+Mauritius,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+Mauritius,Boxing,14,1,0,7,0.07142857142857142,0.0,0,0
+Mauritius,Cycling,2,0,0,2,0.0,0.0,0,0
+Mauritius,Judo,6,0,0,4,0.0,0.0,0,0
+Mauritius,Sailing,1,0,0,1,0.0,0.0,0,0
+Mauritius,Swimming,25,0,0,7,0.0,0.0,0,0
+Mauritius,Table Tennis,5,0,0,2,0.0,0.0,0,0
+Mauritius,Triathlon,2,0,0,2,0.0,0.0,0,0
+Mauritius,Weightlifting,7,0,0,6,0.0,0.0,0,0
+Mauritius,Wrestling,2,0,0,1,0.0,0.0,0,0
+Mexico,Archery,56,2,0,10,0.03571428571428571,0.0,0,0
+Mexico,Art Competitions,18,0,0,2,0.0,0.0,0,0
+Mexico,Athletics,372,11,3,22,0.02956989247311828,0.2727272727272727,1,0
+Mexico,Badminton,3,0,0,3,0.0,0.0,0,0
+Mexico,Basketball,84,11,0,7,0.13095238095238096,0.0,0,0
+Mexico,Beach Volleyball,12,0,0,5,0.0,0.0,0,0
+Mexico,Boxing,97,13,2,20,0.13402061855670103,0.15384615384615385,1,0
+Mexico,Canoeing,64,0,0,10,0.0,0.0,0,0
+Mexico,Cycling,141,2,0,18,0.014184397163120567,0.0,1,0
+Mexico,Diving,164,17,1,21,0.10365853658536585,0.058823529411764705,1,0
+Mexico,Equestrianism,185,17,4,17,0.0918918918918919,0.23529411764705882,1,0
+Mexico,Fencing,127,1,0,15,0.007874015748031496,0.0,1,0
+Mexico,Football,184,16,16,11,0.08695652173913043,1.0,1,0
+Mexico,Golf,3,0,0,1,0.0,0.0,0,0
+Mexico,Gymnastics,244,0,0,15,0.0,0.0,1,0
+Mexico,Hockey,34,0,0,2,0.0,0.0,0,0
+Mexico,Judo,30,0,0,13,0.0,0.0,0,0
+Mexico,Modern Pentathlon,75,1,0,19,0.013333333333333334,0.0,1,0
+Mexico,Polo,7,7,0,2,1.0,0.0,1,1
+Mexico,Rowing,69,0,0,16,0.0,0.0,1,0
+Mexico,Sailing,64,0,0,14,0.0,0.0,0,0
+Mexico,Shooting,112,1,0,21,0.008928571428571428,0.0,1,0
+Mexico,Swimming,393,2,1,19,0.005089058524173028,0.5,1,0
+Mexico,Synchronized Swimming,34,0,0,9,0.0,0.0,0,0
+Mexico,Table Tennis,5,0,0,4,0.0,0.0,0,0
+Mexico,Taekwondo,17,7,2,5,0.4117647058823529,0.2857142857142857,1,1
+Mexico,Tennis,30,0,0,6,0.0,0.0,0,0
+Mexico,Triathlon,11,0,0,4,0.0,0.0,0,0
+Mexico,Volleyball,36,0,0,2,0.0,0.0,0,0
+Mexico,Water Polo,40,0,0,4,0.0,0.0,0,0
+Mexico,Weightlifting,28,1,1,15,0.03571428571428571,1.0,1,0
+Mexico,Wrestling,71,1,0,17,0.014084507042253521,0.0,1,0
+Micronesia,Athletics,10,0,0,5,0.0,0.0,0,0
+Micronesia,Boxing,1,0,0,1,0.0,0.0,0,0
+Micronesia,Swimming,10,0,0,5,0.0,0.0,0,0
+Micronesia,Weightlifting,4,0,0,4,0.0,0.0,0,0
+Micronesia,Wrestling,1,0,0,1,0.0,0.0,0,0
+Moldova,Archery,4,0,0,3,0.0,0.0,0,0
+Moldova,Athletics,61,0,0,6,0.0,0.0,0,0
+Moldova,Boxing,8,2,0,5,0.25,0.0,0,1
+Moldova,Canoeing,8,2,0,2,0.25,0.0,0,1
+Moldova,Cycling,12,0,0,4,0.0,0.0,0,0
+Moldova,Judo,11,0,0,6,0.0,0.0,0,0
+Moldova,Shooting,6,1,0,5,0.16666666666666666,0.0,0,0
+Moldova,Swimming,39,0,0,6,0.0,0.0,0,0
+Moldova,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Moldova,Tennis,1,0,0,1,0.0,0.0,0,0
+Moldova,Weightlifting,21,2,0,6,0.09523809523809523,0.0,0,0
+Moldova,Wrestling,19,1,0,6,0.05263157894736842,0.0,0,0
+Monaco,Archery,2,0,0,2,0.0,0.0,0,0
+Monaco,Art Competitions,8,1,0,4,0.125,0.0,0,0
+Monaco,Athletics,15,0,0,8,0.0,0.0,0,0
+Monaco,Cycling,1,0,0,1,0.0,0.0,0,0
+Monaco,Fencing,7,0,0,4,0.0,0.0,0,0
+Monaco,Gymnastics,8,0,0,2,0.0,0.0,0,0
+Monaco,Judo,8,0,0,7,0.0,0.0,0,0
+Monaco,Rowing,7,0,0,3,0.0,0.0,0,0
+Monaco,Sailing,13,0,0,7,0.0,0.0,0,0
+Monaco,Shooting,51,0,0,15,0.0,0.0,0,0
+Monaco,Swimming,12,0,0,7,0.0,0.0,0,0
+Monaco,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Monaco,Triathlon,1,0,0,1,0.0,0.0,0,0
+Monaco,Weightlifting,2,0,0,2,0.0,0.0,0,0
+Mongolia,Archery,22,0,0,8,0.0,0.0,0,0
+Mongolia,Athletics,22,0,0,10,0.0,0.0,0,0
+Mongolia,Boxing,54,7,1,11,0.12962962962962962,0.14285714285714285,1,0
+Mongolia,Cycling,24,0,0,4,0.0,0.0,0,0
+Mongolia,Gymnastics,49,0,0,3,0.0,0.0,0,0
+Mongolia,Judo,86,8,1,11,0.09302325581395349,0.125,0,0
+Mongolia,Shooting,63,2,0,13,0.031746031746031744,0.0,0,0
+Mongolia,Swimming,9,0,0,5,0.0,0.0,0,0
+Mongolia,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Mongolia,Weightlifting,13,0,0,6,0.0,0.0,0,0
+Mongolia,Wrestling,110,9,0,13,0.08181818181818182,0.0,1,0
+Montenegro,Athletics,6,0,0,3,0.0,0.0,0,0
+Montenegro,Boxing,2,0,0,2,0.0,0.0,0,0
+Montenegro,Handball,29,14,0,2,0.4827586206896552,0.0,1,1
+Montenegro,Judo,3,0,0,3,0.0,0.0,0,0
+Montenegro,Sailing,2,0,0,2,0.0,0.0,0,0
+Montenegro,Shooting,4,0,0,2,0.0,0.0,0,0
+Montenegro,Swimming,3,0,0,2,0.0,0.0,0,0
+Montenegro,Tennis,1,0,0,1,0.0,0.0,0,0
+Montenegro,Water Polo,39,0,0,3,0.0,0.0,0,0
+Morocco,Archery,1,0,0,1,0.0,0.0,0,0
+Morocco,Athletics,197,19,6,13,0.09644670050761421,0.3157894736842105,1,0
+Morocco,Basketball,12,0,0,1,0.0,0.0,0,0
+Morocco,Boxing,83,4,0,14,0.04819277108433735,0.0,1,0
+Morocco,Canoeing,3,0,0,3,0.0,0.0,0,0
+Morocco,Cycling,20,0,0,4,0.0,0.0,0,0
+Morocco,Equestrianism,2,0,0,2,0.0,0.0,0,0
+Morocco,Fencing,30,0,0,5,0.0,0.0,0,0
+Morocco,Football,110,0,0,7,0.0,0.0,0,0
+Morocco,Golf,1,0,0,1,0.0,0.0,0,0
+Morocco,Gymnastics,49,0,0,2,0.0,0.0,0,0
+Morocco,Judo,29,0,0,9,0.0,0.0,0,0
+Morocco,Modern Pentathlon,2,0,0,1,0.0,0.0,0,0
+Morocco,Sailing,2,0,0,2,0.0,0.0,0,0
+Morocco,Shooting,9,0,0,3,0.0,0.0,0,0
+Morocco,Swimming,9,0,0,5,0.0,0.0,0,0
+Morocco,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Morocco,Taekwondo,15,0,0,5,0.0,0.0,0,0
+Morocco,Tennis,6,0,0,4,0.0,0.0,0,0
+Morocco,Weightlifting,11,0,0,6,0.0,0.0,0,0
+Morocco,Wrestling,40,0,0,10,0.0,0.0,0,0
+Mozambique,Athletics,37,2,1,10,0.05405405405405406,0.5,0,0
+Mozambique,Boxing,5,0,0,3,0.0,0.0,0,0
+Mozambique,Canoeing,4,0,0,1,0.0,0.0,0,0
+Mozambique,Judo,3,0,0,3,0.0,0.0,0,0
+Mozambique,Swimming,29,0,0,10,0.0,0.0,0,0
+Myanmar,Archery,5,0,0,5,0.0,0.0,0,0
+Myanmar,Athletics,30,0,0,14,0.0,0.0,0,0
+Myanmar,Boxing,20,0,0,8,0.0,0.0,0,0
+Myanmar,Canoeing,2,0,0,1,0.0,0.0,0,0
+Myanmar,Football,13,0,0,1,0.0,0.0,0,0
+Myanmar,Judo,3,0,0,3,0.0,0.0,0,0
+Myanmar,Rowing,2,0,0,2,0.0,0.0,0,0
+Myanmar,Sailing,6,0,0,2,0.0,0.0,0,0
+Myanmar,Shooting,6,0,0,4,0.0,0.0,0,0
+Myanmar,Swimming,7,0,0,5,0.0,0.0,0,0
+Myanmar,Weightlifting,17,0,0,9,0.0,0.0,0,0
+Namibia,Athletics,30,4,0,7,0.13333333333333333,0.0,0,0
+Namibia,Boxing,13,0,0,7,0.0,0.0,0,0
+Namibia,Cycling,10,0,0,5,0.0,0.0,0,0
+Namibia,Gymnastics,5,0,0,1,0.0,0.0,0,0
+Namibia,Shooting,8,0,0,6,0.0,0.0,0,0
+Namibia,Swimming,9,0,0,3,0.0,0.0,0,0
+Namibia,Wrestling,2,0,0,2,0.0,0.0,0,0
+Nauru,Judo,2,0,0,2,0.0,0.0,0,0
+Nauru,Weightlifting,11,0,0,6,0.0,0.0,0,0
+Nepal,Archery,1,0,0,1,0.0,0.0,0,0
+Nepal,Athletics,39,0,0,13,0.0,0.0,0,0
+Nepal,Boxing,15,0,0,4,0.0,0.0,0,0
+Nepal,Judo,4,0,0,3,0.0,0.0,0,0
+Nepal,Shooting,7,0,0,7,0.0,0.0,0,0
+Nepal,Swimming,12,0,0,6,0.0,0.0,0,0
+Nepal,Taekwondo,3,0,0,3,0.0,0.0,0,0
+Nepal,Weightlifting,7,0,0,5,0.0,0.0,0,0
+Netherlands,Archery,54,9,8,11,0.16666666666666666,0.8888888888888888,1,0
+Netherlands,Art Competitions,209,7,2,5,0.03349282296650718,0.2857142857142857,0,0
+Netherlands,Athletics,511,22,9,24,0.043052837573385516,0.4090909090909091,1,0
+Netherlands,Badminton,31,1,0,6,0.03225806451612903,0.0,0,0
+Netherlands,Baseball,92,0,0,4,0.0,0.0,0,0
+Netherlands,Beach Volleyball,28,2,0,6,0.07142857142857142,0.0,0,0
+Netherlands,Boxing,65,7,1,14,0.1076923076923077,0.14285714285714285,1,0
+Netherlands,Canoeing,85,12,0,15,0.1411764705882353,0.0,1,0
+Netherlands,Cycling,473,67,25,23,0.1416490486257928,0.373134328358209,1,0
+Netherlands,Diving,35,0,0,12,0.0,0.0,0,0
+Netherlands,Equestrianism,248,56,18,19,0.22580645161290322,0.32142857142857145,1,1
+Netherlands,Fencing,252,31,0,17,0.12301587301587301,0.0,1,0
+Netherlands,Football,111,42,0,9,0.3783783783783784,0.0,1,1
+Netherlands,Golf,1,0,0,1,0.0,0.0,0,0
+Netherlands,Gymnastics,349,12,12,12,0.034383954154727794,1.0,1,0
+Netherlands,Handball,14,0,0,1,0.0,0.0,0,0
+Netherlands,Hockey,418,255,80,18,0.6100478468899522,0.3137254901960784,2,1
+Netherlands,Judo,84,23,4,12,0.27380952380952384,0.17391304347826086,1,1
+Netherlands,Modern Pentathlon,18,0,0,6,0.0,0.0,0,0
+Netherlands,Rowing,470,139,21,24,0.2957446808510638,0.1510791366906475,2,1
+Netherlands,Sailing,210,43,11,23,0.20476190476190476,0.2558139534883721,1,1
+Netherlands,Shooting,175,6,0,18,0.03428571428571429,0.0,1,0
+Netherlands,Softball,30,0,0,2,0.0,0.0,0,0
+Netherlands,Swimming,693,114,30,24,0.1645021645021645,0.2631578947368421,2,0
+Netherlands,Synchronized Swimming,14,0,0,4,0.0,0.0,0,0
+Netherlands,Table Tennis,42,0,0,8,0.0,0.0,0,0
+Netherlands,Taekwondo,7,0,0,5,0.0,0.0,0,0
+Netherlands,Tennis,53,4,0,10,0.07547169811320754,0.0,0,0
+Netherlands,Trampolining,4,0,0,3,0.0,0.0,0,0
+Netherlands,Triathlon,13,0,0,5,0.0,0.0,0,0
+Netherlands,Tug-Of-War,8,8,0,1,1.0,0.0,1,1
+Netherlands,Volleyball,105,24,12,7,0.22857142857142856,0.5,1,1
+Netherlands,Water Polo,195,31,12,18,0.15897435897435896,0.3870967741935484,1,0
+Netherlands,Weightlifting,23,3,0,6,0.13043478260869565,0.0,0,0
+Netherlands,Wrestling,44,0,0,9,0.0,0.0,0,0
+New Zealand,Archery,10,0,0,7,0.0,0.0,0,0
+New Zealand,Athletics,237,24,10,22,0.10126582278481013,0.4166666666666667,1,0
+New Zealand,Badminton,15,0,0,4,0.0,0.0,0,0
+New Zealand,Basketball,60,0,0,3,0.0,0.0,0,0
+New Zealand,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+New Zealand,Boxing,28,3,1,15,0.10714285714285714,0.3333333333333333,1,0
+New Zealand,Canoeing,75,18,12,11,0.24,0.6666666666666666,1,1
+New Zealand,Cycling,230,18,1,19,0.0782608695652174,0.05555555555555555,1,0
+New Zealand,Diving,6,0,0,4,0.0,0.0,0,0
+New Zealand,Equestrianism,121,23,3,12,0.19008264462809918,0.13043478260869565,1,0
+New Zealand,Fencing,8,0,0,5,0.0,0.0,0,0
+New Zealand,Football,80,0,0,3,0.0,0.0,0,0
+New Zealand,Golf,3,1,0,1,0.3333333333333333,0.0,0,1
+New Zealand,Gymnastics,51,0,0,4,0.0,0.0,0,0
+New Zealand,Hockey,291,14,14,13,0.048109965635738834,1.0,1,0
+New Zealand,Judo,19,0,0,9,0.0,0.0,0,0
+New Zealand,Modern Pentathlon,1,0,0,1,0.0,0.0,0,0
+New Zealand,Rhythmic Gymnastics,2,0,0,2,0.0,0.0,0,0
+New Zealand,Rowing,254,69,31,18,0.27165354330708663,0.4492753623188406,1,1
+New Zealand,Rugby Sevens,25,12,0,1,0.48,0.0,1,1
+New Zealand,Sailing,154,33,14,15,0.21428571428571427,0.42424242424242425,1,1
+New Zealand,Shooting,42,2,0,12,0.047619047619047616,0.0,0,0
+New Zealand,Softball,15,0,0,1,0.0,0.0,0,0
+New Zealand,Swimming,306,6,2,19,0.0196078431372549,0.3333333333333333,1,0
+New Zealand,Synchronized Swimming,6,0,0,2,0.0,0.0,0,0
+New Zealand,Table Tennis,17,0,0,5,0.0,0.0,0,0
+New Zealand,Taekwondo,8,0,0,4,0.0,0.0,0,0
+New Zealand,Tennis,9,0,0,5,0.0,0.0,0,0
+New Zealand,Trampolining,1,0,0,1,0.0,0.0,0,0
+New Zealand,Triathlon,24,3,1,5,0.125,0.3333333333333333,0,0
+New Zealand,Water Polo,1,1,1,1,1.0,1.0,1,1
+New Zealand,Weightlifting,24,0,0,14,0.0,0.0,0,0
+New Zealand,Wrestling,17,0,0,9,0.0,0.0,0,0
+Nicaragua,Athletics,38,0,0,11,0.0,0.0,0,0
+Nicaragua,Baseball,20,0,0,1,0.0,0.0,0,0
+Nicaragua,Boxing,14,0,0,7,0.0,0.0,0,0
+Nicaragua,Cycling,10,0,0,2,0.0,0.0,0,0
+Nicaragua,Judo,5,0,0,3,0.0,0.0,0,0
+Nicaragua,Shooting,8,0,0,6,0.0,0.0,0,0
+Nicaragua,Swimming,21,0,0,8,0.0,0.0,0,0
+Nicaragua,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Nicaragua,Weightlifting,11,0,0,8,0.0,0.0,0,0
+Nicaragua,Wrestling,1,0,0,1,0.0,0.0,0,0
+Niger,Athletics,21,0,0,9,0.0,0.0,0,0
+Niger,Boxing,13,1,0,6,0.07692307692307693,0.0,0,0
+Niger,Judo,3,0,0,3,0.0,0.0,0,0
+Niger,Rowing,1,0,0,1,0.0,0.0,0,0
+Niger,Swimming,8,0,0,5,0.0,0.0,0,0
+Niger,Taekwondo,1,1,0,1,1.0,0.0,1,1
+Nigeria,Athletics,417,41,7,16,0.09832134292565947,0.17073170731707318,1,0
+Nigeria,Badminton,5,0,0,2,0.0,0.0,0,0
+Nigeria,Basketball,35,0,0,3,0.0,0.0,0,0
+Nigeria,Boxing,73,6,0,14,0.0821917808219178,0.0,1,0
+Nigeria,Canoeing,2,0,0,2,0.0,0.0,0,0
+Nigeria,Football,163,50,16,8,0.3067484662576687,0.32,1,1
+Nigeria,Handball,16,0,0,1,0.0,0.0,0,0
+Nigeria,Judo,11,0,0,6,0.0,0.0,0,0
+Nigeria,Rowing,1,0,0,1,0.0,0.0,0,0
+Nigeria,Swimming,12,0,0,5,0.0,0.0,0,0
+Nigeria,Table Tennis,72,0,0,8,0.0,0.0,0,0
+Nigeria,Taekwondo,7,1,0,3,0.14285714285714285,0.0,0,0
+Nigeria,Tennis,6,0,0,2,0.0,0.0,0,0
+Nigeria,Weightlifting,27,1,0,10,0.037037037037037035,0.0,0,0
+Nigeria,Wrestling,35,0,0,10,0.0,0.0,0,0
+North Korea,Archery,19,0,0,8,0.0,0.0,0,0
+North Korea,Athletics,40,0,0,10,0.0,0.0,0,0
+North Korea,Boxing,25,8,2,9,0.32,0.25,1,1
+North Korea,Cycling,3,0,0,1,0.0,0.0,0,0
+North Korea,Diving,31,0,0,7,0.0,0.0,0,0
+North Korea,Football,46,0,0,3,0.0,0.0,0,0
+North Korea,Gymnastics,261,3,3,8,0.011494252873563218,1.0,0,0
+North Korea,Judo,35,8,2,10,0.22857142857142856,0.25,1,1
+North Korea,Rhythmic Gymnastics,2,0,0,1,0.0,0.0,0,0
+North Korea,Rowing,6,0,0,1,0.0,0.0,0,0
+North Korea,Shooting,62,3,1,10,0.04838709677419355,0.3333333333333333,0,0
+North Korea,Synchronized Swimming,6,0,0,3,0.0,0.0,0,0
+North Korea,Table Tennis,52,5,0,6,0.09615384615384616,0.0,0,0
+North Korea,Volleyball,11,11,0,1,1.0,0.0,1,1
+North Korea,Weightlifting,51,17,5,10,0.3333333333333333,0.29411764705882354,1,1
+North Korea,Wrestling,32,10,3,10,0.3125,0.3,1,1
+Norway,Archery,18,0,0,8,0.0,0.0,0,0
+Norway,Art Competitions,17,1,0,5,0.058823529411764705,0.0,0,0
+Norway,Athletics,351,20,7,26,0.05698005698005698,0.35,1,0
+Norway,Badminton,3,0,0,3,0.0,0.0,0,0
+Norway,Beach Volleyball,24,0,0,5,0.0,0.0,0,0
+Norway,Boxing,54,5,1,12,0.09259259259259259,0.2,0,0
+Norway,Canoeing,100,22,9,16,0.22,0.4090909090909091,1,1
+Norway,Cycling,152,4,2,19,0.02631578947368421,0.5,1,0
+Norway,Diving,24,0,0,9,0.0,0.0,0,0
+Norway,Equestrianism,60,3,0,11,0.05,0.0,0,0
+Norway,Fencing,104,1,0,15,0.009615384615384616,0.0,1,0
+Norway,Figure Skating,6,4,0,1,0.6666666666666666,0.0,1,1
+Norway,Football,118,47,17,8,0.3983050847457627,0.3617021276595745,1,1
+Norway,Golf,3,0,0,1,0.0,0.0,0,0
+Norway,Gymnastics,346,121,44,15,0.34971098265895956,0.36363636363636365,2,1
+Norway,Handball,116,85,28,8,0.7327586206896551,0.32941176470588235,1,1
+Norway,Judo,4,0,0,2,0.0,0.0,0,0
+Norway,Modern Pentathlon,6,0,0,3,0.0,0.0,0,0
+Norway,Rhythmic Gymnastics,1,0,0,1,0.0,0.0,0,0
+Norway,Rowing,171,61,4,19,0.3567251461988304,0.06557377049180328,1,1
+Norway,Sailing,266,125,81,23,0.4699248120300752,0.648,2,1
+Norway,Shooting,410,77,29,24,0.1878048780487805,0.37662337662337664,1,0
+Norway,Swimming,103,2,0,18,0.019417475728155338,0.0,1,0
+Norway,Taekwondo,4,2,0,4,0.5,0.0,1,1
+Norway,Tennis,34,1,0,6,0.029411764705882353,0.0,0,0
+Norway,Triathlon,1,0,0,1,0.0,0.0,0,0
+Norway,Weightlifting,14,1,1,8,0.07142857142857142,1.0,0,0
+Norway,Wrestling,88,8,4,25,0.09090909090909091,0.5,1,0
+Oman,Athletics,38,0,0,9,0.0,0.0,0,0
+Oman,Boxing,2,0,0,1,0.0,0.0,0,0
+Oman,Cycling,1,0,0,1,0.0,0.0,0,0
+Oman,Sailing,1,0,0,1,0.0,0.0,0,0
+Oman,Shooting,21,0,0,9,0.0,0.0,0,0
+Oman,Swimming,3,0,0,3,0.0,0.0,0,0
+Pakistan,Athletics,130,0,0,16,0.0,0.0,1,0
+Pakistan,Boxing,48,1,0,13,0.020833333333333332,0.0,0,0
+Pakistan,Cycling,31,0,0,5,0.0,0.0,0,0
+Pakistan,Hockey,245,119,42,16,0.4857142857142857,0.35294117647058826,1,1
+Pakistan,Judo,1,0,0,1,0.0,0.0,0,0
+Pakistan,Rowing,3,0,0,1,0.0,0.0,0,0
+Pakistan,Sailing,10,0,0,3,0.0,0.0,0,0
+Pakistan,Shooting,22,0,0,9,0.0,0.0,0,0
+Pakistan,Swimming,25,0,0,9,0.0,0.0,0,0
+Pakistan,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Pakistan,Weightlifting,12,0,0,7,0.0,0.0,0,0
+Pakistan,Wrestling,32,1,0,10,0.03125,0.0,0,0
+Palau,Athletics,9,0,0,5,0.0,0.0,0,0
+Palau,Canoeing,2,0,0,1,0.0,0.0,0,0
+Palau,Judo,1,0,0,1,0.0,0.0,0,0
+Palau,Swimming,7,0,0,5,0.0,0.0,0,0
+Palau,Weightlifting,2,0,0,2,0.0,0.0,0,0
+Palau,Wrestling,4,0,0,3,0.0,0.0,0,0
+Palestine,Athletics,10,0,0,6,0.0,0.0,0,0
+Palestine,Equestrianism,1,0,0,1,0.0,0.0,0,0
+Palestine,Judo,2,0,0,2,0.0,0.0,0,0
+Palestine,Swimming,8,0,0,5,0.0,0.0,0,0
+Panama,Athletics,36,3,1,13,0.08333333333333333,0.3333333333333333,1,0
+Panama,Basketball,12,0,0,1,0.0,0.0,0,0
+Panama,Boxing,5,0,0,4,0.0,0.0,0,0
+Panama,Canoeing,1,0,0,1,0.0,0.0,0,0
+Panama,Fencing,3,0,0,3,0.0,0.0,0,0
+Panama,Gymnastics,4,0,0,1,0.0,0.0,0,0
+Panama,Judo,4,0,0,4,0.0,0.0,0,0
+Panama,Shooting,4,0,0,3,0.0,0.0,0,0
+Panama,Swimming,33,0,0,11,0.0,0.0,0,0
+Panama,Taekwondo,2,0,0,2,0.0,0.0,0,0
+Panama,Weightlifting,17,0,0,11,0.0,0.0,0,0
+Panama,Wrestling,18,0,0,9,0.0,0.0,0,0
+Papua New Guinea,Athletics,60,0,0,10,0.0,0.0,0,0
+Papua New Guinea,Boxing,15,0,0,6,0.0,0.0,0,0
+Papua New Guinea,Judo,2,0,0,2,0.0,0.0,0,0
+Papua New Guinea,Sailing,2,0,0,2,0.0,0.0,0,0
+Papua New Guinea,Shooting,3,0,0,2,0.0,0.0,0,0
+Papua New Guinea,Swimming,12,0,0,5,0.0,0.0,0,0
+Papua New Guinea,Taekwondo,4,0,0,3,0.0,0.0,0,0
+Papua New Guinea,Weightlifting,10,0,0,8,0.0,0.0,0,0
+Paraguay,Athletics,31,0,0,11,0.0,0.0,0,0
+Paraguay,Boxing,4,0,0,2,0.0,0.0,0,0
+Paraguay,Fencing,9,0,0,5,0.0,0.0,0,0
+Paraguay,Football,34,17,0,2,0.5,0.0,1,1
+Paraguay,Golf,2,0,0,1,0.0,0.0,0,0
+Paraguay,Judo,5,0,0,5,0.0,0.0,0,0
+Paraguay,Rowing,5,0,0,3,0.0,0.0,0,0
+Paraguay,Sailing,2,0,0,2,0.0,0.0,0,0
+Paraguay,Shooting,10,0,0,5,0.0,0.0,0,0
+Paraguay,Swimming,20,0,0,8,0.0,0.0,0,0
+Paraguay,Table Tennis,3,0,0,3,0.0,0.0,0,0
+Paraguay,Tennis,9,0,0,5,0.0,0.0,0,0
+Peru,Art Competitions,3,0,0,1,0.0,0.0,0,0
+Peru,Athletics,80,0,0,16,0.0,0.0,1,0
+Peru,Badminton,5,0,0,4,0.0,0.0,0,0
+Peru,Basketball,32,0,0,3,0.0,0.0,0,0
+Peru,Boxing,8,0,0,4,0.0,0.0,0,0
+Peru,Canoeing,1,0,0,1,0.0,0.0,0,0
+Peru,Cycling,26,0,0,6,0.0,0.0,0,0
+Peru,Diving,3,0,0,2,0.0,0.0,0,0
+Peru,Equestrianism,2,0,0,2,0.0,0.0,0,0
+Peru,Fencing,8,0,0,5,0.0,0.0,0,0
+Peru,Football,31,0,0,2,0.0,0.0,0,0
+Peru,Gymnastics,4,0,0,1,0.0,0.0,0,0
+Peru,Judo,5,0,0,5,0.0,0.0,0,0
+Peru,Modern Pentathlon,2,0,0,2,0.0,0.0,0,0
+Peru,Rowing,12,0,0,6,0.0,0.0,0,0
+Peru,Sailing,6,0,0,5,0.0,0.0,0,0
+Peru,Shooting,88,3,1,17,0.03409090909090909,0.3333333333333333,1,0
+Peru,Swimming,79,0,0,14,0.0,0.0,0,0
+Peru,Table Tennis,11,0,0,4,0.0,0.0,0,0
+Peru,Taekwondo,3,0,0,3,0.0,0.0,0,0
+Peru,Tennis,3,0,0,2,0.0,0.0,0,0
+Peru,Volleyball,75,12,0,7,0.16,0.0,0,0
+Peru,Weightlifting,13,0,0,9,0.0,0.0,0,0
+Peru,Wrestling,22,0,0,8,0.0,0.0,0,0
+Philippines,Archery,10,0,0,6,0.0,0.0,0,0
+Philippines,Art Competitions,2,0,0,1,0.0,0.0,0,0
+Philippines,Athletics,96,2,0,21,0.020833333333333332,0.0,1,0
+Philippines,Badminton,1,0,0,1,0.0,0.0,0,0
+Philippines,Basketball,79,0,0,7,0.0,0.0,0,0
+Philippines,Boxing,75,5,0,19,0.06666666666666667,0.0,1,0
+Philippines,Cycling,27,0,0,7,0.0,0.0,0,0
+Philippines,Diving,4,0,0,2,0.0,0.0,0,0
+Philippines,Equestrianism,3,0,0,3,0.0,0.0,0,0
+Philippines,Fencing,2,0,0,2,0.0,0.0,0,0
+Philippines,Golf,1,0,0,1,0.0,0.0,0,0
+Philippines,Gymnastics,20,0,0,2,0.0,0.0,0,0
+Philippines,Judo,15,0,0,6,0.0,0.0,0,0
+Philippines,Rowing,2,0,0,2,0.0,0.0,0,0
+Philippines,Sailing,20,0,0,8,0.0,0.0,0,0
+Philippines,Shooting,72,0,0,16,0.0,0.0,1,0
+Philippines,Swimming,197,2,0,20,0.01015228426395939,0.0,1,0
+Philippines,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Philippines,Taekwondo,10,0,0,4,0.0,0.0,0,0
+Philippines,Weightlifting,23,1,0,12,0.043478260869565216,0.0,0,0
+Philippines,Wrestling,26,0,0,8,0.0,0.0,0,0
+Poland,Archery,66,4,0,11,0.06060606060606061,0.0,0,0
+Poland,Art Competitions,163,8,3,5,0.049079754601226995,0.375,0,0
+Poland,Athletics,851,72,27,21,0.0846063454759107,0.375,2,0
+Poland,Badminton,32,0,0,7,0.0,0.0,0,0
+Poland,Basketball,82,0,0,7,0.0,0.0,0,0
+Poland,Beach Volleyball,8,0,0,2,0.0,0.0,0,0
+Poland,Boxing,137,43,8,20,0.31386861313868614,0.18604651162790697,1,1
+Poland,Canoeing,288,37,0,17,0.1284722222222222,0.0,1,0
+Poland,Cycling,242,24,0,17,0.09917355371900827,0.0,1,0
+Poland,Diving,21,0,0,6,0.0,0.0,0,0
+Poland,Equestrianism,128,15,1,14,0.1171875,0.06666666666666667,1,0
+Poland,Fencing,414,82,8,21,0.19806763285024154,0.0975609756097561,1,0
+Poland,Football,106,50,17,7,0.4716981132075472,0.34,1,1
+Poland,Gymnastics,641,9,1,13,0.014040561622464899,0.1111111111111111,1,0
+Poland,Handball,72,14,0,5,0.19444444444444445,0.0,0,0
+Poland,Hockey,92,0,0,5,0.0,0.0,0,0
+Poland,Judo,75,8,3,11,0.10666666666666667,0.375,1,0
+Poland,Modern Pentathlon,58,6,5,13,0.10344827586206896,0.8333333333333334,1,0
+Poland,Rhythmic Gymnastics,15,0,0,7,0.0,0.0,0,0
+Poland,Rowing,313,52,10,20,0.16613418530351437,0.19230769230769232,1,0
+Poland,Sailing,96,4,1,15,0.041666666666666664,0.25,1,0
+Poland,Shooting,179,12,4,18,0.0670391061452514,0.3333333333333333,1,0
+Poland,Swimming,260,6,1,17,0.023076923076923078,0.16666666666666666,1,0
+Poland,Table Tennis,42,0,0,8,0.0,0.0,0,0
+Poland,Taekwondo,4,0,0,3,0.0,0.0,0,0
+Poland,Tennis,38,0,0,7,0.0,0.0,0,0
+Poland,Triathlon,7,0,0,3,0.0,0.0,0,0
+Poland,Volleyball,140,34,12,10,0.24285714285714285,0.35294117647058826,1,1
+Poland,Weightlifting,117,32,5,16,0.27350427350427353,0.15625,1,1
+Poland,Wrestling,178,26,5,18,0.14606741573033707,0.19230769230769232,1,0
+Portugal,Archery,8,0,0,6,0.0,0.0,0,0
+Portugal,Art Competitions,1,0,0,1,0.0,0.0,0,0
+Portugal,Athletics,325,10,4,22,0.03076923076923077,0.4,1,0
+Portugal,Badminton,12,0,0,6,0.0,0.0,0,0
+Portugal,Beach Volleyball,8,0,0,3,0.0,0.0,0,0
+Portugal,Boxing,1,0,0,1,0.0,0.0,0,0
+Portugal,Canoeing,53,2,0,8,0.03773584905660377,0.0,0,0
+Portugal,Cycling,38,1,0,7,0.02631578947368421,0.0,0,0
+Portugal,Diving,1,0,0,1,0.0,0.0,0,0
+Portugal,Equestrianism,116,10,0,17,0.08620689655172414,0.0,1,0
+Portugal,Fencing,113,6,0,16,0.05309734513274336,0.0,1,0
+Portugal,Football,65,0,0,4,0.0,0.0,0,0
+Portugal,Golf,2,0,0,1,0.0,0.0,0,0
+Portugal,Gymnastics,146,0,0,10,0.0,0.0,0,0
+Portugal,Judo,53,2,0,13,0.03773584905660377,0.0,0,0
+Portugal,Modern Pentathlon,18,0,0,7,0.0,0.0,0,0
+Portugal,Rhythmic Gymnastics,3,0,0,2,0.0,0.0,0,0
+Portugal,Rowing,41,0,0,8,0.0,0.0,0,0
+Portugal,Sailing,128,8,0,20,0.0625,0.0,1,0
+Portugal,Shooting,124,1,0,19,0.008064516129032258,0.0,1,0
+Portugal,Swimming,160,0,0,16,0.0,0.0,1,0
+Portugal,Table Tennis,16,0,0,3,0.0,0.0,0,0
+Portugal,Taekwondo,2,0,0,2,0.0,0.0,0,0
+Portugal,Tennis,12,0,0,5,0.0,0.0,0,0
+Portugal,Trampolining,7,0,0,4,0.0,0.0,0,0
+Portugal,Triathlon,9,1,0,4,0.1111111111111111,0.0,0,0
+Portugal,Water Polo,9,0,0,1,0.0,0.0,0,0
+Portugal,Weightlifting,10,0,0,9,0.0,0.0,0,0
+Portugal,Wrestling,20,0,0,10,0.0,0.0,0,0
+Puerto Rico,Archery,7,0,0,5,0.0,0.0,0,0
+Puerto Rico,Athletics,154,1,0,17,0.006493506493506494,0.0,1,0
+Puerto Rico,Baseball,20,0,0,1,0.0,0.0,0,0
+Puerto Rico,Basketball,108,0,0,9,0.0,0.0,0,0
+Puerto Rico,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+Puerto Rico,Boxing,89,6,0,16,0.06741573033707865,0.0,1,0
+Puerto Rico,Cycling,5,0,0,4,0.0,0.0,0,0
+Puerto Rico,Diving,14,0,0,7,0.0,0.0,0,0
+Puerto Rico,Equestrianism,7,0,0,6,0.0,0.0,0,0
+Puerto Rico,Fencing,13,0,0,7,0.0,0.0,0,0
+Puerto Rico,Gymnastics,45,0,0,6,0.0,0.0,0,0
+Puerto Rico,Judo,36,0,0,11,0.0,0.0,0,0
+Puerto Rico,Rowing,2,0,0,2,0.0,0.0,0,0
+Puerto Rico,Sailing,42,0,0,10,0.0,0.0,0,0
+Puerto Rico,Shooting,61,0,0,17,0.0,0.0,1,0
+Puerto Rico,Softball,15,0,0,1,0.0,0.0,0,0
+Puerto Rico,Swimming,185,0,0,13,0.0,0.0,0,0
+Puerto Rico,Synchronized Swimming,2,0,0,1,0.0,0.0,0,0
+Puerto Rico,Table Tennis,2,0,0,1,0.0,0.0,0,0
+Puerto Rico,Taekwondo,4,0,0,3,0.0,0.0,0,0
+Puerto Rico,Tennis,5,1,1,3,0.2,1.0,0,0
+Puerto Rico,Triathlon,1,0,0,1,0.0,0.0,0,0
+Puerto Rico,Volleyball,12,0,0,1,0.0,0.0,0,0
+Puerto Rico,Weightlifting,33,0,0,14,0.0,0.0,0,0
+Puerto Rico,Wrestling,26,1,0,8,0.038461538461538464,0.0,0,0
+Qatar,Archery,1,0,0,1,0.0,0.0,0,0
+Qatar,Athletics,94,3,0,9,0.031914893617021274,0.0,0,0
+Qatar,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+Qatar,Boxing,2,0,0,1,0.0,0.0,0,0
+Qatar,Equestrianism,8,0,0,1,0.0,0.0,0,0
+Qatar,Fencing,1,0,0,1,0.0,0.0,0,0
+Qatar,Football,31,0,0,2,0.0,0.0,0,0
+Qatar,Handball,15,0,0,1,0.0,0.0,0,0
+Qatar,Judo,1,0,0,1,0.0,0.0,0,0
+Qatar,Sailing,2,0,0,2,0.0,0.0,0,0
+Qatar,Shooting,18,1,0,8,0.05555555555555555,0.0,0,0
+Qatar,Swimming,7,0,0,5,0.0,0.0,0,0
+Qatar,Table Tennis,4,0,0,4,0.0,0.0,0,0
+Qatar,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Qatar,Weightlifting,5,1,0,3,0.2,0.0,0,0
+Republic of Congo,Athletics,58,0,0,12,0.0,0.0,0,0
+Republic of Congo,Boxing,5,0,0,2,0.0,0.0,0,0
+Republic of Congo,Fencing,1,0,0,1,0.0,0.0,0,0
+Republic of Congo,Handball,14,0,0,1,0.0,0.0,0,0
+Republic of Congo,Judo,7,0,0,5,0.0,0.0,0,0
+Republic of Congo,Swimming,12,0,0,7,0.0,0.0,0,0
+Republic of Congo,Table Tennis,8,0,0,3,0.0,0.0,0,0
+Romania,Archery,5,0,0,2,0.0,0.0,0,0
+Romania,Art Competitions,3,0,0,2,0.0,0.0,0,0
+Romania,Athletics,325,35,11,19,0.1076923076923077,0.3142857142857143,1,0
+Romania,Badminton,1,0,0,1,0.0,0.0,0,0
+Romania,Basketball,12,0,0,1,0.0,0.0,0,0
+Romania,Boxing,115,25,1,18,0.21739130434782608,0.04,1,1
+Romania,Canoeing,222,67,18,16,0.30180180180180183,0.26865671641791045,1,1
+Romania,Cycling,35,0,0,9,0.0,0.0,0,0
+Romania,Diving,23,0,0,7,0.0,0.0,0,0
+Romania,Equestrianism,57,4,0,6,0.07017543859649122,0.0,0,0
+Romania,Fencing,311,47,7,19,0.15112540192926044,0.14893617021276595,1,0
+Romania,Football,40,0,0,3,0.0,0.0,0,0
+Romania,Gymnastics,1172,135,40,17,0.11518771331058021,0.2962962962962963,2,0
+Romania,Handball,145,58,0,9,0.4,0.0,1,1
+Romania,Judo,45,6,1,9,0.13333333333333333,0.16666666666666666,0,0
+Romania,Modern Pentathlon,21,0,0,6,0.0,0.0,0,0
+Romania,Rhythmic Gymnastics,7,1,0,4,0.14285714285714285,0.0,0,0
+Romania,Rowing,358,175,65,16,0.4888268156424581,0.37142857142857144,2,1
+Romania,Rugby,16,16,0,1,1.0,0.0,1,1
+Romania,Sailing,7,0,0,2,0.0,0.0,0,0
+Romania,Shooting,135,15,6,20,0.1111111111111111,0.4,1,0
+Romania,Swimming,202,9,3,15,0.04455445544554455,0.3333333333333333,1,0
+Romania,Table Tennis,39,0,0,7,0.0,0.0,0,0
+Romania,Tennis,46,2,0,8,0.043478260869565216,0.0,0,0
+Romania,Volleyball,54,10,0,3,0.18518518518518517,0.0,0,0
+Romania,Water Polo,93,0,0,9,0.0,0.0,0,0
+Romania,Weightlifting,71,13,2,15,0.18309859154929578,0.15384615384615385,1,0
+Romania,Wrestling,171,33,7,18,0.19298245614035087,0.21212121212121213,1,0
+Russia,Archery,84,15,1,11,0.17857142857142858,0.06666666666666667,1,0
+Russia,Art Competitions,4,0,0,2,0.0,0.0,0,0
+Russia,Athletics,1573,374,124,18,0.23776223776223776,0.3315508021390374,2,1
+Russia,Badminton,32,2,0,7,0.0625,0.0,0,0
+Russia,Basketball,264,194,60,15,0.7348484848484849,0.30927835051546393,2,1
+Russia,Beach Volleyball,18,0,0,4,0.0,0.0,0,0
+Russia,Boxing,172,83,24,16,0.48255813953488375,0.2891566265060241,1,1
+Russia,Canoeing,278,112,59,16,0.4028776978417266,0.5267857142857143,2,1
+Russia,Cycling,346,77,34,17,0.22254335260115607,0.44155844155844154,1,1
+Russia,Diving,185,44,10,17,0.23783783783783785,0.22727272727272727,1,1
+Russia,Equestrianism,212,29,16,17,0.13679245283018868,0.5517241379310345,1,0
+Russia,Fencing,529,221,101,18,0.41776937618147447,0.45701357466063347,2,1
+Russia,Figure Skating,2,1,1,1,0.5,1.0,1,1
+Russia,Football,117,87,36,7,0.7435897435897436,0.41379310344827586,1,1
+Russia,Golf,1,0,0,1,0.0,0.0,0,0
+Russia,Gymnastics,1289,399,176,17,0.3095422808378588,0.44110275689223055,2,1
+Russia,Handball,224,167,97,11,0.7455357142857143,0.5808383233532934,2,1
+Russia,Hockey,62,32,0,3,0.5161290322580645,0.0,1,1
+Russia,Judo,115,43,12,12,0.3739130434782609,0.27906976744186046,1,1
+Russia,Modern Pentathlon,86,36,17,17,0.4186046511627907,0.4722222222222222,1,1
+Russia,Rhythmic Gymnastics,51,49,36,8,0.9607843137254902,0.7346938775510204,1,1
+Russia,Rowing,454,177,27,17,0.3898678414096916,0.15254237288135594,2,1
+Russia,Sailing,205,31,7,17,0.15121951219512195,0.22580645161290322,1,0
+Russia,Shooting,417,93,29,17,0.22302158273381295,0.3118279569892473,1,1
+Russia,Swimming,919,197,34,17,0.21436343852013057,0.17258883248730963,2,1
+Russia,Synchronized Swimming,73,54,54,8,0.7397260273972602,1.0,1,1
+Russia,Table Tennis,58,0,0,8,0.0,0.0,0,0
+Russia,Taekwondo,11,4,0,4,0.36363636363636365,0.0,1,1
+Russia,Tennis,94,13,4,9,0.13829787234042554,0.3076923076923077,0,0
+Russia,Trampolining,16,4,2,5,0.25,0.5,0,1
+Russia,Triathlon,20,0,0,5,0.0,0.0,0,0
+Russia,Volleyball,303,219,93,13,0.7227722772277227,0.4246575342465753,2,1
+Russia,Water Polo,215,142,22,16,0.6604651162790698,0.15492957746478872,1,1
+Russia,Weightlifting,126,97,47,15,0.7698412698412699,0.4845360824742268,1,1
+Russia,Wrestling,300,192,97,18,0.64,0.5052083333333334,2,1
+Rwanda,Athletics,39,0,0,9,0.0,0.0,0,0
+Rwanda,Cycling,6,0,0,3,0.0,0.0,0,0
+Rwanda,Judo,1,0,0,1,0.0,0.0,0,0
+Rwanda,Swimming,10,0,0,5,0.0,0.0,0,0
+Saint Kitts,Athletics,42,0,0,6,0.0,0.0,0,0
+Saint Lucia,Athletics,19,0,0,6,0.0,0.0,0,0
+Saint Lucia,Sailing,3,0,0,3,0.0,0.0,0,0
+Saint Lucia,Swimming,6,0,0,5,0.0,0.0,0,0
+Saint Vincent,Athletics,36,0,0,8,0.0,0.0,0,0
+Saint Vincent,Swimming,6,0,0,4,0.0,0.0,0,0
+Samoa,Archery,2,0,0,2,0.0,0.0,0,0
+Samoa,Athletics,13,0,0,7,0.0,0.0,0,0
+Samoa,Boxing,18,0,0,6,0.0,0.0,0,0
+Samoa,Canoeing,6,0,0,3,0.0,0.0,0,0
+Samoa,Cycling,1,0,0,1,0.0,0.0,0,0
+Samoa,Judo,3,0,0,3,0.0,0.0,0,0
+Samoa,Swimming,2,0,0,1,0.0,0.0,0,0
+Samoa,Taekwondo,2,0,0,1,0.0,0.0,0,0
+Samoa,Weightlifting,13,0,0,9,0.0,0.0,0,0
+Samoa,Wrestling,3,0,0,2,0.0,0.0,0,0
+San Marino,Archery,3,0,0,3,0.0,0.0,0,0
+San Marino,Athletics,20,0,0,11,0.0,0.0,0,0
+San Marino,Cycling,16,0,0,7,0.0,0.0,0,0
+San Marino,Gymnastics,7,0,0,1,0.0,0.0,0,0
+San Marino,Judo,9,0,0,5,0.0,0.0,0,0
+San Marino,Sailing,3,0,0,3,0.0,0.0,0,0
+San Marino,Shooting,55,0,0,14,0.0,0.0,0,0
+San Marino,Swimming,26,0,0,8,0.0,0.0,0,0
+San Marino,Tennis,2,0,0,1,0.0,0.0,0,0
+San Marino,Weightlifting,2,0,0,2,0.0,0.0,0,0
+San Marino,Wrestling,1,0,0,1,0.0,0.0,0,0
+Sao Tome and Principe,Athletics,12,0,0,6,0.0,0.0,0,0
+Sao Tome and Principe,Canoeing,3,0,0,2,0.0,0.0,0,0
+Saudi Arabia,Archery,5,0,0,2,0.0,0.0,0,0
+Saudi Arabia,Athletics,105,1,0,10,0.009523809523809525,0.0,0,0
+Saudi Arabia,Cycling,14,0,0,2,0.0,0.0,0,0
+Saudi Arabia,Equestrianism,28,5,0,5,0.17857142857142858,0.0,0,0
+Saudi Arabia,Fencing,12,0,0,3,0.0,0.0,0,0
+Saudi Arabia,Football,30,0,0,2,0.0,0.0,0,0
+Saudi Arabia,Judo,3,0,0,2,0.0,0.0,0,0
+Saudi Arabia,Shooting,14,0,0,8,0.0,0.0,0,0
+Saudi Arabia,Swimming,9,0,0,4,0.0,0.0,0,0
+Saudi Arabia,Table Tennis,2,0,0,2,0.0,0.0,0,0
+Saudi Arabia,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Saudi Arabia,Weightlifting,7,0,0,4,0.0,0.0,0,0
+Senegal,Athletics,162,1,0,14,0.006172839506172839,0.0,1,0
+Senegal,Basketball,60,0,0,5,0.0,0.0,0,0
+Senegal,Boxing,6,0,0,3,0.0,0.0,0,0
+Senegal,Canoeing,6,0,0,3,0.0,0.0,0,0
+Senegal,Fencing,6,0,0,4,0.0,0.0,0,0
+Senegal,Football,17,0,0,1,0.0,0.0,0,0
+Senegal,Judo,47,0,0,12,0.0,0.0,0,0
+Senegal,Sailing,1,0,0,1,0.0,0.0,0,0
+Senegal,Shooting,2,0,0,1,0.0,0.0,0,0
+Senegal,Swimming,24,0,0,7,0.0,0.0,0,0
+Senegal,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Senegal,Taekwondo,3,0,0,3,0.0,0.0,0,0
+Senegal,Wrestling,40,0,0,12,0.0,0.0,0,0
+Serbia,Archery,2,0,0,2,0.0,0.0,0,0
+Serbia,Art Competitions,15,0,0,3,0.0,0.0,0,0
+Serbia,Athletics,280,3,0,22,0.010714285714285714,0.0,1,0
+Serbia,Basketball,192,120,12,12,0.625,0.1,1,1
+Serbia,Boxing,47,11,3,10,0.23404255319148937,0.2727272727272727,1,1
+Serbia,Canoeing,90,9,3,15,0.1,0.3333333333333333,1,0
+Serbia,Cycling,89,0,0,16,0.0,0.0,1,0
+Serbia,Diving,4,0,0,2,0.0,0.0,0,0
+Serbia,Equestrianism,7,0,0,2,0.0,0.0,0,0
+Serbia,Fencing,27,0,0,5,0.0,0.0,0,0
+Serbia,Football,192,73,16,13,0.3802083333333333,0.2191780821917808,1,1
+Serbia,Gymnastics,647,18,5,10,0.027820710973724884,0.2777777777777778,1,0
+Serbia,Handball,145,72,43,7,0.496551724137931,0.5972222222222222,1,1
+Serbia,Judo,30,2,0,10,0.06666666666666667,0.0,0,0
+Serbia,Rhythmic Gymnastics,4,0,0,2,0.0,0.0,0,0
+Serbia,Rowing,157,13,4,16,0.08280254777070063,0.3076923076923077,1,0
+Serbia,Sailing,18,0,0,9,0.0,0.0,0,0
+Serbia,Shooting,134,9,3,16,0.06716417910447761,0.3333333333333333,1,0
+Serbia,Swimming,164,3,1,19,0.018292682926829267,0.3333333333333333,1,0
+Serbia,Table Tennis,26,4,0,7,0.15384615384615385,0.0,0,0
+Serbia,Taekwondo,5,2,1,2,0.4,0.5,0,1
+Serbia,Tennis,33,1,0,7,0.030303030303030304,0.0,0,0
+Serbia,Volleyball,106,35,11,7,0.330188679245283,0.3142857142857143,1,1
+Serbia,Water Polo,199,140,50,18,0.7035175879396985,0.35714285714285715,2,1
+Serbia,Weightlifting,5,0,0,3,0.0,0.0,0,0
+Serbia,Wrestling,88,17,5,18,0.19318181818181818,0.29411764705882354,1,0
+Seychelles,Athletics,47,0,0,9,0.0,0.0,0,0
+Seychelles,Badminton,2,0,0,1,0.0,0.0,0,0
+Seychelles,Boxing,14,0,0,7,0.0,0.0,0,0
+Seychelles,Canoeing,4,0,0,2,0.0,0.0,0,0
+Seychelles,Judo,4,0,0,4,0.0,0.0,0,0
+Seychelles,Sailing,11,0,0,6,0.0,0.0,0,0
+Seychelles,Swimming,24,0,0,7,0.0,0.0,0,0
+Seychelles,Weightlifting,5,0,0,5,0.0,0.0,0,0
+Sierra Leone,Athletics,99,0,0,11,0.0,0.0,0,0
+Sierra Leone,Boxing,9,0,0,6,0.0,0.0,0,0
+Sierra Leone,Cycling,1,0,0,1,0.0,0.0,0,0
+Sierra Leone,Swimming,3,0,0,2,0.0,0.0,0,0
+Sierra Leone,Weightlifting,2,0,0,2,0.0,0.0,0,0
+Slovakia,Archery,2,0,0,1,0.0,0.0,0,0
+Slovakia,Athletics,92,1,1,6,0.010869565217391304,1.0,0,0
+Slovakia,Badminton,2,0,0,2,0.0,0.0,0,0
+Slovakia,Basketball,12,0,0,1,0.0,0.0,0,0
+Slovakia,Boxing,2,0,0,1,0.0,0.0,0,0
+Slovakia,Canoeing,106,32,12,6,0.3018867924528302,0.375,1,1
+Slovakia,Cycling,45,0,0,6,0.0,0.0,0,0
+Slovakia,Football,18,0,0,1,0.0,0.0,0,0
+Slovakia,Gymnastics,28,0,0,6,0.0,0.0,0,0
+Slovakia,Judo,7,1,0,5,0.14285714285714285,0.0,0,0
+Slovakia,Rowing,5,0,0,3,0.0,0.0,0,0
+Slovakia,Sailing,7,0,0,4,0.0,0.0,0,0
+Slovakia,Shooting,46,5,0,6,0.10869565217391304,0.0,0,0
+Slovakia,Swimming,40,2,0,6,0.05,0.0,0,0
+Slovakia,Synchronized Swimming,6,0,0,3,0.0,0.0,0,0
+Slovakia,Table Tennis,5,0,0,3,0.0,0.0,0,0
+Slovakia,Tennis,46,0,0,6,0.0,0.0,0,0
+Slovakia,Trampolining,1,0,0,1,0.0,0.0,0,0
+Slovakia,Triathlon,3,0,0,3,0.0,0.0,0,0
+Slovakia,Water Polo,13,0,0,1,0.0,0.0,0,0
+Slovakia,Weightlifting,10,0,0,6,0.0,0.0,0,0
+Slovakia,Wrestling,13,1,0,4,0.07692307692307693,0.0,0,0
+Slovenia,Archery,9,0,0,4,0.0,0.0,0,0
+Slovenia,Athletics,97,4,1,7,0.041237113402061855,0.25,0,0
+Slovenia,Badminton,3,0,0,3,0.0,0.0,0,0
+Slovenia,Canoeing,36,2,0,7,0.05555555555555555,0.0,0,0
+Slovenia,Cycling,36,0,0,7,0.0,0.0,0,0
+Slovenia,Gymnastics,24,0,0,5,0.0,0.0,0,0
+Slovenia,Handball,47,0,0,3,0.0,0.0,0,0
+Slovenia,Judo,25,5,2,5,0.2,0.4,0,0
+Slovenia,Rowing,42,12,2,6,0.2857142857142857,0.16666666666666666,1,1
+Slovenia,Sailing,33,3,0,7,0.09090909090909091,0.0,0,0
+Slovenia,Shooting,25,3,1,7,0.12,0.3333333333333333,0,0
+Slovenia,Swimming,100,1,0,7,0.01,0.0,0,0
+Slovenia,Table Tennis,4,0,0,4,0.0,0.0,0,0
+Slovenia,Taekwondo,4,0,0,2,0.0,0.0,0,0
+Slovenia,Tennis,20,0,0,5,0.0,0.0,0,0
+Slovenia,Triathlon,2,0,0,2,0.0,0.0,0,0
+Solomon Islands,Archery,1,0,0,1,0.0,0.0,0,0
+Solomon Islands,Athletics,17,0,0,8,0.0,0.0,0,0
+Solomon Islands,Boxing,1,0,0,1,0.0,0.0,0,0
+Solomon Islands,Judo,1,0,0,1,0.0,0.0,0,0
+Solomon Islands,Weightlifting,7,0,0,7,0.0,0.0,0,0
+Somalia,Athletics,32,0,0,9,0.0,0.0,0,0
+South Africa,Archery,13,0,0,6,0.0,0.0,0,0
+South Africa,Art Competitions,21,2,0,3,0.09523809523809523,0.0,0,0
+South Africa,Athletics,376,31,8,19,0.08244680851063829,0.25806451612903225,1,0
+South Africa,Badminton,22,0,0,5,0.0,0.0,0,0
+South Africa,Baseball,24,0,0,1,0.0,0.0,0,0
+South Africa,Beach Volleyball,8,0,0,3,0.0,0.0,0,0
+South Africa,Boxing,75,19,6,15,0.25333333333333335,0.3157894736842105,1,1
+South Africa,Canoeing,40,1,0,7,0.025,0.0,0,0
+South Africa,Cycling,136,16,1,17,0.11764705882352941,0.0625,1,0
+South Africa,Diving,7,0,0,6,0.0,0.0,0,0
+South Africa,Equestrianism,5,0,0,3,0.0,0.0,0,0
+South Africa,Fencing,33,0,0,5,0.0,0.0,0,0
+South Africa,Football,66,0,0,3,0.0,0.0,0,0
+South Africa,Golf,4,0,0,1,0.0,0.0,0,0
+South Africa,Gymnastics,51,0,0,5,0.0,0.0,0,0
+South Africa,Hockey,129,0,0,5,0.0,0.0,0,0
+South Africa,Judo,8,0,0,6,0.0,0.0,0,0
+South Africa,Modern Pentathlon,11,0,0,6,0.0,0.0,0,0
+South Africa,Rhythmic Gymnastics,2,0,0,2,0.0,0.0,0,0
+South Africa,Rowing,67,8,4,12,0.11940298507462686,0.5,1,0
+South Africa,Rugby Sevens,13,13,0,1,1.0,0.0,1,1
+South Africa,Sailing,46,0,0,14,0.0,0.0,0,0
+South Africa,Shooting,102,5,0,12,0.049019607843137254,0.0,0,0
+South Africa,Swimming,291,27,9,15,0.09278350515463918,0.3333333333333333,1,0
+South Africa,Synchronized Swimming,4,0,0,1,0.0,0.0,0,0
+South Africa,Table Tennis,2,0,0,1,0.0,0.0,0,0
+South Africa,Taekwondo,1,0,0,1,0.0,0.0,0,0
+South Africa,Tennis,51,8,4,8,0.1568627450980392,0.5,0,0
+South Africa,Triathlon,13,1,0,5,0.07692307692307693,0.0,0,0
+South Africa,Tug-Of-War,5,0,0,1,0.0,0.0,0,0
+South Africa,Water Polo,17,0,0,2,0.0,0.0,0,0
+South Africa,Weightlifting,15,0,0,7,0.0,0.0,0,0
+South Africa,Wrestling,28,0,0,12,0.0,0.0,0,0
+South Korea,Archery,102,69,49,9,0.6764705882352942,0.7101449275362319,1,1
+South Korea,Athletics,243,2,1,16,0.00823045267489712,0.5,1,0
+South Korea,Badminton,112,35,11,7,0.3125,0.3142857142857143,1,1
+South Korea,Baseball,68,48,24,3,0.7058823529411765,0.5,1,1
+South Korea,Basketball,134,11,0,10,0.08208955223880597,0.0,0,0
+South Korea,Boxing,110,20,3,17,0.18181818181818182,0.15,1,0
+South Korea,Canoeing,48,0,0,7,0.0,0.0,0,0
+South Korea,Cycling,113,0,0,15,0.0,0.0,1,0
+South Korea,Diving,27,0,0,10,0.0,0.0,0,0
+South Korea,Equestrianism,54,0,0,8,0.0,0.0,0,0
+South Korea,Fencing,198,20,7,10,0.10101010101010101,0.35,1,0
+South Korea,Football,156,18,0,10,0.11538461538461539,0.0,1,0
+South Korea,Golf,6,1,1,1,0.16666666666666666,1.0,0,0
+South Korea,Gymnastics,512,9,1,12,0.017578125,0.1111111111111111,1,0
+South Korea,Handball,228,96,25,9,0.42105263157894735,0.2604166666666667,1,1
+South Korea,Hockey,225,48,0,8,0.21333333333333335,0.0,1,1
+South Korea,Judo,119,43,11,12,0.36134453781512604,0.2558139534883721,1,1
+South Korea,Modern Pentathlon,31,0,0,9,0.0,0.0,0,0
+South Korea,Rhythmic Gymnastics,7,0,0,5,0.0,0.0,0,0
+South Korea,Rowing,64,0,0,10,0.0,0.0,0,0
+South Korea,Sailing,40,0,0,9,0.0,0.0,0,0
+South Korea,Shooting,206,16,7,15,0.07766990291262135,0.4375,1,0
+South Korea,Swimming,225,4,1,12,0.017777777777777778,0.25,1,0
+South Korea,Synchronized Swimming,11,0,0,4,0.0,0.0,0,0
+South Korea,Table Tennis,101,33,4,8,0.32673267326732675,0.12121212121212122,1,1
+South Korea,Taekwondo,21,19,12,5,0.9047619047619048,0.631578947368421,1,1
+South Korea,Tennis,29,0,0,6,0.0,0.0,0,0
+South Korea,Triathlon,1,0,0,1,0.0,0.0,0,0
+South Korea,Volleyball,215,12,0,12,0.05581395348837209,0.0,1,0
+South Korea,Water Polo,13,0,0,1,0.0,0.0,0,0
+South Korea,Weightlifting,117,12,3,16,0.10256410256410256,0.25,1,0
+South Korea,Wrestling,156,36,11,17,0.23076923076923078,0.3055555555555556,1,1
+South Sudan,Athletics,3,0,0,1,0.0,0.0,0,0
+Spain,Archery,36,3,3,11,0.08333333333333333,1.0,0,0
+Spain,Art Competitions,3,0,0,3,0.0,0.0,0,0
+Spain,Athletics,637,14,3,19,0.02197802197802198,0.21428571428571427,1,0
+Spain,Badminton,11,1,1,5,0.09090909090909091,1.0,0,0
+Spain,Baseball,20,0,0,1,0.0,0.0,0,0
+Spain,Basketball,191,60,0,12,0.31413612565445026,0.0,1,1
+Spain,Basque Pelota,2,2,2,1,1.0,1.0,1,1
+Spain,Beach Volleyball,18,2,0,6,0.1111111111111111,0.0,0,0
+Spain,Boxing,72,4,0,16,0.05555555555555555,0.0,1,0
+Spain,Canoeing,192,24,7,14,0.125,0.2916666666666667,1,0
+Spain,Cycling,232,19,5,15,0.08189655172413793,0.2631578947368421,1,0
+Spain,Diving,37,0,0,12,0.0,0.0,0,0
+Spain,Equestrianism,203,11,3,19,0.054187192118226604,0.2727272727272727,1,0
+Spain,Fencing,140,1,0,12,0.007142857142857143,0.0,0,0
+Spain,Football,164,52,17,10,0.3170731707317073,0.3269230769230769,1,1
+Spain,Golf,4,0,0,1,0.0,0.0,0,0
+Spain,Gymnastics,633,4,2,14,0.00631911532385466,0.5,1,0
+Spain,Handball,206,60,0,11,0.2912621359223301,0.0,1,1
+Spain,Hockey,366,77,15,17,0.2103825136612022,0.19480519480519481,1,1
+Spain,Judo,75,6,3,12,0.08,0.5,1,0
+Spain,Modern Pentathlon,30,0,0,7,0.0,0.0,0,0
+Spain,Polo,11,5,0,2,0.45454545454545453,0.0,1,1
+Spain,Rhythmic Gymnastics,49,12,6,9,0.24489795918367346,0.5,1,1
+Spain,Rowing,135,2,0,15,0.014814814814814815,0.0,1,0
+Spain,Rugby Sevens,25,0,0,1,0.0,0.0,0,0
+Spain,Sailing,198,33,24,20,0.16666666666666666,0.7272727272727273,1,0
+Spain,Shooting,218,3,0,20,0.013761467889908258,0.0,1,0
+Spain,Swimming,438,8,2,20,0.0182648401826484,0.25,1,0
+Spain,Synchronized Swimming,49,20,0,8,0.40816326530612246,0.0,1,1
+Spain,Table Tennis,25,0,0,5,0.0,0.0,0,0
+Spain,Taekwondo,17,6,1,5,0.35294117647058826,0.16666666666666666,1,1
+Spain,Tennis,124,19,3,10,0.1532258064516129,0.15789473684210525,1,0
+Spain,Triathlon,26,1,0,5,0.038461538461538464,0.0,0,0
+Spain,Volleyball,36,0,0,2,0.0,0.0,0,0
+Spain,Water Polo,210,36,12,17,0.17142857142857143,0.3333333333333333,1,0
+Spain,Weightlifting,34,1,0,12,0.029411764705882353,0.0,0,0
+Spain,Wrestling,40,1,0,11,0.025,0.0,0,0
+Sri Lanka,Athletics,67,2,0,16,0.029850746268656716,0.0,1,0
+Sri Lanka,Badminton,5,0,0,4,0.0,0.0,0,0
+Sri Lanka,Boxing,14,0,0,7,0.0,0.0,0,0
+Sri Lanka,Cycling,1,0,0,1,0.0,0.0,0,0
+Sri Lanka,Diving,2,0,0,2,0.0,0.0,0,0
+Sri Lanka,Judo,1,0,0,1,0.0,0.0,0,0
+Sri Lanka,Sailing,4,0,0,3,0.0,0.0,0,0
+Sri Lanka,Shooting,22,0,0,10,0.0,0.0,0,0
+Sri Lanka,Swimming,25,0,0,10,0.0,0.0,0,0
+Sri Lanka,Weightlifting,4,0,0,4,0.0,0.0,0,0
+Sri Lanka,Wrestling,1,0,0,1,0.0,0.0,0,0
+Sudan,Athletics,53,1,0,12,0.018867924528301886,0.0,0,0
+Sudan,Boxing,20,0,0,5,0.0,0.0,0,0
+Sudan,Football,14,0,0,1,0.0,0.0,0,0
+Sudan,Judo,3,0,0,2,0.0,0.0,0,0
+Sudan,Shooting,6,0,0,1,0.0,0.0,0,0
+Sudan,Swimming,6,0,0,4,0.0,0.0,0,0
+Sudan,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Sudan,Weightlifting,4,0,0,3,0.0,0.0,0,0
+Suriname,Athletics,29,0,0,12,0.0,0.0,0,0
+Suriname,Badminton,3,0,0,3,0.0,0.0,0,0
+Suriname,Cycling,3,0,0,2,0.0,0.0,0,0
+Suriname,Judo,5,0,0,5,0.0,0.0,0,0
+Suriname,Swimming,29,2,1,9,0.06896551724137931,0.5,0,0
+Swaziland,Athletics,34,0,0,10,0.0,0.0,0,0
+Swaziland,Boxing,8,0,0,5,0.0,0.0,0,0
+Swaziland,Shooting,2,0,0,1,0.0,0.0,0,0
+Swaziland,Swimming,16,0,0,7,0.0,0.0,0,0
+Swaziland,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Swaziland,Weightlifting,3,0,0,2,0.0,0.0,0,0
+Sweden,Archery,68,2,0,12,0.029411764705882353,0.0,0,0
+Sweden,Art Competitions,107,4,2,3,0.037383177570093455,0.5,0,0
+Sweden,Athletics,1007,128,32,28,0.12711022840119166,0.25,2,0
+Sweden,Badminton,35,0,0,7,0.0,0.0,0,0
+Sweden,Basketball,12,0,0,1,0.0,0.0,0,0
+Sweden,Beach Volleyball,6,0,0,3,0.0,0.0,0,0
+Sweden,Boxing,77,11,0,20,0.14285714285714285,0.0,1,0
+Sweden,Canoeing,229,57,23,19,0.24890829694323144,0.40350877192982454,1,1
+Sweden,Cycling,238,48,15,26,0.20168067226890757,0.3125,1,1
+Sweden,Diving,153,21,6,25,0.13725490196078433,0.2857142857142857,1,0
+Sweden,Equestrianism,391,85,37,22,0.21739130434782608,0.43529411764705883,1,1
+Sweden,Fencing,246,26,6,24,0.10569105691056911,0.23076923076923078,1,0
+Sweden,Figure Skating,8,6,3,2,0.75,0.5,1,1
+Sweden,Football,241,60,12,15,0.24896265560165975,0.2,1,1
+Sweden,Golf,4,1,0,1,0.25,0.0,0,1
+Sweden,Gymnastics,489,103,95,18,0.21063394683026584,0.9223300970873787,2,1
+Sweden,Handball,166,61,0,9,0.3674698795180723,0.0,1,1
+Sweden,Ice Hockey,11,0,0,1,0.0,0.0,0,0
+Sweden,Judo,28,0,0,11,0.0,0.0,0,0
+Sweden,Modern Pentathlon,102,25,9,21,0.24509803921568626,0.36,1,1
+Sweden,Rhythmic Gymnastics,1,0,0,1,0.0,0.0,0,0
+Sweden,Rowing,149,10,0,19,0.06711409395973154,0.0,1,0
+Sweden,Sailing,326,113,33,25,0.34662576687116564,0.2920353982300885,2,1
+Sweden,Shooting,574,126,32,25,0.21951219512195122,0.25396825396825395,2,1
+Sweden,Swimming,745,70,9,27,0.09395973154362416,0.12857142857142856,2,0
+Sweden,Synchronized Swimming,1,0,0,1,0.0,0.0,0,0
+Sweden,Table Tennis,61,3,1,8,0.04918032786885246,0.3333333333333333,0,0
+Sweden,Taekwondo,8,0,0,4,0.0,0.0,0,0
+Sweden,Tennis,129,14,0,12,0.10852713178294573,0.0,1,0
+Sweden,Triathlon,4,1,0,4,0.25,0.0,0,1
+Sweden,Tug-Of-War,27,19,11,4,0.7037037037037037,0.5789473684210527,1,1
+Sweden,Volleyball,12,0,0,1,0.0,0.0,0,0
+Sweden,Water Polo,71,24,0,8,0.3380281690140845,0.0,1,1
+Sweden,Weightlifting,64,4,0,19,0.0625,0.0,1,0
+Sweden,Wrestling,286,86,28,25,0.3006993006993007,0.32558139534883723,1,1
+Switzerland,Aeronautics,1,1,1,1,1.0,1.0,1,1
+Switzerland,Alpinism,2,2,2,1,1.0,1.0,1,1
+Switzerland,Archery,16,0,0,6,0.0,0.0,0,0
+Switzerland,Art Competitions,158,9,3,6,0.056962025316455694,0.3333333333333333,0,0
+Switzerland,Athletics,421,8,0,25,0.019002375296912115,0.0,1,0
+Switzerland,Badminton,12,0,0,5,0.0,0.0,0,0
+Switzerland,Basketball,36,0,0,3,0.0,0.0,0,0
+Switzerland,Beach Volleyball,24,2,0,5,0.08333333333333333,0.0,0,0
+Switzerland,Boxing,38,0,0,9,0.0,0.0,0,0
+Switzerland,Canoeing,82,4,0,15,0.04878048780487805,0.0,1,0
+Switzerland,Cycling,290,26,5,21,0.0896551724137931,0.19230769230769232,1,0
+Switzerland,Diving,22,0,0,12,0.0,0.0,0,0
+Switzerland,Equestrianism,276,50,5,20,0.18115942028985507,0.1,1,0
+Switzerland,Fencing,238,23,1,22,0.09663865546218488,0.043478260869565216,1,0
+Switzerland,Figure Skating,1,0,0,1,0.0,0.0,0,0
+Switzerland,Football,43,15,0,3,0.3488372093023256,0.0,1,1
+Switzerland,Golf,2,0,0,1,0.0,0.0,0,0
+Switzerland,Gymnastics,863,84,23,23,0.09733487833140209,0.27380952380952384,2,0
+Switzerland,Handball,59,17,0,4,0.288135593220339,0.0,0,1
+Switzerland,Hockey,72,0,0,5,0.0,0.0,0,0
+Switzerland,Ice Hockey,8,0,0,1,0.0,0.0,0,0
+Switzerland,Judo,34,4,1,13,0.11764705882352941,0.25,1,0
+Switzerland,Modern Pentathlon,43,0,0,14,0.0,0.0,0,0
+Switzerland,Rhythmic Gymnastics,2,0,0,1,0.0,0.0,0,0
+Switzerland,Rowing,253,75,24,21,0.2964426877470356,0.32,1,1
+Switzerland,Sailing,160,12,3,21,0.075,0.25,1,0
+Switzerland,Shooting,296,53,22,21,0.17905405405405406,0.41509433962264153,1,0
+Switzerland,Swimming,251,1,0,21,0.00398406374501992,0.0,1,0
+Switzerland,Synchronized Swimming,25,0,0,8,0.0,0.0,0,0
+Switzerland,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Switzerland,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Switzerland,Tennis,56,6,3,10,0.10714285714285714,0.5,0,0
+Switzerland,Trampolining,2,0,0,2,0.0,0.0,0,0
+Switzerland,Triathlon,25,5,2,5,0.2,0.4,0,0
+Switzerland,Water Polo,36,0,0,5,0.0,0.0,0,0
+Switzerland,Weightlifting,40,4,0,11,0.1,0.0,0,0
+Switzerland,Wrestling,114,15,4,20,0.13157894736842105,0.26666666666666666,1,0
+Syria,Athletics,34,1,1,11,0.029411764705882353,1.0,0,0
+Syria,Boxing,23,2,0,8,0.08695652173913043,0.0,0,0
+Syria,Cycling,1,0,0,1,0.0,0.0,0,0
+Syria,Diving,6,0,0,3,0.0,0.0,0,0
+Syria,Equestrianism,7,0,0,2,0.0,0.0,0,0
+Syria,Fencing,9,0,0,1,0.0,0.0,0,0
+Syria,Football,32,0,0,2,0.0,0.0,0,0
+Syria,Gymnastics,48,0,0,1,0.0,0.0,0,0
+Syria,Judo,9,0,0,3,0.0,0.0,0,0
+Syria,Rowing,9,0,0,1,0.0,0.0,0,0
+Syria,Shooting,15,0,0,9,0.0,0.0,0,0
+Syria,Swimming,13,0,0,7,0.0,0.0,0,0
+Syria,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Syria,Triathlon,1,0,0,1,0.0,0.0,0,0
+Syria,Water Polo,10,0,0,1,0.0,0.0,0,0
+Syria,Weightlifting,19,0,0,8,0.0,0.0,0,0
+Syria,Wrestling,42,2,0,8,0.047619047619047616,0.0,0,0
+Taiwan,Archery,87,9,0,10,0.10344827586206896,0.0,0,0
+Taiwan,Athletics,128,2,0,14,0.015625,0.0,1,0
+Taiwan,Badminton,34,0,0,6,0.0,0.0,0,0
+Taiwan,Baseball,67,20,0,3,0.29850746268656714,0.0,0,1
+Taiwan,Basketball,11,0,0,1,0.0,0.0,0,0
+Taiwan,Boxing,21,0,0,9,0.0,0.0,0,0
+Taiwan,Cycling,41,0,0,12,0.0,0.0,0,0
+Taiwan,Diving,6,0,0,2,0.0,0.0,0,0
+Taiwan,Equestrianism,1,0,0,1,0.0,0.0,0,0
+Taiwan,Fencing,9,0,0,3,0.0,0.0,0,0
+Taiwan,Football,13,0,0,1,0.0,0.0,0,0
+Taiwan,Golf,4,0,0,1,0.0,0.0,0,0
+Taiwan,Gymnastics,92,0,0,5,0.0,0.0,0,0
+Taiwan,Judo,43,0,0,11,0.0,0.0,0,0
+Taiwan,Modern Pentathlon,3,0,0,2,0.0,0.0,0,0
+Taiwan,Rowing,5,0,0,4,0.0,0.0,0,0
+Taiwan,Sailing,13,0,0,8,0.0,0.0,0,0
+Taiwan,Shooting,57,0,0,14,0.0,0.0,0,0
+Taiwan,Softball,45,0,0,3,0.0,0.0,0,0
+Taiwan,Swimming,159,0,0,11,0.0,0.0,0,0
+Taiwan,Table Tennis,59,2,0,7,0.03389830508474576,0.0,0,0
+Taiwan,Taekwondo,18,8,2,5,0.4444444444444444,0.25,1,1
+Taiwan,Tennis,17,0,0,6,0.0,0.0,0,0
+Taiwan,Weightlifting,60,8,1,14,0.13333333333333333,0.125,1,0
+Taiwan,Wrestling,7,0,0,4,0.0,0.0,0,0
+Tajikistan,Archery,2,0,0,2,0.0,0.0,0,0
+Tajikistan,Athletics,11,1,1,6,0.09090909090909091,1.0,0,0
+Tajikistan,Boxing,10,1,0,5,0.1,0.0,0,0
+Tajikistan,Diving,2,0,0,1,0.0,0.0,0,0
+Tajikistan,Judo,10,1,0,4,0.1,0.0,0,0
+Tajikistan,Shooting,4,0,0,3,0.0,0.0,0,0
+Tajikistan,Swimming,7,0,0,4,0.0,0.0,0,0
+Tajikistan,Taekwondo,2,0,0,1,0.0,0.0,0,0
+Tajikistan,Weightlifting,1,0,0,1,0.0,0.0,0,0
+Tajikistan,Wrestling,11,1,0,4,0.09090909090909091,0.0,0,0
+Tanzania,Athletics,102,2,0,13,0.0196078431372549,0.0,0,0
+Tanzania,Boxing,36,0,0,8,0.0,0.0,0,0
+Tanzania,Hockey,16,0,0,1,0.0,0.0,0,0
+Tanzania,Judo,1,0,0,1,0.0,0.0,0,0
+Tanzania,Swimming,6,0,0,3,0.0,0.0,0,0
+Thailand,Archery,7,0,0,4,0.0,0.0,0,0
+Thailand,Athletics,159,0,0,15,0.0,0.0,1,0
+Thailand,Badminton,50,0,0,7,0.0,0.0,0,0
+Thailand,Basketball,9,0,0,1,0.0,0.0,0,0
+Thailand,Boxing,83,14,4,15,0.1686746987951807,0.2857142857142857,1,0
+Thailand,Canoeing,1,0,0,1,0.0,0.0,0,0
+Thailand,Cycling,50,0,0,7,0.0,0.0,0,0
+Thailand,Diving,6,0,0,3,0.0,0.0,0,0
+Thailand,Equestrianism,2,0,0,2,0.0,0.0,0,0
+Thailand,Fencing,19,0,0,3,0.0,0.0,0,0
+Thailand,Football,28,0,0,2,0.0,0.0,0,0
+Thailand,Golf,4,0,0,1,0.0,0.0,0,0
+Thailand,Judo,10,0,0,7,0.0,0.0,0,0
+Thailand,Rowing,5,0,0,4,0.0,0.0,0,0
+Thailand,Sailing,32,0,0,15,0.0,0.0,0,0
+Thailand,Shooting,118,0,0,14,0.0,0.0,0,0
+Thailand,Swimming,82,0,0,9,0.0,0.0,0,0
+Thailand,Table Tennis,7,0,0,5,0.0,0.0,0,0
+Thailand,Taekwondo,13,5,0,4,0.38461538461538464,0.0,1,1
+Thailand,Tennis,13,0,0,6,0.0,0.0,0,0
+Thailand,Weightlifting,43,11,5,11,0.2558139534883721,0.45454545454545453,1,1
+Timor-Leste,Athletics,7,0,0,4,0.0,0.0,0,0
+Timor-Leste,Cycling,1,0,0,1,0.0,0.0,0,0
+Togo,Athletics,31,0,0,10,0.0,0.0,0,0
+Togo,Boxing,8,0,0,3,0.0,0.0,0,0
+Togo,Canoeing,3,1,0,3,0.3333333333333333,0.0,0,1
+Togo,Cycling,5,0,0,2,0.0,0.0,0,0
+Togo,Judo,3,0,0,3,0.0,0.0,0,0
+Togo,Rowing,1,0,0,1,0.0,0.0,0,0
+Togo,Swimming,3,0,0,2,0.0,0.0,0,0
+Togo,Table Tennis,1,0,0,1,0.0,0.0,0,0
+Togo,Tennis,1,0,0,1,0.0,0.0,0,0
+Tonga,Archery,3,0,0,2,0.0,0.0,0,0
+Tonga,Athletics,20,0,0,8,0.0,0.0,0,0
+Tonga,Boxing,13,1,0,4,0.07692307692307693,0.0,0,0
+Tonga,Judo,1,0,0,1,0.0,0.0,0,0
+Tonga,Swimming,3,0,0,2,0.0,0.0,0,0
+Tonga,Taekwondo,1,0,0,1,0.0,0.0,0,0
+Tonga,Weightlifting,4,0,0,4,0.0,0.0,0,0
+Trinidad,Athletics,261,33,7,17,0.12643678160919541,0.21212121212121213,1,0
+Trinidad,Badminton,1,0,0,1,0.0,0.0,0,0
+Trinidad,Boxing,5,0,0,4,0.0,0.0,0,0
+Trinidad,Cycling,50,0,0,13,0.0,0.0,0,0
+Trinidad,Gymnastics,4,0,0,1,0.0,0.0,0,0
+Trinidad,Judo,1,0,0,1,0.0,0.0,0,0
+Trinidad,Rowing,1,0,0,1,0.0,0.0,0,0
+Trinidad,Sailing,9,0,0,6,0.0,0.0,0,0
+Trinidad,Shooting,10,0,0,6,0.0,0.0,0,0
+Trinidad,Swimming,33,1,0,10,0.030303030303030304,0.0,0,0
+Trinidad,Table Tennis,2,0,0,2,0.0,0.0,0,0
+Trinidad,Taekwondo,2,0,0,2,0.0,0.0,0,0
+Trinidad,Weightlifting,9,3,0,6,0.3333333333333333,0.0,1,1
+Tunisia,Athletics,74,5,1,13,0.06756756756756757,0.2,1,0
+Tunisia,Basketball,12,0,0,1,0.0,0.0,0,0
+Tunisia,Beach Volleyball,2,0,0,1,0.0,0.0,0,0
+Tunisia,Boxing,47,2,0,13,0.0425531914893617,0.0,0,0
+Tunisia,Canoeing,8,0,0,2,0.0,0.0,0,0
+Tunisia,Cycling,10,0,0,3,0.0,0.0,0,0
+Tunisia,Fencing,27,1,0,7,0.037037037037037035,0.0,0,0
+Tunisia,Football,65,0,0,4,0.0,0.0,0,0
+Tunisia,Gymnastics,8,0,0,2,0.0,0.0,0,0
+Tunisia,Handball,72,0,0,5,0.0,0.0,0,0
+Tunisia,Judo,38,0,0,9,0.0,0.0,0,0
+Tunisia,Modern Pentathlon,6,0,0,1,0.0,0.0,0,0
+Tunisia,Rowing,8,0,0,4,0.0,0.0,0,0
+Tunisia,Sailing,7,0,0,4,0.0,0.0,0,0
+Tunisia,Shooting,5,0,0,3,0.0,0.0,0,0
+Tunisia,Swimming,30,3,2,8,0.1,0.6666666666666666,0,0
+Tunisia,Table Tennis,17,0,0,6,0.0,0.0,0,0
+Tunisia,Taekwondo,8,1,0,4,0.125,0.0,0,0
+Tunisia,Tennis,6,0,0,4,0.0,0.0,0,0
+Tunisia,Volleyball,70,0,0,6,0.0,0.0,0,0
+Tunisia,Weightlifting,12,0,0,7,0.0,0.0,0,0
+Tunisia,Wrestling,29,1,0,9,0.034482758620689655,0.0,0,0
+Turkey,Archery,57,0,0,9,0.0,0.0,0,0
+Turkey,Art Competitions,3,0,0,2,0.0,0.0,0,0
+Turkey,Athletics,224,6,1,20,0.026785714285714284,0.16666666666666666,1,0
+Turkey,Badminton,2,0,0,2,0.0,0.0,0,0
+Turkey,Basketball,42,0,0,4,0.0,0.0,0,0
+Turkey,Boxing,68,5,0,12,0.07352941176470588,0.0,0,0
+Turkey,Canoeing,2,0,0,1,0.0,0.0,0,0
+Turkey,Cycling,40,0,0,8,0.0,0.0,0,0
+Turkey,Diving,2,0,0,1,0.0,0.0,0,0
+Turkey,Equestrianism,39,0,0,5,0.0,0.0,0,0
+Turkey,Fencing,35,0,0,7,0.0,0.0,0,0
+Turkey,Football,71,0,0,6,0.0,0.0,0,0
+Turkey,Gymnastics,11,0,0,2,0.0,0.0,0,0
+Turkey,Judo,33,2,1,10,0.06060606060606061,0.5,0,0
+Turkey,Modern Pentathlon,1,0,0,1,0.0,0.0,0,0
+Turkey,Rowing,3,0,0,2,0.0,0.0,0,0
+Turkey,Sailing,44,0,0,12,0.0,0.0,0,0
+Turkey,Shooting,38,0,0,12,0.0,0.0,0,0
+Turkey,Swimming,100,0,0,11,0.0,0.0,0,0
+Turkey,Table Tennis,6,0,0,3,0.0,0.0,0,0
+Turkey,Taekwondo,12,7,1,5,0.5833333333333334,0.14285714285714285,1,1
+Turkey,Tennis,1,0,0,1,0.0,0.0,0,0
+Turkey,Volleyball,12,0,0,1,0.0,0.0,0,0
+Turkey,Weightlifting,66,12,8,14,0.18181818181818182,0.6666666666666666,1,0
+Turkey,Wrestling,266,63,29,20,0.23684210526315788,0.4603174603174603,1,1
+Turkmenistan,Athletics,11,0,0,6,0.0,0.0,0,0
+Turkmenistan,Boxing,7,0,0,5,0.0,0.0,0,0
+Turkmenistan,Judo,10,0,0,6,0.0,0.0,0,0
+Turkmenistan,Shooting,5,0,0,4,0.0,0.0,0,0
+Turkmenistan,Swimming,8,0,0,4,0.0,0.0,0,0
+Turkmenistan,Table Tennis,2,0,0,2,0.0,0.0,0,0
+Turkmenistan,Weightlifting,9,0,0,5,0.0,0.0,0,0
+Turkmenistan,Wrestling,2,0,0,2,0.0,0.0,0,0
+UK,Archery,133,13,2,13,0.09774436090225563,0.15384615384615385,1,0
+UK,Art Competitions,339,9,3,6,0.02654867256637168,0.3333333333333333,0,0
+UK,Athletics,2244,338,78,29,0.15062388591800357,0.23076923076923078,2,0
+UK,Badminton,83,6,0,7,0.07228915662650602,0.0,0,0
+UK,Basketball,37,0,0,2,0.0,0.0,0,0
+UK,Beach Volleyball,6,0,0,2,0.0,0.0,0,0
+UK,Boxing,224,56,18,24,0.25,0.32142857142857145,1,1
+UK,Canoeing,262,22,6,19,0.08396946564885496,0.2727272727272727,1,0
+UK,Cricket,21,21,12,1,1.0,0.5714285714285714,1,1
+UK,Cycling,634,182,59,28,0.2870662460567823,0.3241758241758242,2,1
+UK,Diving,221,13,2,25,0.058823529411764705,0.15384615384615385,1,0
+UK,Equestrianism,378,83,26,21,0.21957671957671956,0.3132530120481928,1,1
+UK,Fencing,590,28,1,28,0.04745762711864407,0.03571428571428571,1,0
+UK,Figure Skating,21,10,1,2,0.47619047619047616,0.1,1,1
+UK,Football,161,45,36,11,0.2795031055900621,0.8,1,1
+UK,Golf,11,3,1,3,0.2727272727272727,0.3333333333333333,0,1
+UK,Gymnastics,1127,51,2,27,0.04525288376220053,0.0392156862745098,2,0
+UK,Handball,28,0,0,1,0.0,0.0,0,0
+UK,Hockey,422,163,57,18,0.3862559241706161,0.3496932515337423,2,1
+UK,Jeu De Paume,9,2,0,1,0.2222222222222222,0.0,0,1
+UK,Judo,111,19,0,13,0.17117117117117117,0.0,1,0
+UK,Lacrosse,12,12,0,1,1.0,0.0,1,1
+UK,Modern Pentathlon,106,11,4,24,0.10377358490566038,0.36363636363636365,1,0
+UK,Motorboating,16,6,6,1,0.375,1.0,0,1
+UK,Polo,30,30,11,5,1.0,0.36666666666666664,1,1
+UK,Racquets,12,10,3,1,0.8333333333333334,0.3,1,1
+UK,Rhythmic Gymnastics,13,0,0,5,0.0,0.0,0,0
+UK,Rowing,708,270,109,27,0.3813559322033898,0.40370370370370373,2,1
+UK,Rugby,30,30,0,2,1.0,0.0,1,1
+UK,Rugby Sevens,24,12,0,1,0.5,0.0,1,1
+UK,Sailing,335,143,71,24,0.42686567164179107,0.4965034965034965,2,1
+UK,Shooting,471,99,29,24,0.21019108280254778,0.29292929292929293,2,1
+UK,Swimming,1291,127,23,27,0.0983733539891557,0.18110236220472442,2,0
+UK,Synchronized Swimming,30,0,0,6,0.0,0.0,0,0
+UK,Table Tennis,34,0,0,6,0.0,0.0,0,0
+UK,Taekwondo,17,6,2,5,0.35294117647058826,0.3333333333333333,1,1
+UK,Tennis,191,67,25,14,0.3507853403141361,0.373134328358209,1,1
+UK,Trampolining,9,1,0,5,0.1111111111111111,0.0,0,0
+UK,Triathlon,29,5,2,5,0.1724137931034483,0.4,0,0
+UK,Tug-Of-War,40,40,16,3,1.0,0.4,1,1
+UK,Volleyball,24,0,0,1,0.0,0.0,0,0
+UK,Water Polo,107,28,27,11,0.2616822429906542,0.9642857142857143,1,1
+UK,Weightlifting,128,7,1,23,0.0546875,0.14285714285714285,1,0
+UK,Wrestling,198,17,3,23,0.08585858585858586,0.17647058823529413,1,0
+USA,Archery,175,57,22,13,0.32571428571428573,0.38596491228070173,1,1
+USA,Art Competitions,562,9,4,5,0.01601423487544484,0.4444444444444444,1,0
+USA,Athletics,3211,1080,542,28,0.33634381812519465,0.5018518518518519,3,1
+USA,Badminton,33,0,0,7,0.0,0.0,0,0
+USA,Baseball,88,68,24,4,0.7727272727272727,0.35294117647058826,1,1
+USA,Basketball,341,341,281,18,1.0,0.8240469208211144,2,1
+USA,Beach Volleyball,52,20,12,6,0.38461538461538464,0.6,1,1
+USA,Boxing,255,113,50,23,0.44313725490196076,0.4424778761061947,2,1
+USA,Canoeing,311,21,8,18,0.06752411575562701,0.38095238095238093,1,0
+USA,Cycling,523,78,16,26,0.1491395793499044,0.20512820512820512,1,0
+USA,Diving,278,140,48,26,0.5035971223021583,0.34285714285714286,2,1
+USA,Equestrianism,456,132,30,23,0.2894736842105263,0.22727272727272727,2,1
+USA,Fencing,690,69,4,25,0.1,0.057971014492753624,1,0
+USA,Figure Skating,5,1,0,2,0.2,0.0,0,0
+USA,Football,301,102,66,17,0.3388704318936877,0.6470588235294118,2,1
+USA,Golf,116,38,12,3,0.3275862068965517,0.3157894736842105,1,1
+USA,Gymnastics,2013,194,60,23,0.09637357178340784,0.30927835051546393,2,0
+USA,Handball,142,0,0,7,0.0,0.0,0,0
+USA,Hockey,182,30,0,10,0.16483516483516483,0.0,1,0
+USA,Ice Hockey,11,11,0,1,1.0,0.0,1,1
+USA,Jeu De Paume,2,1,1,1,0.5,1.0,1,1
+USA,Judo,105,14,2,12,0.13333333333333333,0.14285714285714285,1,0
+USA,Lacrosse,12,12,0,1,1.0,0.0,1,1
+USA,Modern Pentathlon,98,17,0,23,0.17346938775510204,0.0,1,0
+USA,Polo,12,12,2,3,1.0,0.16666666666666666,1,1
+USA,Rhythmic Gymnastics,21,0,0,7,0.0,0.0,0,0
+USA,Roque,4,3,1,1,0.75,0.3333333333333333,1,1
+USA,Rowing,828,375,186,24,0.4528985507246377,0.496,2,1
+USA,Rugby,36,36,36,3,1.0,1.0,1,1
+USA,Rugby Sevens,25,0,0,1,0.0,0.0,0,0
+USA,Sailing,296,140,60,21,0.47297297297297297,0.42857142857142855,2,1
+USA,Shooting,645,193,117,24,0.2992248062015504,0.6062176165803109,2,1
+USA,Softball,60,60,45,4,1.0,0.75,1,1
+USA,Swimming,1638,1078,649,28,0.6581196581196581,0.6020408163265306,3,1
+USA,Synchronized Swimming,62,30,16,9,0.4838709677419355,0.5333333333333333,1,1
+USA,Table Tennis,69,0,0,8,0.0,0.0,0,0
+USA,Taekwondo,18,9,2,5,0.5,0.2222222222222222,1,1
+USA,Tennis,200,62,34,13,0.31,0.5483870967741935,1,1
+USA,Trampolining,8,0,0,5,0.0,0.0,0,0
+USA,Triathlon,29,2,1,5,0.06896551724137931,0.5,0,0
+USA,Tug-Of-War,35,14,5,3,0.4,0.35714285714285715,1,1
+USA,Volleyball,263,120,36,11,0.45627376425855515,0.3,1,1
+USA,Water Polo,317,150,32,22,0.47318611987381703,0.21333333333333335,2,1
+USA,Weightlifting,153,42,16,20,0.27450980392156865,0.38095238095238093,1,1
+USA,Wrestling,383,128,52,26,0.3342036553524804,0.40625,2,1
+Uganda,Archery,1,0,0,1,0.0,0.0,0,0
+Uganda,Athletics,143,3,2,15,0.02097902097902098,0.6666666666666666,1,0
+Uganda,Badminton,2,0,0,2,0.0,0.0,0,0
+Uganda,Boxing,71,4,0,13,0.056338028169014086,0.0,0,0
+Uganda,Cycling,2,0,0,1,0.0,0.0,0,0
+Uganda,Hockey,17,0,0,1,0.0,0.0,0,0
+Uganda,Swimming,10,0,0,6,0.0,0.0,0,0
+Uganda,Table Tennis,7,0,0,3,0.0,0.0,0,0
+Uganda,Weightlifting,7,0,0,5,0.0,0.0,0,0
+Ukraine,Archery,63,8,1,6,0.12698412698412698,0.125,0,0
+Ukraine,Athletics,390,21,2,6,0.05384615384615385,0.09523809523809523,0,0
+Ukraine,Badminton,18,0,0,5,0.0,0.0,0,0
+Ukraine,Basketball,12,0,0,1,0.0,0.0,0,0
+Ukraine,Boxing,43,14,4,6,0.32558139534883723,0.2857142857142857,1,1
+Ukraine,Canoeing,63,12,3,6,0.19047619047619047,0.25,0,0
+Ukraine,Cycling,101,6,0,6,0.0594059405940594,0.0,0,0
+Ukraine,Diving,63,4,0,6,0.06349206349206349,0.0,0,0
+Ukraine,Equestrianism,26,0,0,3,0.0,0.0,0,0
+Ukraine,Fencing,91,12,5,6,0.13186813186813187,0.4166666666666667,0,0
+Ukraine,Gymnastics,336,23,5,6,0.06845238095238096,0.21739130434782608,0,0
+Ukraine,Handball,15,15,0,1,1.0,0.0,1,1
+Ukraine,Judo,44,3,0,6,0.06818181818181818,0.0,0,0
+Ukraine,Modern Pentathlon,15,2,0,6,0.13333333333333333,0.0,0,0
+Ukraine,Rhythmic Gymnastics,34,5,1,6,0.14705882352941177,0.2,0,0
+Ukraine,Rowing,81,12,4,6,0.14814814814814814,0.3333333333333333,0,0
+Ukraine,Sailing,46,11,2,6,0.2391304347826087,0.18181818181818182,0,1
+Ukraine,Shooting,98,8,4,6,0.08163265306122448,0.5,0,0
+Ukraine,Swimming,203,7,4,6,0.034482758620689655,0.5714285714285714,0,0
+Ukraine,Synchronized Swimming,18,0,0,5,0.0,0.0,0,0
+Ukraine,Table Tennis,10,0,0,4,0.0,0.0,0,0
+Ukraine,Taekwondo,3,0,0,2,0.0,0.0,0,0
+Ukraine,Tennis,23,0,0,5,0.0,0.0,0,0
+Ukraine,Trampolining,9,2,1,5,0.2222222222222222,0.5,0,1
+Ukraine,Triathlon,11,0,0,5,0.0,0.0,0,0
+Ukraine,Volleyball,12,0,0,1,0.0,0.0,0,0
+Ukraine,Water Polo,13,0,0,1,0.0,0.0,0,0
+Ukraine,Weightlifting,49,8,3,6,0.16326530612244897,0.375,0,0
+Ukraine,Wrestling,89,15,3,6,0.16853932584269662,0.2,0,0
+United Arab Emirates,Athletics,23,0,0,8,0.0,0.0,0,0
+United Arab Emirates,Cycling,16,0,0,4,0.0,0.0,0,0
+United Arab Emirates,Equestrianism,1,0,0,1,0.0,0.0,0,0
+United Arab Emirates,Football,18,0,0,1,0.0,0.0,0,0
+United Arab Emirates,Judo,5,1,0,3,0.2,0.0,0,0
+United Arab Emirates,Sailing,1,0,0,1,0.0,0.0,0,0
+United Arab Emirates,Shooting,16,1,1,6,0.0625,1.0,0,0
+United Arab Emirates,Swimming,61,0,0,8,0.0,0.0,0,0
+United Arab Emirates,Taekwondo,1,0,0,1,0.0,0.0,0,0
+United Arab Emirates,Weightlifting,2,0,0,2,0.0,0.0,0,0
+Uruguay,Art Competitions,8,0,0,3,0.0,0.0,0,0
+Uruguay,Athletics,51,0,0,15,0.0,0.0,0,0
+Uruguay,Basketball,81,24,0,7,0.2962962962962963,0.0,1,1
+Uruguay,Boxing,36,1,0,12,0.027777777777777776,0.0,0,0
+Uruguay,Canoeing,4,0,0,2,0.0,0.0,0,0
+Uruguay,Cycling,103,1,0,16,0.009708737864077669,0.0,1,0
+Uruguay,Diving,1,0,0,1,0.0,0.0,0,0
+Uruguay,Equestrianism,9,0,0,3,0.0,0.0,0,0
+Uruguay,Fencing,45,0,0,7,0.0,0.0,0,0
+Uruguay,Football,47,31,31,3,0.6595744680851063,1.0,1,1
+Uruguay,Judo,6,0,0,5,0.0,0.0,0,0
+Uruguay,Modern Pentathlon,11,0,0,4,0.0,0.0,0,0
+Uruguay,Rowing,44,6,0,16,0.13636363636363635,0.0,1,0
+Uruguay,Sailing,32,0,0,14,0.0,0.0,0,0
+Uruguay,Shooting,7,0,0,5,0.0,0.0,0,0
+Uruguay,Swimming,69,0,0,14,0.0,0.0,0,0
+Uruguay,Tennis,2,0,0,2,0.0,0.0,0,0
+Uruguay,Water Polo,15,0,0,2,0.0,0.0,0,0
+Uruguay,Weightlifting,4,0,0,4,0.0,0.0,0,0
+Uzbekistan,Athletics,94,0,0,6,0.0,0.0,0,0
+Uzbekistan,Boxing,50,14,4,6,0.28,0.2857142857142857,1,1
+Uzbekistan,Canoeing,47,0,0,6,0.0,0.0,0,0
+Uzbekistan,Cycling,5,0,0,4,0.0,0.0,0,0
+Uzbekistan,Fencing,3,0,0,3,0.0,0.0,0,0
+Uzbekistan,Gymnastics,35,1,0,5,0.02857142857142857,0.0,0,0
+Uzbekistan,Judo,42,6,0,6,0.14285714285714285,0.0,0,0
+Uzbekistan,Rhythmic Gymnastics,7,0,0,2,0.0,0.0,0,0
+Uzbekistan,Rowing,6,0,0,3,0.0,0.0,0,0
+Uzbekistan,Shooting,20,0,0,6,0.0,0.0,0,0
+Uzbekistan,Swimming,56,0,0,6,0.0,0.0,0,0
+Uzbekistan,Table Tennis,2,0,0,2,0.0,0.0,0,0
+Uzbekistan,Taekwondo,11,0,0,4,0.0,0.0,0,0
+Uzbekistan,Tennis,6,0,0,5,0.0,0.0,0,0
+Uzbekistan,Trampolining,5,1,0,5,0.2,0.0,0,0
+Uzbekistan,Weightlifting,23,1,1,6,0.043478260869565216,1.0,0,0
+Uzbekistan,Wrestling,52,10,4,6,0.19230769230769232,0.4,0,0
+Vanuatu,Archery,1,0,0,1,0.0,0.0,0,0
+Vanuatu,Athletics,25,0,0,7,0.0,0.0,0,0
+Vanuatu,Boxing,2,0,0,2,0.0,0.0,0,0
+Vanuatu,Judo,2,0,0,2,0.0,0.0,0,0
+Vanuatu,Rowing,1,0,0,1,0.0,0.0,0,0
+Vanuatu,Table Tennis,4,0,0,3,0.0,0.0,0,0
+Venezuela,Archery,5,0,0,3,0.0,0.0,0,0
+Venezuela,Art Competitions,1,0,0,1,0.0,0.0,0,0
+Venezuela,Athletics,117,2,0,15,0.017094017094017096,0.0,1,0
+Venezuela,Basketball,22,0,0,2,0.0,0.0,0,0
+Venezuela,Beach Volleyball,4,0,0,2,0.0,0.0,0,0
+Venezuela,Boxing,82,6,1,16,0.07317073170731707,0.16666666666666666,1,0
+Venezuela,Canoeing,5,0,0,1,0.0,0.0,0,0
+Venezuela,Cycling,104,1,0,15,0.009615384615384616,0.0,1,0
+Venezuela,Diving,18,0,0,10,0.0,0.0,0,0
+Venezuela,Equestrianism,10,0,0,4,0.0,0.0,0,0
+Venezuela,Fencing,90,1,1,10,0.011111111111111112,1.0,0,0
+Venezuela,Football,16,0,0,1,0.0,0.0,0,0
+Venezuela,Golf,1,0,0,1,0.0,0.0,0,0
+Venezuela,Gymnastics,23,0,0,4,0.0,0.0,0,0
+Venezuela,Judo,40,0,0,11,0.0,0.0,0,0
+Venezuela,Rowing,2,0,0,2,0.0,0.0,0,0
+Venezuela,Sailing,21,0,0,10,0.0,0.0,0,0
+Venezuela,Shooting,57,1,0,13,0.017543859649122806,0.0,0,0
+Venezuela,Softball,15,0,0,1,0.0,0.0,0,0
+Venezuela,Swimming,161,1,0,13,0.006211180124223602,0.0,0,0
+Venezuela,Synchronized Swimming,5,0,0,4,0.0,0.0,0,0
+Venezuela,Table Tennis,12,0,0,7,0.0,0.0,0,0
+Venezuela,Taekwondo,10,2,0,4,0.2,0.0,0,0
+Venezuela,Tennis,11,0,0,4,0.0,0.0,0,0
+Venezuela,Triathlon,2,0,0,2,0.0,0.0,0,0
+Venezuela,Volleyball,22,0,0,1,0.0,0.0,0,0
+Venezuela,Weightlifting,27,1,0,10,0.037037037037037035,0.0,0,0
+Venezuela,Wrestling,35,0,0,9,0.0,0.0,0,0
+Vietnam,Athletics,34,0,0,12,0.0,0.0,0,0
+Vietnam,Badminton,5,0,0,3,0.0,0.0,0,0
+Vietnam,Boxing,3,0,0,2,0.0,0.0,0,0
+Vietnam,Canoeing,1,0,0,1,0.0,0.0,0,0
+Vietnam,Cycling,32,0,0,5,0.0,0.0,0,0
+Vietnam,Fencing,13,0,0,6,0.0,0.0,0,0
+Vietnam,Gymnastics,14,0,0,3,0.0,0.0,0,0
+Vietnam,Judo,6,0,0,4,0.0,0.0,0,0
+Vietnam,Rowing,6,0,0,3,0.0,0.0,0,0
+Vietnam,Shooting,28,2,1,11,0.07142857142857142,0.5,0,0
+Vietnam,Swimming,46,0,0,13,0.0,0.0,0,0
+Vietnam,Table Tennis,2,0,0,2,0.0,0.0,0,0
+Vietnam,Taekwondo,9,1,0,4,0.1111111111111111,0.0,0,0
+Vietnam,Weightlifting,9,1,0,4,0.1111111111111111,0.0,0,0
+Vietnam,Wrestling,8,0,0,4,0.0,0.0,0,0
+"Virgin Islands, British",Athletics,31,0,0,9,0.0,0.0,0,0
+"Virgin Islands, British",Sailing,10,0,0,4,0.0,0.0,0,0
+"Virgin Islands, British",Swimming,1,0,0,1,0.0,0.0,0,0
+"Virgin Islands, US",Athletics,61,0,0,12,0.0,0.0,0,0
+"Virgin Islands, US",Boxing,10,0,0,7,0.0,0.0,0,0
+"Virgin Islands, US",Cycling,2,0,0,2,0.0,0.0,0,0
+"Virgin Islands, US",Equestrianism,4,0,0,4,0.0,0.0,0,0
+"Virgin Islands, US",Fencing,5,0,0,1,0.0,0.0,0,0
+"Virgin Islands, US",Sailing,48,1,0,12,0.020833333333333332,0.0,0,0
+"Virgin Islands, US",Shooting,23,0,0,9,0.0,0.0,0,0
+"Virgin Islands, US",Swimming,81,0,0,10,0.0,0.0,0,0
+"Virgin Islands, US",Weightlifting,1,0,0,1,0.0,0.0,0,0
+"Virgin Islands, US",Wrestling,4,0,0,1,0.0,0.0,0,0
+Yemen,Athletics,24,0,0,9,0.0,0.0,0,0
+Yemen,Boxing,2,0,0,1,0.0,0.0,0,0
+Yemen,Gymnastics,4,0,0,1,0.0,0.0,0,0
+Yemen,Judo,10,0,0,5,0.0,0.0,0,0
+Yemen,Swimming,3,0,0,3,0.0,0.0,0,0
+Yemen,Taekwondo,2,0,0,2,0.0,0.0,0,0
+Yemen,Wrestling,3,0,0,2,0.0,0.0,0,0
+Zambia,Athletics,70,1,0,13,0.014285714285714285,0.0,0,0
+Zambia,Badminton,1,0,0,1,0.0,0.0,0,0
+Zambia,Boxing,51,1,0,13,0.0196078431372549,0.0,0,0
+Zambia,Fencing,1,0,0,1,0.0,0.0,0,0
+Zambia,Football,32,0,0,2,0.0,0.0,0,0
+Zambia,Judo,12,0,0,5,0.0,0.0,0,0
+Zambia,Swimming,14,0,0,6,0.0,0.0,0,0
+Zambia,Wrestling,2,0,0,1,0.0,0.0,0,0
+Zimbabwe,Archery,9,0,0,3,0.0,0.0,0,0
+Zimbabwe,Athletics,86,0,0,12,0.0,0.0,0,0
+Zimbabwe,Boxing,15,0,0,6,0.0,0.0,0,0
+Zimbabwe,Cycling,9,0,0,4,0.0,0.0,0,0
+Zimbabwe,Diving,18,0,0,8,0.0,0.0,0,0
+Zimbabwe,Equestrianism,1,0,0,1,0.0,0.0,0,0
+Zimbabwe,Football,17,0,0,1,0.0,0.0,0,0
+Zimbabwe,Hockey,30,15,15,2,0.5,1.0,1,1
+Zimbabwe,Judo,7,0,0,3,0.0,0.0,0,0
+Zimbabwe,Rowing,7,0,0,4,0.0,0.0,0,0
+Zimbabwe,Sailing,10,0,0,5,0.0,0.0,0,0
+Zimbabwe,Shooting,22,0,0,7,0.0,0.0,0,0
+Zimbabwe,Swimming,67,7,2,11,0.1044776119402985,0.2857142857142857,0,0
+Zimbabwe,Tennis,19,0,0,6,0.0,0.0,0,0
+Zimbabwe,Triathlon,3,0,0,3,0.0,0.0,0,0
+Zimbabwe,Weightlifting,1,0,0,1,0.0,0.0,0,0
